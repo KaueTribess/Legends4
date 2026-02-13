@@ -1,0 +1,1 @@
+Indica que a magia é simples e não exige muito além de afinidade com o elemento para ser conjurada.

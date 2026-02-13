@@ -1,0 +1,1 @@
+Indica que é necessário ter seu alvo visível para conjurar a magia.

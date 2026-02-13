@@ -1,0 +1,1 @@
+Indica que a magia é um pouco complexa e exige um pouco de experiência para ser conjurada.

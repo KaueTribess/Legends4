@@ -1,0 +1,1 @@
+Indica que é necessário um teste com a [[Perícia]] da magia contra a [[Classe de Armadura]] do alvo para acerta-lo. Acertando seu alvo apenas caso seja bem sucedido na conjuração da magia e passe sua [[Classe de Armadura]].

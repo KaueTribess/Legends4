@@ -1,0 +1,1 @@
+Indica que é necessário um item material para conjurar a magia. Caso possua um valor numérico entre parênteses ao seu lado, indica a quantidade gasta ao conjurar a magia, caso contrário, não consome o item.

@@ -1,0 +1,1 @@
+Indica que é necessário ter o movimento de pelo menos um braço livre para conjurar a magia.
