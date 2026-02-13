@@ -1,0 +1,1 @@
+Indica que a magia exige bastante atenção e cuidado, podendo ser conjurada utilizando uma [[Ação Padrão]] e uma [[Ação Bônus]].

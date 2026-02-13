@@ -1,0 +1,1 @@
+Indica que a magia exige a atenção completa do conjurador, podendo ser conjurada utilizando seu turno completo ([[Ação Padrão]], [[Ação Bônus]], [[Reação]] e [[Ação de Movimento]]).
