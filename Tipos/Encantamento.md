@@ -1,1 +1,0 @@
-Indica que a magia pode ser conjurada rapidamente utilizando uma [[Ação Bônus]], ou com uma [[Reação]] de [[Contra-Ataque]] caso possua a habilidade [[Contra-Ataque Mágico]].
