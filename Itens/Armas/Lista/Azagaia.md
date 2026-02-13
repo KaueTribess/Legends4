@@ -4,19 +4,16 @@
 	- Distância: 1d6 [[Perfurante]].
 - Peso: 0.5 Kg.
 - Valores:
-	- Compra: 50 Coroas.
-	- Venda: 25 Coroas.
+	- Compra: 40 Coroas.
+	- Venda: 20 Coroas.
 - Propriedades:
 	- [[Arremesso]].
-		- Efetivo: 6 metros.
-		- Máximo: 18 metros.
-	- [[Leve]].
+		- Efetivo: 12 metros.
+		- Máximo: 36 metros.
 - Truques:
-	- [[Finta]].
 	- [[Golpe Profundo]].
-	- [[Guarda]].
 - Modificações:
 	- ...
 
 ### Descrição
-Uma arma curta de lâmina afiada, ideal para ataques rápidos e furtivos, possuindo uma empunhadura simples e uma lâmina entre 15 e 30 centímetros.
+Uma arma pequena similar a uma lança, projetada para arremessos em oponentes a média distância.
