@@ -3,18 +3,17 @@
 ### Características
 - Dano Base: 
 	- Corpo a Corpo: 1d8 [[Contundente]].
-- Peso: 1 Kg.
+- Peso: 1.5 Kg.
 - Valores:
 	- Compra: 60 Coroas.
 	- Venda: 30 Coroas.
-- Propriedades:
-	- [[Duas Mãos]].
+- Propriedades: 
+	- [[Versátil|Versátil(1d10)]].
 - Truques:
-	- [[Finta]].
+	- [[Abridor de Latas]].
 	- [[Golpe Surpresa]].
-	- [[Guarda]].
 - Modificações:
 	- ...
 
 ### Descrição
-Uma arma simples porém muito complexa, requerendo árduo treinamento para utilizá-la de forma eficiente.
+Uma arma com cabeça de metal resistente, projetado para ignorar armaduras menos resistentes em combate direto.

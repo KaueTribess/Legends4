@@ -1,3 +1,5 @@
+[[Armas|<- Armas]]
+
 ### Características
 - Dano Base: 
 	- Corpo a Corpo: 1d4 [[Contundente]].
@@ -15,8 +17,9 @@
 		- [[Flechas]].
 - Truques:
 	- [[Barragem]].
+	- [[Disparo Evasivo]].
 - Modificações:
 	- ...
 
 ### Descrição
-Uma arma de longo alcance fácil de manusear, projetada para disparar flechas a curto alcance.
+Uma arma de longo alcance fácil de manusear, projetada para disparar flechas a médio alcance.

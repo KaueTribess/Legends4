@@ -2,19 +2,20 @@
 
 ### Características
 - Dano Base: 
-	- Corpo a Corpo: 1d8 [[Contundente]].
+	- Corpo a Corpo: 1d6 [[Perfurante]].
 - Peso: 1 Kg.
 - Valores:
 	- Compra: 60 Coroas.
 	- Venda: 30 Coroas.
 - Propriedades:
-	- [[Duas Mãos]].
+	- [[Leve]].
 - Truques:
+	- [[Ancorar]].
 	- [[Finta]].
-	- [[Golpe Surpresa]].
+	- [[Golpe Profundo]].
 	- [[Guarda]].
 - Modificações:
 	- ...
 
 ### Descrição
-Uma arma simples porém muito complexa, requerendo árduo treinamento para utilizá-la de forma eficiente.
+Uma arma de lâmina curta, ideal para ataques rápidos e manobras ágeis.

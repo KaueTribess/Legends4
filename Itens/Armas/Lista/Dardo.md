@@ -4,21 +4,19 @@
 - Dano Base: 
 	- Corpo a Corpo: 1d4 [[Perfurante]].
 	- Distância: 1d4 [[Perfurante]].
-- Peso: 0.5 Kg.
+- Peso: 0.25 Kg.
 - Valores:
-	- Compra: 50 Coroas.
-	- Venda: 25 Coroas.
+	- Compra: 40 Coroas.
+	- Venda: 20 Coroas.
 - Propriedades:
-	- [[Arremesso]].
+	- [[Arremesso]]:
 		- Efetivo: 6 metros.
 		- Máximo: 18 metros.
 	- [[Leve]].
 - Truques:
 	- [[Finta]].
-	- [[Golpe Profundo]].
-	- [[Guarda]].
 - Modificações:
 	- ...
 
 ### Descrição
-Uma arma curta de lâmina afiada, ideal para ataques rápidos e furtivos, possuindo uma empunhadura simples e uma lâmina entre 15 e 30 centímetros.
+Um pequeno objeto pontiagudo utilizado como arma de arremesso ou para praticar sua mira depois de algumas bebidas na taverna.

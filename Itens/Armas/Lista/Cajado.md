@@ -3,17 +3,17 @@
 ### Características
 - Dano Base: 
 	- Corpo a Corpo: 1d4 [[Contundente]].
-- Peso: 1 Kg.
+- Peso: 2 Kg.
 - Valores:
 	- Compra: 40 Coroas.
 	- Venda: 20 Coroas.
 - Propriedades:
-	- [[Leve]].
+	- [[Versátil|Versátil(1d6)]].
 - Truques:
-	- [[Aparar]].
-	- [[Golpe Surpresa]].
+	- [[Catalisador Arcano]].
+	- [[Guarda]].
 - Modificações:
 	- ...
 
 ### Descrição
-Uma arma com um foco em proteger seu usuário de ataques corpo a corpo, não tendo suas capacidades reconhecidas por muitos mercenários.
+Uma arma de haste simples, mas com grande potencial como catalisador arcano.

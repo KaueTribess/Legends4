@@ -7,13 +7,13 @@
 - Valores:
 	- Compra: 40 Coroas.
 	- Venda: 20 Coroas.
-- Propriedades:
+- Propriedades: 
 	- [[Leve]].
 - Truques:
-	- [[Aparar]].
+	- [[Finta]].
 	- [[Golpe Surpresa]].
 - Modificações:
 	- ...
 
 ### Descrição
-Uma arma com um foco em proteger seu usuário de ataques corpo a corpo, não tendo suas capacidades reconhecidas por muitos mercenários.
+Uma arma pequena de uma mão, geralmente feita de madeira, muito utilizada por lutadores marciais e, mais recentemente, por guardas de grandes cidades.

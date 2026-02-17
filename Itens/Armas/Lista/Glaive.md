@@ -13,9 +13,9 @@
 	- [[Pesada]].
 - Truques:
 	- [[Brandir]].
-	- [[Quebra Guarda]]
+	- [[Golpe Profundo]].
 - Modificações:
 	- ...
 
 ### Descrição
-Uma arma de haste comprida com uma lâmina muito similar a de um machado, muito eficaz pela sua versatilidade em combate.
+Uma arma longa com uma lâmina similar a de uma espada curta na ponta de sua haste, projetada para cortes com maior alcance.

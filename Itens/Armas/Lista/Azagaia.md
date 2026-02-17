@@ -1,3 +1,5 @@
+[[Armas|<- Armas]]
+
 ### Características
 - Dano Base: 
 	- Corpo a Corpo: 1d6 [[Perfurante]].
