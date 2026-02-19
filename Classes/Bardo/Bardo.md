@@ -37,6 +37,7 @@
 
 ### Equipamento Inicial
 - Coroas: 150 Coroas.
+- Ferramentas: 1 Instrumento musical.
 - Magias: 2 magias [[Simples]] dos seus elementos proficientes.
 
 ### Progressão

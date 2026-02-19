@@ -19,7 +19,7 @@
 	- [[Martelo de Guerra]].
 	- [[Porrete]].
 	- [[Soqueira]].
-	- [[Soqueira de Espinhos]].
+	- [[Soqueira com Espinhos]].
 - Elementos: Nenhum
 - Ferramentas:
 	- ...
@@ -32,6 +32,7 @@
 	- [[Percepção]].
 
 ### Equipamento Inicial
+- Armas: [[Porrete]]
 - Coroas: 120 Coroas.
 - Magias: Nenhuma.
 

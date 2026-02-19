@@ -5,8 +5,8 @@
 	- Corpo a Corpo: 1d4 [[Contundente]].
 - Peso: 1 Kg.
 - Valores:
-	- Compra: 20 Coroas.
-	- Venda: 40 Coroas.
+	- Compra: 30 Coroas.
+	- Venda: 15 Coroas.
 - Propriedades: Nenhuma.
 - Truques:
 	- [[Finta]].
