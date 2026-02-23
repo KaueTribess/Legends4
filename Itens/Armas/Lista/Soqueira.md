@@ -12,6 +12,7 @@
 	- [[Leve]].
 - Truques:
 	- [[Finta]].
+	- [[Golpe em Sequência]].
 	- [[Golpe Surpresa]].
 	- [[Investida]].
 - Modificações:

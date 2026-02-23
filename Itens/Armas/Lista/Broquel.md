@@ -11,6 +11,7 @@
 	- [[Leve]].
 - Truques:
 	- [[Aparar]].
+	- [[Golpe em Sequência]].
 	- [[Golpe Surpresa]].
 - Modificações:
 	- ...

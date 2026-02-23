@@ -6,8 +6,8 @@
 	- Distância: 1d6 [[Perfurante]].
 - Peso: 1 Kg.
 - Valores:
-	- Compra: 70 Coroas.
-	- Venda: 35 Coroas.
+	- Compra: 60 Coroas.
+	- Venda: 30 Coroas.
 - Propriedades:
 	- [[Carregador|Carregador(1)]].
 	- [[Disparo]]:
@@ -18,7 +18,6 @@
 		- [[Virotes]].
 - Truques:
 	- [[Disparo Evasivo]].
-	- [[Finta]].
 	- [[Recarga Rápida]].
 - Modificações:
 	- ...

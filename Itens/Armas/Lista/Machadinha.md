@@ -16,6 +16,7 @@
 - Truques:
 	- [[Ceifadora]].
 	- [[Finta]].
+	- [[Golpe em Sequência]].
 	- [[Golpe Profundo]].
 - Modificações:
 	- ...

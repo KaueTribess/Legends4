@@ -14,6 +14,7 @@
 		- Máximo: 22.5 metros.
 	- [[Leve]].
 - Truques:
+	- [[Golpe em Sequência]].
 	- [[Retorno]].
 - Modificações:
 	- ...

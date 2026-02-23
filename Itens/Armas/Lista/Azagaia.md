@@ -12,7 +12,9 @@
 	- [[Arremesso]].
 		- Efetivo: 12 metros.
 		- Máximo: 36 metros.
+	- [[Leve]].
 - Truques:
+	- [[Finta]].
 	- [[Golpe Profundo]].
 - Modificações:
 	- ...

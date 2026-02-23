@@ -18,6 +18,7 @@
 		- [[Balotes]].
 - Truques:
 	- [[Disparo Evasivo]].
+	- [[Golpe Profundo]].
 	- [[Golpe Surpresa]].
 	- [[Recarga Rápida]].
 - Modificações:

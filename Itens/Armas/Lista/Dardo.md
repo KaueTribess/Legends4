@@ -6,15 +6,14 @@
 	- Distância: 1d4 [[Perfurante]].
 - Peso: 0.25 Kg.
 - Valores:
-	- Compra: 40 Coroas.
-	- Venda: 20 Coroas.
+	- Compra: 30 Coroas.
+	- Venda: 15 Coroas.
 - Propriedades:
 	- [[Arremesso]]:
 		- Efetivo: 6 metros.
 		- Máximo: 18 metros.
 	- [[Leve]].
-- Truques:
-	- [[Finta]].
+- Truques: Nenhum.
 - Modificações:
 	- ...
 

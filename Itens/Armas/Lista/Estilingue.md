@@ -15,10 +15,10 @@
 	- [[Munição]]:
 		- [[Pedras]].
 		- [[Balotes]].
+	- [[Leve]].
 - Truques:
 	- [[Disparo Evasivo]].
 	- [[Disparo Poderoso]].
-	- [[Finta]].
 - Modificações:
 	- ...
 
