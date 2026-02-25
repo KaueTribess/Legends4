@@ -12,7 +12,7 @@
 - Truques:
 	- [[Finta]].
 	- [[Golpe Surpresa]].
-	- [[Guarda]].
+	- [[Sistemas/Legends 4/Itens/Armas/Truques de Arma/Lista/Guarda|Guarda]].
 - Modificações:
 	- ...
 

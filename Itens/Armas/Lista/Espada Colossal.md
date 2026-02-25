@@ -15,7 +15,7 @@
 	- [[Ancorar]].
 	- [[Brandir]].
 	- [[Exibição Intimidante]].
-	- [[Guarda]].
+	- [[Sistemas/Legends 4/Itens/Armas/Truques de Arma/Lista/Guarda|Guarda]].
 	- [[Quebra Guarda]].
 - Modificações:
 	- ...
