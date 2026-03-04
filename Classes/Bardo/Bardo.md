@@ -13,7 +13,6 @@
 	- [[Adaga]].
 	- [[Besta de Mão]].
 	- [[Dardo]].
-	- [[Espada Curta]].
 	- [[Rapieira]].
 - Elementos: 2 dentre seus elementos de afinidade.
 - Ferramentas:
@@ -37,7 +36,6 @@
 
 ### Equipamento Inicial
 - Coroas: 150 Coroas.
-- Ferramentas: 1 Instrumento musical.
 - Magias: 2 magias [[Simples]] dos seus elementos proficientes.
 
 ### Progressão
@@ -47,18 +45,18 @@
 - Nível 2:
 	- [[Musicista Arcano]].
 - Nível 3:
-	- [[Apresentação Relaxante]].
+	- [[Centro das Atenções]].
 - Nível 4:
-	- [[Artista Inspirador]].
+	- [[Estimulação de Combate]].
 - Nível 5:
 	- [[Desencorajar]].
 - Nível 6:
-	- [[Estimulação de Combate]].
-- Nível 7:
-	- [[Centro das Atenções]].
-- Nível 8:
-	- [[Inspiração Absoluta]].
-- Nível 9:
 	- [[Metrônomo]].
+- Nível 7:
+	- [[Aura Inspiradora]].
+- Nível 8:
+	- [[Auto Inspiração]].
+- Nível 9:
+	- [[Inspiração Absoluta]].
 - Nível 10:
 	- [[Celebridade]].

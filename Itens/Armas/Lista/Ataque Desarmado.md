@@ -3,11 +3,8 @@
 ### Características
 - Dano Base: 
 	- Corpo a Corpo: 1.
-- Peso: 0 Kg.
-- Valores:
-	- Compra: 0 Coroas.
-	- Venda: 0 Coroas.
 - Propriedades:
+	- [[Fixa]].
 	- [[Leve]].
 - Truques:
 	- [[Finta]].
