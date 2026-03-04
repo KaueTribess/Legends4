@@ -1,5 +1,5 @@
-> Combatentes ferozes, conhecidos por sua força bruta, resistência excepcional e por canalizarem sua fúria interior para aprimorar seus instintos de combate primitivos em batalha.
-> São geralmente julgados por seu intelecto limitado e seus costumes simples mas exagerados, mas estão longe de serem maus.
+> Combatentes ferozes, conhecidos por sua força bruta, resistência excepcional e por canalizarem sua fúria interior para aprimorar seus instintos primitivos em batalha.
+> São geralmente julgados por seu intelecto limitado e seus costumes simples mais exagerados, mas estão longe de serem maus.
 
 ### Status
 - Dado de Vida: 1d8.
@@ -32,7 +32,6 @@
 	- [[Percepção]].
 
 ### Equipamento Inicial
-- Armas: [[Porrete]]
 - Coroas: 120 Coroas.
 - Magias: Nenhuma.
 
