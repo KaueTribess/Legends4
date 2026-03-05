@@ -1,5 +1,3 @@
-[[W.I.P]]
-
 [[Origens|<- Origens]]
 
 ### Descrição
@@ -7,4 +5,4 @@ Você foi moldado pelo treino, serviu a um exército, uma companhia mercenária,
 
 ### Habilidades
 - [[Sistemas/Legends 4/Origens/Lista/Soldado|Soldado]].
-- ???
+- [[Treinamento Árduo]].

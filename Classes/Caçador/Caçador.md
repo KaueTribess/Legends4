@@ -1,3 +1,5 @@
+[[Classes|<- Classes]]
+
 > São rastreadores natos, se especializando em diferentes habitats e presas, seja uma criatura na floresta ou um fugitivo procurado, desde que possua uma recompensa, terá um caçador atrás.
 > Possuem um foco inabalável, podendo esperar por horas pela oportunidade de atacar sua presa, muitas vezes preparando até armadilhas para garantir seu sucesso.
 
@@ -48,18 +50,20 @@
 - Nível 3:
 	- [[Rastrear Presa]].
 - Nível 4:
-	- [[Presa Abatida]].
+	- [[Ambiente de Caça]].
+	- [[Instinto Predatório]].
 - Nível 5:
-	- [[Mimetismo]].
+	- [[Presa Abatida]].
 - Nível 6:
 	- [[Ambiente de Caça]].
-	- [[Disparo em Sequência Melhorado]].
+	- [[Mimetismo]].
 - Nível 7:
 	- [[Marca Persistente]].
 - Nível 8:
-	- [[Mãos Hábeis]].
+	- [[Ambiente de Caça]].
+	- [[Passo do Caçador]].
 - Nível 9:
-	- [[A Lei do Mais Forte]].
+	- [[Emboscada Calculada]].
 - Nível 10:
 	- [[Ambiente de Caça]].
 	- [[Predador]].

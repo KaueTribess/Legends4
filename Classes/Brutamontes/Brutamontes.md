@@ -1,3 +1,5 @@
+[[Classes|<- Classes]]
+
 > Combatentes ferozes, conhecidos por sua força bruta, resistência excepcional e por canalizarem sua fúria interior para aprimorar seus instintos primitivos em batalha.
 > São geralmente julgados por seu intelecto limitado e seus costumes simples mais exagerados, mas estão longe de serem maus.
 

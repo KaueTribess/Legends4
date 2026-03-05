@@ -1,3 +1,5 @@
+[[Classes|<- Classes]]
+
 > Músicos, atores ou contadores de histórias, estão sempre dispostos a divulgar suas narrativas, seja em conversas de bar ou em palcos para multidões. 
 > Utilizam suas magias ilusórias para criar verdadeiros espetáculos, e estão sempre em busca de novas histórias para inspirar suas próximas performances. 
 

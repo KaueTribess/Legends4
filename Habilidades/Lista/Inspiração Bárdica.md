@@ -8,4 +8,4 @@
 - Repetível: Não.
 
 ### Descrição
-Causa o efeito [[Inspirado]] em uma [[Criatura]] que você possa lhe ver ou ouvir por 1 rodada.
+Causa o efeito [[Inspirado]] em uma [[Criatura]], a até 15 metros, que possa lhe ver ou ouvir por 1 rodada.
