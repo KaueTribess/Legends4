@@ -9,7 +9,7 @@
 	- Venda: 35 Coroas.
 - Propriedades:
 	- [[Fixa]].
-	- [[Pesada]].
+	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Pesada]].
 	- [[Versátil|Versátil(1d10)]].
 - Truques:
 	- [[Bloquear]].

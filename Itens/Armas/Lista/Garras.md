@@ -9,7 +9,7 @@
 	- Venda: 25 Coroas.
 - Propriedades:
 	- [[Fixa]].
-	- [[Leve]].
+	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Leve]].
 - Truques:
 	- [[Finta]].
 	- [[Golpe em Sequência]].

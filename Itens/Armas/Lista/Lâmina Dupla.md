@@ -9,7 +9,7 @@
 	- Venda: 40 Coroas.
 - Propriedades:
 	- [[Duas Mãos]].
-	- [[Pesada]].
+	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Pesada]].
 - Truques:
 	- [[Ancorar]].
 	- [[Finta]].

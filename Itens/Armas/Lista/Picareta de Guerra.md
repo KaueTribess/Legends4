@@ -8,7 +8,7 @@
 	- Compra: 70 Coroas.
 	- Venda: 35 Coroas.
 - Propriedades: 
-	- [[Pesada]].
+	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Pesada]].
 	- [[Versátil|Versátil(1d10)]].
 - Truques:
 	- [[Abridor de Latas]].

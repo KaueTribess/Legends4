@@ -15,7 +15,7 @@
 	- [[Duas Mãos]].
 	- [[Munição]]:
 		- [[Flechas]].
-	- [[Pesada]].
+	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Pesada]].
 - Truques:
 	- [[Disparo Poderoso]].
 - Modificações:

@@ -16,7 +16,7 @@
 	- [[Duas Mãos]].
 	- [[Munição]]:
 		- [[Balotes]].
-	- [[Pesada]].
+	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Pesada]].
 - Truques:
 	- [[Golpe Profundo]].
 	- [[Golpe Surpresa]].

@@ -16,7 +16,7 @@
 	- [[Duas Mãos]].
 	- [[Munição]]:
 		- [[Balotes]].
-	- [[Pesada]].
+	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Pesada]].
 - Truques:
 	- [[Abridor de Latas]].
 - Modificações:

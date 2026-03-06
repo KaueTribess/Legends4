@@ -9,7 +9,7 @@
 	- Venda: 45 Coroas.
 - Propriedades: 
 	- [[Duas Mãos]].
-	- [[Pesada]].
+	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Pesada]].
 - Truques:
 	- [[Brandir]].
 	- [[Ceifadora]].

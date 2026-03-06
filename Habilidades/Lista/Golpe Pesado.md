@@ -5,4 +5,4 @@
 - Repetível: Não.
 
 ### Descrição
-Adiciona o Truque de Arma [[Sistemas/Legends 4/Itens/Armas/Truques de Arma/Lista/Golpe Pesado|Golpe Pesado]] a todas as suas armas que possuam a propriedade [[Pesada]].
+Adiciona o Truque de Arma [[Sistemas/Legends 4/Itens/Armas/Truques de Arma/Lista/Golpe Pesado|Golpe Pesado]] a todas as suas armas que possuam a propriedade [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Pesada]].

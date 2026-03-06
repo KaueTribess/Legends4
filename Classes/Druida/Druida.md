@@ -9,7 +9,7 @@
 
 ### Proficiências
 - Armaduras: 
-	- [[Armaduras Leves]].
+	- [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Leve]].
 - Armas: 
 	- [[Arco Curto]].
 	- [[Arco Longo]].

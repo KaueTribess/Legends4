@@ -13,7 +13,7 @@
 	- [[Disparo]]:
 		- Efetivo: 9 metros.
 		- Máximo: 27 metros.
-	- [[Leve]].
+	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Leve]].
 	- [[Munição]]:
 		- [[Virotes]].
 - Truques:

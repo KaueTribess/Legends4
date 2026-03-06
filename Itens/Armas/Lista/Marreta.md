@@ -9,7 +9,7 @@
 	- Venda: 50 Coroas.
 - Propriedades: 
 	- [[Duas Mãos]].
-	- [[Pesada]].
+	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Pesada]].
 - Truques:
 	- [[Abridor de Latas]].
 	- [[Brandir]].

@@ -10,7 +10,7 @@
 
 ### Proficiências
 - Armaduras: 
-	- [[Armaduras Leves]].
+	- [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Leve]].
 - Armas: 
 	- [[Clava Grande]].
 	- [[Espada Colossal]].

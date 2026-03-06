@@ -5,7 +5,7 @@
 	- Corpo a Corpo: 1.
 - Propriedades:
 	- [[Fixa]].
-	- [[Leve]].
+	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Leve]].
 - Truques:
 	- [[Finta]].
 	- [[Golpe em Sequência]].

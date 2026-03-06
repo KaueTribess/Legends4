@@ -16,7 +16,7 @@
 	- [[Duas Mãos]].
 	- [[Munição]]:
 		- [[Virotes]].
-	- [[Pesada]].
+	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Pesada]].
 - Truques:
 	- [[Disparo Poderoso]].
 	- [[Golpe Profundo]].

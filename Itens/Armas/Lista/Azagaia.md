@@ -12,7 +12,7 @@
 	- [[Arremesso]].
 		- Efetivo: 12 metros.
 		- Máximo: 36 metros.
-	- [[Leve]].
+	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Leve]].
 - Truques:
 	- [[Finta]].
 	- [[Golpe Profundo]].
