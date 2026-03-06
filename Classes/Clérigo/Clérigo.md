@@ -48,11 +48,11 @@
 - Nível 2:
 	- [[Quebrar Selo (Proteção)]].
 - Nível 3:
-	- [[Fé Inabalável]].
-- Nível 4:
 	- [[Selamento Ágil]].
-- Nível 5:
+- Nível 4:
 	- [[Quebrar Selo (Regeneração)]].
+- Nível 5:
+	- [[Crença Guiada]].
 - Nível 6:
 	- [[Multi-Selos]].
 - Nível 7:

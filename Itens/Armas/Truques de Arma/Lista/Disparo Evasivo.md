@@ -3,8 +3,8 @@
 ### Características
 - Tipo: Ativa
 - Custo:
-	- [[Ação Livre]].
-	- 5 [[Pontos de Energia]].
+	- Ação: [[Ação Livre]].
+	- Energia: 5 [[Pontos de Energia]].
 
 ### Descrição
 Sua arma é veloz, permitindo disparos rápidos em oponentes após desviar de seus ataques.
