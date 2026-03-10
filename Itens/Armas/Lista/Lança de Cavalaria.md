@@ -9,7 +9,7 @@
 	- Venda: 50 Coroas.
 - Propriedades:
 	- [[Alcance]].
-	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Pesada]].
+	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Pesada|Pesada]].
 - Truques:
 	- [[Abridor de Latas]].
 	- [[Golpe Profundo]].

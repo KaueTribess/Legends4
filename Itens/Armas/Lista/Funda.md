@@ -15,7 +15,7 @@
 	- [[Munição]]:
 		- [[Pedras]].
 		- [[Balotes]].
-	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Leve]].
+	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Leve|Leve]].
 - Truques:
 	- [[Disparo Poderoso]].
 	- [[Finta]].

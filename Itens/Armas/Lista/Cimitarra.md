@@ -8,7 +8,7 @@
 	- Compra: 60 Coroas.
 	- Venda: 30 Coroas.
 - Propriedades:
-	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Leve]].
+	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Leve|Leve]].
 - Truques:
 	- [[Ancorar]].
 	- [[Finta]].

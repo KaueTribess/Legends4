@@ -10,7 +10,7 @@
 - Propriedades: 
 	- [[Alcance]].
 	- [[Duas Mãos]].
-	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Pesada]].
+	- [[Sistemas/Legends 4/Itens/Armas/Propriedades/Lista/Pesada|Pesada]].
 - Truques:
 	- [[Golpe Profundo]].
 	- [[Investida]].

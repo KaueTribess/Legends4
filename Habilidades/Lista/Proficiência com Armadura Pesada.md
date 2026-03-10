@@ -5,4 +5,4 @@
 - Repetível: Não.
 
 ### Descrição
-Recebe proficiência com [[Armaduras Pesadas]].
+Recebe proficiência com armaduras [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Pesada|Pesadas]].

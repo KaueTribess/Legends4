@@ -5,4 +5,4 @@
 - Repetível: Não.
 
 ### Descrição
-Recebe proficiência com [[Armaduras Médias]].
+Recebe proficiência com armaduras [[Média|Médias]].

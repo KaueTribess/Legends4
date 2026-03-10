@@ -5,4 +5,4 @@
 - Repetível: Sim.
 
 ### Descrição
-Recebe proficiência com um tipo de arma de sua escolha.
+Recebe proficiência com um tipo de [[Armas|Arma]] de sua escolha.
