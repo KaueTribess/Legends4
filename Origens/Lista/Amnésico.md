@@ -6,3 +6,6 @@ Você tem memórias confusas sobre seu passado, onde tudo é turvo e você não 
 ### Habilidades
 - [[Sistemas/Legends 4/Habilidades/Lista/Amnésico|Amnésico]].
 - [[Lapso de Memória]].
+
+### Itens
+- Nenhum.

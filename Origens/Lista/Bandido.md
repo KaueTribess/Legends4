@@ -6,3 +6,8 @@ Você foi criado nas sombras, possuindo um histórico de atividades ilegais, sej
 ### Habilidades
 - [[Sistemas/Legends 4/Habilidades/Lista/Bandido|Bandido]].
 - [[Escapista]].
+
+### Itens
+- 1 dentre:
+	- 2x [[Gazua]].
+	- 1x [[Porrete]].

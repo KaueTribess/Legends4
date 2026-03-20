@@ -6,3 +6,6 @@ Você viajou o mundo como um comerciante, fazendo negociações enquanto descobr
 ### Habilidades
 - [[Sistemas/Legends 4/Habilidades/Lista/Comerciante|Comerciante]].
 - [[Negociante Nato]].
+
+### Itens
+- 1x [[Mochila de Viagem]].

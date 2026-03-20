@@ -6,3 +6,6 @@ Você treinou e protegeu uma comunidade, seja um pequeno vilarejo ou uma grande 
 ### Habilidades
 - [[Sistemas/Legends 4/Habilidades/Lista/Guarda|Guarda]].
 - [[Vigilante]].
+
+### Itens
+- 1x [[Escudo Médio]].

@@ -15,4 +15,4 @@
 - [[Imunidade|Imunidades]]: Nenhuma.
 
 ### Descrição
-**Uma armadura de peso médio feita de aneis de metais na intenção de bloquear ataques de lâminas.**
+Uma armadura de peso médio feita de aneis de metais na intenção de bloquear ataques de lâminas.

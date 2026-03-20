@@ -4,14 +4,14 @@ Origem: [[Climática]].
 [[Cenário]].
 
 ### Atributos
-- Custo de Energia: 20 PE
-- Acerto: [[Automático]]
-- Perícia: [[Crença]](5)
-- Dificuldade: 8
+- Acerto: [[Automático]].
+- Dificuldade: 8.
+- Energia: 20 [[Pontos de Energia]].
+- Perícia: [[Crença]] (5).
 
 ### Componentes
-- [[Somático]]
-- [[Verbal]]
+- [[Somático]].
+- [[Verbal]].
 
 ### Descrição
 Ventos poderosos são convocados nos céus, afastando as nuvens e deixando o céu limpo e aberto, cancelando outras magias de origem [[Climática]].

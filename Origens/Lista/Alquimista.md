@@ -8,3 +8,6 @@ Você trabalhou em laboratórios e estudou diversos alquimistas, aprendendo a cr
 ### Habilidades
 - [[Sistemas/Legends 4/Habilidades/Lista/Alquimista|Alquimista]].
 - ???
+
+### Itens
+- 1x [[Kit de Alquimia]].

@@ -6,3 +6,6 @@ Você passou um longo período da sua vida trabalhando duro em fazendas ou curra
 ### Habilidades
 - [[Sistemas/Legends 4/Habilidades/Lista/Fazendeiro|Fazendeiro]].
 - [[Despertador Biológico]].
+
+### Itens
+- 1x [[Forcado]].

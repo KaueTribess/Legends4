@@ -6,3 +6,8 @@ Você foi um dos poucos sobreviventes de uma catástrofe, seja ela um incêndio,
 ### Habilidades
 - [[Sistemas/Legends 4/Habilidades/Lista/Sobrevivente|Sobrevivente]].
 - [[Hipervigilante]].
+
+### Itens
+- 1x [[Antidoto]].
+- 2x [[Bandagem]].
+- 1x [[Poção de Cura Pequena]].

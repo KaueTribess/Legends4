@@ -4,10 +4,10 @@ Um(a) {tipo da magia} {complexidade da magia} de {elemento da magia}.
 {marcadores}
 
 ### Atributos
-- Custo de Energia:
 - Acerto:
-- Perícia:
 - Dificuldade:
+- Energia:
+- Perícia:
 
 ### Componentes
 Exemplo

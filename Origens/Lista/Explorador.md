@@ -6,3 +6,7 @@ Você passou anos em ambientes selvagens, explorando o desconhecido e aprendendo
 ### Habilidades
 - [[Sistemas/Legends 4/Habilidades/Lista/Explorador|Explorador]].
 - [[Conservando Recursos]].
+
+### Itens
+- 3x [[Ração]].
+- 2x [[Frasco de Água]].

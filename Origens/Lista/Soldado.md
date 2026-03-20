@@ -6,3 +6,6 @@ Você foi moldado pelo treino, serviu a um exército, uma companhia mercenária,
 ### Habilidades
 - [[Sistemas/Legends 4/Origens/Lista/Soldado|Soldado]].
 - [[Treinamento Árduo]].
+
+### Itens
+- 1x [[Armadura de Couro]].
