@@ -37,7 +37,7 @@
 	- [[Persuasão]].
 
 ### Equipamento Inicial
-- Coroas: 150 Coroas.
+- 60x [[Coroa|Coroas]].
 - Magias: 2 magias [[Simples]] dos seus elementos proficientes.
 
 ### Progressão

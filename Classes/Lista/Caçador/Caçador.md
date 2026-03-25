@@ -39,7 +39,7 @@
 	- [[Prestidigitação]].
 
 ### Equipamento Inicial
-- Coroas: 180 Coroas.
+- 90x [[Coroa|Coroas]].
 - Magias: Nenhuma.
 
 ### Progressão

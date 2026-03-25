@@ -28,7 +28,7 @@
 	- [[Precisão]].
 
 ### Equipamento Inicial
-- Coroas: 150 Coroas.
+- 60x [[Coroa|Coroas]].
 - Magias: Nenhuma.
 
 ### Progressão

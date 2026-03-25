@@ -8,4 +8,5 @@ Você foi moldado pelo treino, serviu a um exército, uma companhia mercenária,
 - [[Treinamento Árduo]].
 
 ### Itens
+- 60x [[Coroa|Coroas]].
 - 1x [[Armadura de Couro]].

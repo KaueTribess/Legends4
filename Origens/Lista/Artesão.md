@@ -10,5 +10,6 @@ Você trabalhou em oficinas ou estúdios, criando itens manuais e aprendendo a s
 - ???
 
 ### Itens
+- 60x [[Coroa|Coroas]].
+- 3x [[Frasco de Óleo]].
 - 1x [[Kit de Engenharia]].
-- 1x [[Frasco de Óleo]].

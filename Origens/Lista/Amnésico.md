@@ -8,4 +8,5 @@ Você tem memórias confusas sobre seu passado, onde tudo é turvo e você não 
 - [[Lapso de Memória]].
 
 ### Itens
-- Nenhum.
+- 30x [[Coroa|Coroas]].
+- 1x Item ligado a sua história (Combinar com o mestre).

@@ -8,6 +8,8 @@ Você foi um dos poucos sobreviventes de uma catástrofe, seja ela um incêndio,
 - [[Hipervigilante]].
 
 ### Itens
+- 60x [[Coroa|Coroas]].
 - 1x [[Antidoto]].
 - 2x [[Bandagem]].
 - 1x [[Poção de Cura Pequena]].
+- 2x [[Ração]].

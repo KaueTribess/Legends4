@@ -10,7 +10,8 @@ Você se destaca dos demais com seus talentos únicos, seja cantando, pintando, 
 - ???
 
 ### Itens
-- 2 dentre:
+- 90x [[Coroa|Coroas]].
+- 1 dentre:
 	- 1x [[Instrumento]].
 	- 1x [[Kit de Carpintaria]].
 	- 1x [[Kit de Costura]].

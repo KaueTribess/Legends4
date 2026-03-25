@@ -1,4 +1,4 @@
-[[Ferramentas|<- Ferramentas]]
+[[Diversos|<- Diversos]]
 
 ### Características
 - Conectável: Não.

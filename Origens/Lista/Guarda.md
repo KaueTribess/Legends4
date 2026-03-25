@@ -8,4 +8,5 @@ Você treinou e protegeu uma comunidade, seja um pequeno vilarejo ou uma grande 
 - [[Vigilante]].
 
 ### Itens
+- 60x [[Coroa|Coroas]].
 - 1x [[Escudo Médio]].

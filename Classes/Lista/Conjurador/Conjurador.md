@@ -29,7 +29,7 @@
 	- [[Prestidigitação]].
 
 ### Equipamento Inicial
-- Coroas: 150 Coroas.
+- 60x [[Coroa|Coroas]].
 - Magias: 4 magias [[Simples]] dos seus elementos proficientes.
 
 ### Progressão

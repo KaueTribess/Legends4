@@ -8,5 +8,6 @@ Você é um servo devoto a sua divindade, dedicando sua vida aos seus deveres e 
 - [[Fé Inabalável]].
 
 ### Itens
-- 1x [[Símbolo Sagrado]].
+- 30x [[Coroa|Coroas]].
 - 1x [[Frasco de Água Sagrada]].
+- 1x [[Símbolo Sagrado]].

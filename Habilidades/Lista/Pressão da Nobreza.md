@@ -5,4 +5,4 @@
 - Repetível: Não.
 
 ### Descrição
-Recebe 150 [[Coroas]] a mais em seu equipamento inicial.
+Foi treinado para manter a compostura sob pressão. Recebe [[Resistência]] ao efeito [[Amedrontado]].

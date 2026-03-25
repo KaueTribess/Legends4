@@ -10,4 +10,5 @@ Você trabalhou em laboratórios e estudou diversos alquimistas, aprendendo a cr
 - ???
 
 ### Itens
+- 60x [[Coroa|Coroas]].
 - 1x [[Kit de Alquimia]].

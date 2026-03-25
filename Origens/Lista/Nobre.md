@@ -5,7 +5,7 @@ Você vem de uma família abastada, onde se acostumou com a vida politica e os b
 
 ### Habilidades
 - [[Sistemas/Legends 4/Habilidades/Lista/Nobre|Nobre]].
-- [[Berço de Ouro]].
+- [[Pressão da Nobreza]].
 
 ### Itens
-- Nenhum.
+- 160x [[Coroa|Coroas]].

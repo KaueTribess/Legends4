@@ -8,5 +8,6 @@ Você passou grande parte do seu tempo pescando, adquirindo as perícias e técn
 - [[Pesca Paciente]].
 
 ### Itens
-- 1x [[Ração]].
+- 60x [[Coroa|Coroas]].
+- 2x [[Ração]].
 - 1x [[Vara de Pesca]].

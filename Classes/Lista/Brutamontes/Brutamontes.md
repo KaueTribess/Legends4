@@ -34,7 +34,7 @@
 	- [[Percepção]].
 
 ### Equipamento Inicial
-- Coroas: 120 Coroas.
+- 30x [[Coroa|Coroas]].
 - Magias: Nenhuma.
 
 ### Progressão
