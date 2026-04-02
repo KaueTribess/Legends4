@@ -3,7 +3,7 @@ Um [[Feitiço]] [[Avançada|Avançado]] de [[Sistemas/Legends 4/Magias/Grupos/Pr
 [[Dano]], [[Debuff]], [[Distância]].
 
 ### Atributos
-- Acerto: [[Rolagem]].
+- Acerto: [[Sistemas/Legends 4/Magias/Acerto/Rolagem|Rolagem]].
 - Dificuldade: 8.
 - Energia: 20 [[Pontos de Energia]].
 - Perícia: [[Arcanismo]] (6).

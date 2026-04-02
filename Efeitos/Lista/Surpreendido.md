@@ -1,8 +1,8 @@
 [[Efeitos|<- Efeitos]]
 
 ### Características
-- Tipo: Negativo.
-- Duração: 1 Rodada.
+- **Tipo:** Negativo.
+- **Duração:** 1 rodada.
 
 ### Descrição
-Fica surpreendido com o ataque inimigo. Perde todas as suas [[Ações]].
+A [[Criatura]] fica surpreendido com o ataque inimigo. Perde todas as suas [[Ações]] na primeira rodada do combate.

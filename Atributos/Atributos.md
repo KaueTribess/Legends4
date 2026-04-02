@@ -1,0 +1,2 @@
+### Descrição
+Atributos são as cinco dimensões fundamentais que definem as capacidades de uma [[Criatura]]. Cada atributo governa um conjunto de seis [[Perícias]] especializadas, que representam expertises mais específicas.

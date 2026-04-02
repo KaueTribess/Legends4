@@ -1,8 +1,8 @@
 [[Efeitos|<- Efeitos]]
 
 ### Características
-- Tipo: Negativo.
-- Duração: Indeterminada.
+- **Tipo:** Negativo.
+- **Duração:** Indeterminada.
 
 ### Descrição
-Fica alheio ao caos ao seu redor, num sono profundo e distante. Enquanto afetado, sofre o efeito [[Caído]] e perde todas as suas [[Ações]].
+A [[Criatura]] fica alheia ao caos ao seu redor, imerso num sono profundo e distante. Enquanto afetada, sofre o efeito [[Caído]] e perde todas as suas [[Ações]].

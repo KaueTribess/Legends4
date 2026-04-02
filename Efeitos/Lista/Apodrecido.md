@@ -1,8 +1,8 @@
 [[Efeitos|<- Efeitos]]
 
 ### Características
-- Tipo: Negativo.
-- Duração: 1d6 rodadas.
+- **Tipo:** Negativo.
+- **Duração:** 1d6 rodadas.
 
 ### Descrição
-Fica com suas células regenerativas temporariamente apodrecidas, impedindo que se proliferem. Enquanto afetado, perde a capacidade de recuperar [[Pontos de Vida]].
+A [[Criatura]] fica com suas células regenerativas temporariamente paralisadas, impedindo que se proliferem. Enquanto afetada, perde a capacidade de recuperar [[Pontos de Vida]].

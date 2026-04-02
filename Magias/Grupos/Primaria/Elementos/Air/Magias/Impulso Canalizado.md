@@ -3,7 +3,7 @@ Um [[Feitiço]] [[Simples]] de [[Sistemas/Legends 4/Magias/Grupos/Primaria/Eleme
 [[Dano]], [[Distância]].
 
 ### Atributos
-- Acerto: [[Rolagem]].
+- Acerto: [[Sistemas/Legends 4/Magias/Acerto/Rolagem|Rolagem]].
 - Dificuldade: 6.
 - Energia: 10 [[Pontos de Energia]].
 - Perícia: [[Arcanismo]] (2).

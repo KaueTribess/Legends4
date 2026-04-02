@@ -1,8 +1,8 @@
 [[Efeitos|<- Efeitos]]
 
 ### Características
-- Tipo: Negativo.
-- Duração: 1d4 rodadas.
+- **Tipo:** Negativo.
+- **Duração:** 1d4 rodadas.
 
 ### Descrição
-Fica tremendo com o frio gélido passando pelo seu corpo. Enquanto afetado, sofre [[Desvantagem]] em rolagens de [[Perícia|Perícias]] do [[Atributo]] [[Destreza]] e reduz em 3 metros todos os seus movimentos.
+A [[Criatura]] fica tremendo com o frio gélido passando pelo seu corpo. Enquanto afetada, sofre [[Desvantagem]] em [[Sistemas/Legends 4/Glossário/Lista/Rolagem|Rolagens]] de [[Perícia]] do [[Atributo]] [[Destreza]] e reduz em 3 metros todos os seus movimentos.

@@ -1,8 +1,8 @@
 [[Efeitos|<- Efeitos]]
 
 ### Características
-- Tipo: Negativo.
-- Duração: 1d2 rodadas.
+- **Tipo:** Negativo.
+- **Duração:** 1d2 rodadas.
 
 ### Descrição
-Fica com a visão completamente comprometida. Enquanto afetado, falha automaticamente em qualquer rolagem que envolva minimamente a visão.
+A [[Criatura]] perde completamente a visão temporariamente, deixando-a desorientada e incapaz de ver o que a rodeia. Enquanto afetada, falha automaticamente em qualquer [[Sistemas/Legends 4/Glossário/Lista/Rolagem|Rolagem]] que dependa de visão.

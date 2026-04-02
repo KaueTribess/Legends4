@@ -1,0 +1,4 @@
+[[Glossário|<- Glossário]]
+
+### Descrição
+É uma circunstância desfavorável que diminui significativamente as chances de sucesso de uma [[Sistemas/Legends 4/Glossário/Lista/Rolagem|Rolagem]]. Quando uma [[Criatura]] tem Desvantagem, ela joga dois dados iguais, em vez de um único, e pega o resultado mais baixo dos dois como base para sua [[Sistemas/Legends 4/Glossário/Lista/Rolagem|Rolagem]]. Os modificadores são aplicados normalmente após a escolha do menor resultado. Não é possível acumular múltiplas Desvantagens, se tiver Desvantagem por duas razões diferentes, ainda rola apenas dois dados e escolhe o menor. Se uma [[Criatura]] tem tanto Desvantagem quanto [[Vantagem]] simultaneamente, elas se cancelam mutuamente, voltando a uma [[Sistemas/Legends 4/Glossário/Lista/Rolagem|Rolagem]] normal.

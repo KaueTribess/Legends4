@@ -1,9 +1,9 @@
 [[Efeitos|<- Efeitos]]
 
 ### Características
-- Tipo: Negativo.
-- Duração: Indeterminada.
+- **Tipo:** Negativo.
+- **Duração:** Indeterminada.
 
 ### Descrição
-Fica nocauteado, impossibilitado de perceber o mundo ao seu redor. Enquanto afetado, perde todas as suas [[Ações]].
+A [[Criatura]] fica nocauteada, impossibilitado de perceber o mundo ao seu redor. Enquanto afetada, perde todas as suas [[Ações]].
 

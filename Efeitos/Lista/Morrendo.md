@@ -1,11 +1,11 @@
 [[Efeitos|<- Efeitos]]
 
 ### Características
-- Tipo: Negativo.
-- Duração: Indeterminada.
+- **Tipo:** Negativo.
+- **Duração:** Indeterminada.
 
 ### Descrição
-Fica cara a cara com a própria dona morte, dessa vez será sua hora? Enquanto afetado, sofre o efeito [[Caído]] e, no inicio da sua próxima rodada, deve escolher como vai encarar a morte. Caso o personagem recupere [[Pontos de Vida]], por [[Ações]] externas, até chegar a um [[Pontos de Vida|Ponto de Vida]], ele perde o efeito Morrendo e deve realizar uma rolagem com a [[Perícia]] de [[Constituição]] com dificuldade 20 para não aumentar em um seu nível do efeito [[Exaustão (1 - 4)|Exaustão]].
+A [[Criatura]] fica cara a cara com a própria dona morte. Enquanto afetada, sofre o efeito [[Caído]] e, no início de sua próxima rodada, deve escolher como vai encarar a morte. Caso a [[Criatura]] recupere [[Pontos de Vida]], por [[Ações]] externas, até chegar a 1 [[Pontos de Vida|Ponto de Vida]], ele perde o efeito Morrendo e deve realizar uma rolagem com a [[Perícia]] de [[Constituição]] com dificuldade 20 para não aumentar em um seu nível do efeito [[Exaustão (1 - 4)|Exaustão]].
 
 ### Lidando com a Morte
 

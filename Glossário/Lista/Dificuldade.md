@@ -1,0 +1,4 @@
+[[Glossário|<- Glossário]]
+
+### Descrição
+É o valor mínimo que uma [[Criatura]] precisa alcançar em uma [[Sistemas/Legends 4/Glossário/Lista/Rolagem|Rolagem]] para ser bem sucedida. Quando uma criatura realiza uma ação com resultado incerto, o mestre estabelece uma dificuldade apropriada à tarefa. Se o resultado final da [[Sistemas/Legends 4/Glossário/Lista/Rolagem|Rolagem]] for maior ou igual à dificuldade, a [[Criatura]] consegue realizar a ação com sucesso. Se for menor, a ação falha. A dificuldade varia dependendo da tarefa e pode ser ajustada pelo mestre para refletir circunstâncias favoráveis ou desfavoráveis.

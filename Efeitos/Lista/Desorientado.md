@@ -1,8 +1,8 @@
 [[Efeitos|<- Efeitos]]
 
 ### Características
-- Tipo: Negativo.
-- Duração: 1d4 rodadas.
+- **Tipo:** Negativo.
+- **Duração:** 1d4 rodadas.
 
 ### Descrição
-Fica completamente perdido, sem ter a mínima noção de direções. Enquanto afetado, sofre [[Desvantagem]] em rolagens com as [[Perícia|Perícias]] [[Investigação]] e [[Percepção]].
+A [[Criatura]] fica completamente perdida, sem ter a mínima noção de direções. Enquanto afetada, sofre [[Desvantagem]] em [[Sistemas/Legends 4/Glossário/Lista/Rolagem|Rolagens]] de [[Investigação]] e [[Percepção]].

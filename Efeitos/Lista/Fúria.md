@@ -1,8 +1,8 @@
 [[Efeitos|<- Efeitos]]
 
 ### Características
-- Tipo: Positivo.
-- Duração: 1d4 rodadas.
+- **Tipo:** Positivo.
+- **Duração:** 1d4 rodadas.
 
 ### Descrição
-Fica num pico de adrenalina, aumentando drasticamente suas capacidades físicas. Enquanto afetado, recebe [[Resistência]] conta dano [[Contundente]], [[Cortante]] e [[Perfurante]], além de não poder conjurar ou manter a [[Concentração]] em magias.
+A [[Criatura]] fica num pico de adrenalina, aumentando drasticamente suas capacidades físicas. Enquanto afetada, recebe [[Resistência]] contra dano [[Contundente]], [[Cortante]] e [[Perfurante]], além de não poder conjurar ou manter a [[Concentração]] em magias.
