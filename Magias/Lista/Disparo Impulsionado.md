@@ -1,4 +1,4 @@
-Um [[Encantamento]] [[Simples]] de [[Sistemas/Legends 4/Magias/Grupos/Primaria/Elementos/Air/Air|Air]].
+Um [[Encantamento]] [[Simples]] de [[Sistemas/Legends 4/Magias/Elementos/Air/Air|Air]].
 
 [[Buff]], [[Dano]], [[Distância]].
 

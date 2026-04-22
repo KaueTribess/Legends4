@@ -1,5 +1,8 @@
 [[W.I.P]]
 
+[[Elementos|<- Elementos]]
+[[Primaria|<- Primaria]]
+
 | Tipos        | Simples                       | Média                    | Avançada                    |
 | ------------ | ----------------------------- | ------------------------ | --------------------------- |
 | Encantamento | [[Disparo Impulsionado]].<br> | [[Vórtex de Ar]].<br>    | ???<br>[[Lâmina de Vento]]. |

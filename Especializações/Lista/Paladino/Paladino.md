@@ -1,86 +1,88 @@
 [[W.I.P]]
 
-**
+[[Especializações|<- Especializações]]
 
-Descrição:
-
-…
-
-  
-
-Status:
-
-- Dado de vida: 1d10 + Vitalidade.
-    
-- Pontos de vida inicial: 10 + Vitalidade.
-    
-- Pontos de vida p/ nível: 6 + Vitalidade.
-    
-- Pontos de mana base: 10.
-    
-
-  
-
-Requisitos:
-
-- Elemento de Afinidade: Nenhum.
-    
-- Perícias: ...
-    
-- Raça: Nenhuma.
-    
-- Classe: Guerreiro ou Clérigo.
-    
-
-  
-
-Adquirindo:
-
-…
-
-  
-
-Perdendo:
-
-…
-
-**
+> Devotos lutando pelos ideais da divindade para qual fizeram seus votos sagrados, considerados heróis pelos seguidores do seu deus.
+> Como parte do seu voto, podem apenas conjurar utilizando o elemento da sua divindade ou de Vis. Não são filiados a uma nação ou raça, estando no máximo ligados a círculos religiosos do seu deus
 
 
-**
+### Pré-requisitos
+- **[[Perícias]]:**
+	- [[Combate]](4).
+	- [[Crença]](5).
 
-Devotos lutando em nome de seu deus, os paladinos são guerreiros sagrados, considerados herois por aqueles devotos ao seu deus, utilizando apenas o elemento relacionado com ele. Não são filiados a nenhum país ou raça, geralmente obedecem apenas aos superiores de suas respectivas igrejas e aos ensinamentos de seu deus.
+### Status
+- **Dado de Vida:** 1d6.
+- **Pontos de Vida:** 8 + [[Vitalidade]].
+- **Pontos de Energia:** 10 + [[Energia]].
 
-  
+### Proficiências
+- **[[Armaduras]]:**
+	- [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Leve|Leve]].
+	- [[Média]].
+- **[[Armas]]:**
+	- [[Alabarda]].
+	- [[Escudo Médio]].
+	- [[Escudo Torre]].
+	- [[Espada Colossal]].
+	- [[Espada Longa]].
+	- [[Lança de Cavalaria]].
+	- [[Maça]].
+	- [[Maça Estrela]].
+	- [[Mangual]].
+	- [[Manopla]].
+	- [[Martelo]].
+	- [[Martelo de Guerra]].
+- **Elementos:** Elemento da divindade.
+- **[[Perícias]]:** 2 Dentre:
+	- [[Atletismo]].
+	- [[Constituição]].
+	- [[Crença]].
+	- [[Determinação]].
+	- [[História]].
+	- [[Medicina]].
+	- [[Persuasão]].
 
-Status Iniciais:
+### Progressão
+- **Nível 1:**
+	- [[Armas de Pugilista]].
+	- [[Soco em Cadeia]].
+- **Nível 2:**
+	- [[Golpe Oportuno]].
+	- [[Táticas de Ringue]].
+- **Nível 3:**
+	- [[Postura de Luta]].
+- **Nível 4:**
+	- [[Último Round]].
+- **Nível 5:**
+	- [[Boxeador]].
 
-- Dado de vida: 1d10 + Vitalidade.
-    
-- Pontos de vida inicial: 10 + Vitalidade.
-    
-- Pontos de vida p/ nível: 6 + Vitalidade.
-    
-- Pontos de mana inicial: 10.
-    
+### Caminho
 
-Afinidade Mágica:
+#### Adquirindo
+...
 
-- Grupo Requerido: Primaria, Inde, Statera ou Cosmos.
-    
-- Elemento Requerido: Qualquer elemento.
-    
+#### Masterizando
+...
+
+#### Substituindo
+...
+
+#### Perdendo
+...
+
+
 
 Proficiências:
 
-- Perícias: 2 dentre: Constituição, Atletismo, História, Medicina, Crença, Determinação e Persuasão.
+- 
     
 
 Equipamento Inicial:
 
 - Dinheiro: 160 Coroas.
     
-- Armas: Maça Estrela, Espada Curta, Espada Longa, Escudo Médio e Besta de Mão.
+- Armas: 
     
 - Armaduras: …
     

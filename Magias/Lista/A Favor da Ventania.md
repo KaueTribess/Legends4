@@ -1,6 +1,6 @@
-Um [[Feitiço]] [[Intermediária|Intermediário]] de [[Sistemas/Legends 4/Magias/Grupos/Primaria/Elementos/Air/Air|Air]].
+Um [[Feitiço]] [[Intermediária|Intermediário]] de [[Sistemas/Legends 4/Magias/Elementos/Air/Air|Air]].
 
-[[Debuff]], [[Toque]].
+[[Buff]], [[Toque]].
 
 ### Atributos
 - Acerto: [[Automático]].

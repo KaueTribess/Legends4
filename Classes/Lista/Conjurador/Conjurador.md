@@ -1,24 +1,26 @@
+[[W.I.P]]
+
 > Especialistas na manipulação de energia, possuindo a capacidade de alterar as propriedades das diversas magias dominam.
 > A origem dos conjuradores difere muito, a maioria sendo estudiosos de academias arcanas, mas existem aqueles que nasceram com um dom, seja por genética ou por tirarem energia de um poder maior.
 
 ### Status
-- Dado de Vida: 1d2.
-- Pontos de Vida: 4 + [[Vitalidade]].
-- Pontos de Energia: 15 + [[Energia]].
+- **Dado de Vida:** 1d2.
+- **Pontos de Vida:** 4 + [[Vitalidade]].
+- **Pontos de Energia:** 15 + [[Energia]].
 
 ### Proficiências
-- Armaduras: Nenhuma
-- Armas: 
+- **Armaduras:** Nenhuma
+- **Armas:**
 	- [[Adaga]].
-	- [[Besta]].
+	- [[Sistemas/Legends 4/Itens/Armas/Lista/Besta|Besta]].
 	- [[Besta de Mão]].
 	- [[Cajado]].
 	- [[Mangual]].
 	- [[Porrete]].
-- Elementos: 3 dentre seus elementos de afinidade.
-- Ferramentas:
+- **Elementos:** 3 dentre seus elementos de afinidade.
+- **Ferramentas:**
 	- ...
-- Perícias: 2 Dentre:
+- **Perícias:** 2 Dentre:
 	- [[Arcanismo]].
 	- [[Crença]].
 	- [[Foco]].
@@ -30,27 +32,27 @@
 
 ### Equipamento Inicial
 - 60x [[Coroa|Coroas]].
-- Magias: 4 magias [[Simples]] dos seus elementos proficientes.
+- **Magias:** 4 magias [[Simples]] dos seus elementos proficientes.
 
 ### Progressão
-- Nível 1:
+- **Nível 1:**
 	- [[Iniciado em Magias]].
 	- [[Metamagia]].
-- Nível 2:
+- **Nível 2:**
 	- [[Conversão de Energia]].
-- Nível 3:
+- **Nível 3:**
 	- [[Metamagia]].
-- Nível 4:
+- **Nível 4:**
 	- [[Encantamento Melhorado]].
-- Nível 5:
+- **Nível 5:**
 	- [[Metamagia]].
-- Nível 6:
+- **Nível 6:**
 	- [[Conversão Eficiente]].
-- Nível 7:
+- **Nível 7:**
 	- [[Metamagia]].
-- Nível 8:
+- **Nível 8:**
 	- [[Foco Inquebrável]].
-- Nível 9:
+- **Nível 9:**
 	- [[Metamagia]].
-- Nível 10:
+- **Nível 10:**
 	- [[Sábio]].

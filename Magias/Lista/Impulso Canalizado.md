@@ -1,4 +1,4 @@
-Um [[Feitiço]] [[Simples]] de [[Sistemas/Legends 4/Magias/Grupos/Primaria/Elementos/Air/Air|Air]].
+Um [[Feitiço]] [[Simples]] de [[Sistemas/Legends 4/Magias/Elementos/Air/Air|Air]].
 
 [[Dano]], [[Distância]].
 
@@ -10,7 +10,7 @@ Um [[Feitiço]] [[Simples]] de [[Sistemas/Legends 4/Magias/Grupos/Primaria/Eleme
 
 ### Componentes
 - [[Material]]:
-	- Arma Corpo a Corpo (1).
+	- 1x Arma Corpo a Corpo.
 - [[Somático]].
 
 ### Descrição

@@ -1,4 +1,4 @@
-Um [[Encantamento]] [[Avançada|Avançado]] de [[Sistemas/Legends 4/Magias/Grupos/Primaria/Elementos/Air/Air|Air]].
+Um [[Encantamento]] [[Avançada|Avançado]] de [[Sistemas/Legends 4/Magias/Elementos/Air/Air|Air]].
 Origem: [[Arthuriana]].
 
 [[Buff]], [[Dano]], [[Duração]], [[Toque]].

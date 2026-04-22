@@ -1,4 +1,4 @@
-Uma [[Conjuração]] [[Simples]] de [[Sistemas/Legends 4/Magias/Grupos/Primaria/Elementos/Air/Air|Air]].
+Uma [[Conjuração]] [[Simples]] de [[Sistemas/Legends 4/Magias/Elementos/Air/Air|Air]].
 
 [[Sistemas/Legends 4/Magias/Marcadores/Área|Área]], [[Debuff]].
 

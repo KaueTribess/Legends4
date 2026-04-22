@@ -4,14 +4,15 @@
 > São geralmente julgados por seu intelecto limitado e seus costumes simples mais exagerados, mas estão longe de serem maus.
 
 ### Status
-- Dado de Vida: 1d8.
-- Pontos de Vida: 10 + [[Vitalidade]].
-- Pontos de Energia: 5 + [[Energia]].
+- **Dado de Vida:** 1d8.
+- **Pontos de Vida:** 10 + [[Vitalidade]].
+- **Pontos de Energia:** 5 + [[Energia]].
 
 ### Proficiências
-- Armaduras: 
+- **Armaduras: **
 	- [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Leve|Leve]].
-- Armas: 
+- **Armas: **
+	- [[Ataque Desarmado]].
 	- [[Clava Grande]].
 	- [[Espada Colossal]].
 	- [[Machado]].
@@ -22,10 +23,10 @@
 	- [[Porrete]].
 	- [[Soqueira]].
 	- [[Soqueira com Espinhos]].
-- Elementos: Nenhum
-- Ferramentas:
+- **Elementos:** Nenhum
+- **Ferramentas:**
 	- ...
-- Perícias: 2 Dentre:
+- **Perícias:** 2 Dentre:
 	- [[Combate]].
 	- [[Constituição]].
 	- [[Determinação]].
@@ -38,23 +39,23 @@
 - Magias: Nenhuma.
 
 ### Progressão
-- Nível 1:
+- **Nível 1:**
 	- [[Fúria Brutal]].
-- Nível 2:
+- **Nível 2:**
 	- [[Força Sobrenatural]].
-- Nível 3:
+- **Nível 3:**
 	- [[Ataque Imprudente]].
-- Nível 4:
+- **Nível 4:**
 	- [[Louco por Combate]].
-- Nível 5:
+- **Nível 5:**
 	- [[Imprudência Implacável]].
-- Nível 6:
+- **Nível 6:**
 	- [[Esquentadinho]].
-- Nível 7:
+- **Nível 7:**
 	- [[Fúria Duradoura]].
-- Nível 8:
+- **Nível 8:**
 	- [[Constituição Indomável]].
-- Nível 9:
+- **Nível 9:**
 	- [[Fúria Restauradora]].
-- Nível 10:
+- **Nível 10:**
 	- [[Berserker]].

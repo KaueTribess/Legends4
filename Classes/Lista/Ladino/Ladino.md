@@ -6,19 +6,19 @@
 > Utilizam suas táticas e expertises com armas para alavancar o combate ao seu favor, tirando manobras do bolso que, quando combinadas, são a chave para a vitória.
 
 ### Status
-- Dado de Vida: 1d6.
-- Pontos de Vida: 8 + [[Vitalidade]].
-- Pontos de Energia: 5 + [[Energia]].
+- **Dado de Vida:** 1d6.
+- **Pontos de Vida:** 8 + [[Vitalidade]].
+- **Pontos de Energia**: 5 + [[Energia]].
 
 ### Proficiências
-- Armaduras: 
+- **Armaduras: **
 	- [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Leve|Leve]].
 	- [[Média]].
-- Armas: Todas as [[Armas]].
-- Elementos: 2 dentre seus elementos de afinidade.
-- Ferramentas:
+- **Armas:** Todas as [[Armas]].
+- **Elementos:** 2 dentre seus elementos de afinidade.
+- **Ferramentas:**
 	- ...
-- Perícias: 2 Dentre:
+- **Perícias:** 2 Dentre:
 	- [[Acrobacia]].
 	- [[Atletismo]].
 	- [[Combate]].
@@ -31,7 +31,7 @@
 
 ### Equipamento Inicial
 - 90x [[Coroa|Coroas]].
-- Magias: Nenhuma.
+- **Magias:** Nenhuma.
 
 ### Progressão
 

@@ -14,7 +14,7 @@ Ao apostar no destino, o jogador deixa a vida do seu personagem nas mãos da sor
 
 Caso seja mal sucedido três vezes, o personagem morre, sem segundas chances. 
 
-Caso seja bem sucedido três vezes, o personagem fica estabilizado, perdendo o efeito Morrendo e sofre o efeito [[Incapacitado]] por (1d4) rodadas. Além disso, o jogador deve realizar uma rolagem com a [[Perícia]] de [[Constituição]] com dificuldade 20 para não aumentar em um seu nível do efeito [[Exaustão (1 - 4)|Exaustão]].
+Caso seja bem sucedido três vezes, o personagem fica estabilizado, perdendo o efeito Morrendo e sofre o efeito [[Sistemas/Legends 4/Efeitos/Lista/Incapacitado]] por (1d4) rodadas. Além disso, o jogador deve realizar uma rolagem com a [[Perícia]] de [[Constituição]] com dificuldade 20 para não aumentar em um seu nível do efeito [[Exaustão (1 - 4)|Exaustão]].
 
 Falhas e sucessos críticos contam como duas falhas e dois sucessos respectivamente.
 
