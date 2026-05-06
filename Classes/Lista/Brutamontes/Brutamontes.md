@@ -9,9 +9,9 @@
 - **Pontos de Energia:** 5 + [[Energia]].
 
 ### Proficiências
-- **Armaduras: **
+- **Armaduras:**
 	- [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Leve|Leve]].
-- **Armas: **
+- **Armas:**
 	- [[Ataque Desarmado]].
 	- [[Clava Grande]].
 	- [[Espada Colossal]].
@@ -42,20 +42,20 @@
 - **Nível 1:**
 	- [[Fúria Brutal]].
 - **Nível 2:**
-	- [[Força Sobrenatural]].
+	- [[Barreira de Músculos]].
 - **Nível 3:**
-	- [[Ataque Imprudente]].
+	- [[Cai Dentro]].
 - **Nível 4:**
-	- [[Louco por Combate]].
+	- [[Pavio Curto]].
 - **Nível 5:**
-	- [[Imprudência Implacável]].
+	- [[Frenesi Bárbaro]].
 - **Nível 6:**
-	- [[Esquentadinho]].
+	- [[Agora Irritou]].
 - **Nível 7:**
-	- [[Fúria Duradoura]].
+	- [[Raiva Acumulada]].
 - **Nível 8:**
-	- [[Constituição Indomável]].
+	- [[Cabeça Dura]].
 - **Nível 9:**
-	- [[Fúria Restauradora]].
+	- [[Casca Grossa]].
 - **Nível 10:**
 	- [[Berserker]].

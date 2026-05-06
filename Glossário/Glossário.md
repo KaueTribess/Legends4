@@ -3,6 +3,7 @@
 - [[Glossário/Lista/Rolagem|Rolagem]] - Conceito fundamental de testar a capacidade de uma criatura para realizar uma tarefa específica usando um d20
 - [[Glossário/Lista/Rolagem de Ataque|Rolagem de Ataque]] - Aplicação específica de uma rolagem para determinar se um ataque acerta um alvo em combate
 - [[Glossário/Lista/Dificuldade|Dificuldade]] - O número alvo que uma rolagem deve atingir ou ultrapassar para ser um sucesso
+- [[Glossário/Lista/Regra Específica|Regra Específica]] - Regra que prevalece sobre uma regra geral dentro do escopo que descreve
 
 ## Modificadores de Sorte
 

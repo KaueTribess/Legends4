@@ -2,7 +2,7 @@
 
 > Este arquivo resume as regras centrais já estabelecidas de **Legends 4** para facilitar a entrada de novos jogadores.
 > 
-> Ele não substitui os arquivos específicos de raça, origem, classe, magia, item ou habilidade. Quando uma regra geral entrar em conflito com uma regra específica, a regra mais específica prevalece.
+> Ele não substitui os arquivos específicos de raça, origem, classe, magia, item ou habilidade. Quando uma regra geral entrar em conflito com uma [[Glossário/Lista/Regra Específica|regra específica]], a regra específica prevalece dentro do seu escopo.
 
 ## O que é Legends 4
 

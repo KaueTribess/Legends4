@@ -7,10 +7,10 @@
 - **Pontos de Energia:** 10 + [[Energia]].
 
 ### Proficiências
-- **Armaduras: **
+- **Armaduras:**
 	- [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Leve|Leve]].
 	- [[Média]].
-- **Armas: **
+- **Armas:**
 	- [[Adaga]].
 	- [[Sistemas/Legends 4/Itens/Armas/Lista/Besta|Besta]].
 	- [[Besta de Mão]].

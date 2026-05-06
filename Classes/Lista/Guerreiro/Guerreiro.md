@@ -9,7 +9,7 @@
 - **Pontos de Energia:** 5 + [[Energia]].
 
 ### Proficiências
-- **Armaduras: **
+- **Armaduras:**
 	- [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Leve|Leve]].
 	- [[Média]].
 - **Armas:** Todas as [[Armas]].
@@ -45,10 +45,11 @@
 - **Nível 6:**
 	- [[Leitura de Combate]].
 - **Nível 7:**
-	- [[Conservando Adrenalina]].
+	- [[Ímpeto Tático]].
 - **Nível 8:**
 	- [[Combinando Táticas]].
 - **Nível 9:**
 	- [[Ritmo de Batalha]].
 - **Nível 10:**
+	- [[Ataque Extra]].
 	- [[Campeão]].

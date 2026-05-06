@@ -9,9 +9,9 @@
 - **Pontos de Energia:** 5 + [[Energia]].
 
 ### Proficiências
-- **Armaduras: **
+- **Armaduras:**
 	- [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Leve|Leve]].
-- **Armas: **
+- **Armas:**
 	- [[Adaga]].
 	- [[Arco Curto]].
 	- [[Arco Recurvo]].

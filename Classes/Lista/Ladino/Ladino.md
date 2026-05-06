@@ -11,7 +11,7 @@
 - **Pontos de Energia**: 5 + [[Energia]].
 
 ### Proficiências
-- **Armaduras: **
+- **Armaduras:**
 	- [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Leve|Leve]].
 	- [[Média]].
 - **Armas:** Todas as [[Armas]].

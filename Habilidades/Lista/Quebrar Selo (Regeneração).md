@@ -1,11 +1,15 @@
 [[Habilidades|<- Habilidades]]
 
 ### Características
-- Tipo: Ativa.
-- Custo:
+- **Tipo:** Ativa.
+- **Custo:**
 	- Ação: [[Ação Bônus]].
 	- Energia: 5 [[Pontos de Energia]].
-- Repetível: Não.
+- **Repetível:** Não.
 
 ### Descrição
-Destrói o selo ativo de uma [[Criatura]] que tenha sido marcada pelo usuário utilizando a habilidade [[Selo Divino]], intensificando brevemente a aura dourada ao seus redor e permitindo que todos a vejam. A [[Criatura]] recupera um total de ([[Dado de Vida]] + [[Crença]]) em [[Pontos de Vida]], recuperando metade do valor no começo dos seus próximos 2 turnos.
+Destrói o selo ativo de uma [[Criatura]] marcada pelo usuário com [[Selo Divino]], fazendo a aura dourada ao seu redor se intensificar brevemente e se tornar visível para todos.
+
+Ao quebrar o selo, a [[Criatura]] marcada recupera um total igual a (1 [[Dado de Vida]] do usuário + [[Crença]] do usuário) em [[Pontos de Vida]]. Recupera metade desse valor no começo do seu próximo turno e a outra metade no começo do turno seguinte.
+
+Caso o valor total seja ímpar, a primeira cura recebe o ponto excedente.

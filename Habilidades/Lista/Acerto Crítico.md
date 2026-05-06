@@ -9,4 +9,4 @@
 - Repetível: Não.
 
 ### Descrição
-Uma vez por combate, caso possua [[Vantagem]] na [[Rolagem de Ataque]], pode transformar um ataque corpo a corpo com uma arma proficiente em um acerto crítico.
+Uma vez por combate, caso possua [[Vantagem]] na [[Rolagem de Ataque]], pode transformar um ataque corpo a corpo com uma arma proficiente em um [[Acerto Crítico]].
