@@ -1,5 +1,3 @@
-# Núcleo do Sistema
-
 > Este arquivo resume as regras centrais já estabelecidas de **Legends 4** para facilitar a entrada de novos jogadores.
 > 
 > Ele não substitui os arquivos específicos de raça, origem, classe, magia, item ou habilidade. Quando uma regra geral entrar em conflito com uma [[Glossário/Lista/Regra Específica|regra específica]], a regra específica prevalece dentro do seu escopo.
@@ -76,7 +74,7 @@ No estado atual do sistema, um personagem é montado combinando quatro camadas p
 
 ### O que cada parte define
 
-- **Raça:** idade, [[Tamanhos/Tamanhos|tamanho]], [[Movimento Base|movimento base]], afinidade elemental e habilidades raciais.
+- **Raça:** idade, [[Tamanhos/Tamanhos|tamanho]], [[Ações/Lista/Ação de Movimento/Ação de Movimento|ações de movimento]], afinidade elemental e habilidades raciais.
 - **Origem:** passado do personagem, habilidades de origem e itens iniciais.
 - **Classe:** [[Dado de Vida|dado de vida]], [[Pontos de Vida|pontos de vida]], [[Pontos de Energia|pontos de energia]], [[Proficiência|proficiências]], equipamento inicial, acesso a magias e progressão do nível 1 ao 10.
 - **Especialização:** um pacote extra de identidade mecânica para campanhas que quiserem aprofundar ainda mais o estilo do personagem.
@@ -117,7 +115,7 @@ Esses são os números mais importantes da ficha:
 - **[[Pontos de Energia]]:** recurso gasto para usar magias, habilidades e truques de arma.
 - **[[Dado de Vida]]:** dado-base de recuperação e resistência da classe.
 - **[[Classe de Armadura]]:** valor que ataques precisam superar para acertar você.
-- **[[Movimento Base]]:** distância máxima que você percorre normalmente em seu turno.
+- **[[Ações/Lista/Ação de Movimento/Ação de Movimento|Ações de Movimento]]:** quantas ações de deslocamento você possui normalmente em seu turno.
 - **[[Tamanhos/Tamanhos|Tamanho]]:** influencia espaço ocupado e algumas interações.
 - **Perícias:** mostram o que seu personagem faz bem.
 - **[[Proficiência|Proficiências]]:** mostram em quais perícias, armas, armaduras, elementos ou ferramentas ele tem treinamento.
@@ -134,7 +132,7 @@ O espaço de ação de cada criatura dentro da rodada é o seu [[Glossário/List
 Um turno costuma envolver:
 
 - `1` [[Ações/Lista/Ação Padrão/Ação Padrão|Ação Padrão]]
-- deslocamento por [[Ações/Lista/Ação de Movimento/Ação de Movimento|Ações de Movimento]], até o seu limite de movimento
+- uma quantidade de [[Ações/Lista/Ação de Movimento/Ação de Movimento|Ações de Movimento]] definida por raça, [[Agilidade]], habilidades e efeitos
 - `1` [[Ações/Lista/Ação Bônus/Ação Bônus|Ação Bônus]], quando alguma habilidade, magia ou efeito permitir
 - [[Ações/Lista/Ação Livre/Ação Livre|Ações Livres]] pequenas
 - `1` [[Ações/Lista/Reação/Reação|Reação]] quando um gatilho apropriado acontecer
@@ -169,7 +167,6 @@ Um turno costuma envolver:
 - [[Ações/Lista/Reação/Lista/Defender|Defender]]
 - [[Ações/Lista/Reação/Lista/Contra-Atacar|Contra-Atacar]]
 - [[Ações/Lista/Reação/Lista/Ataque Oportuno|Ataque Oportuno]]
-- [[Ações/Lista/Reação/Lista/Conjurar|Conjurar]], se alguma magia permitir
 - [[Ações/Lista/Reação/Lista/Utilizar Habilidade|Utilizar Habilidade]]
 - [[Ações/Lista/Reação/Lista/Utilizar Truque de Arma|Utilizar Truque de Arma]]
 
@@ -228,7 +225,7 @@ Se o personagem for curado por ações externas até voltar a pelo menos `1` pon
 A [[Efeitos/Lista/Exaustão (1 - 4)|Exaustão]] é uma das punições mais importantes do sistema.
 
 - Do nível `1` ao `4`, você sofre `-2 x nível de exaustão` em todas as rolagens de perícia.
-- Também perde `1,5 metro x nível de exaustão` em todos os movimentos.
+- Também perde uma quantidade de [[Ações/Lista/Ação de Movimento/Ação de Movimento|Ações de Movimento]] igual ao nível de exaustão.
 - No nível `5`, entra em [[Efeitos/Lista/Exaustão (5)|Exaustão 5]], sofre o efeito [[Efeitos/Lista/Morrendo|Morrendo]] e corre risco real de morte mesmo se passar em testes de estabilidade.
 
 ## Energia, habilidades, magias e truques
@@ -261,8 +258,8 @@ No modelo atual, isso pode ser visto em [[Magias/Lista/Modelo de Magia|Modelo de
 
 Além disso, magias também possuem:
 
-- um [[Magias/Tipos/Feitiço|tipo]]
-- uma [[Magias/Complexidade/Simples|complexidade]]
+- um [[Feitiço|tipo]]
+- uma [[Simples|complexidade]]
 - um [[Magias/Elementos/Elementos|elemento]]
 - marcadores, como dano, cura, buff, debuff, duração, toque ou área
 

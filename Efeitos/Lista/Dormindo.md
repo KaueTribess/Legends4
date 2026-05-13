@@ -5,4 +5,8 @@
 - **Duração:** Indeterminada.
 
 ### Descrição
-A [[Criatura]] fica alheia ao caos ao seu redor, imerso num sono profundo e distante. Enquanto afetada, sofre o efeito [[Caído]] e perde todas as suas [[Ações]].
+A [[Criatura]] fica alheia ao caos ao seu redor, imerso num sono profundo e distante. 
+
+Enquanto afetada:
+- Sofre o efeito [[Caído]].
+- Não pode utilizar nenhum tipo de [[Ações|Ação]].

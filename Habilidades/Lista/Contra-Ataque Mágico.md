@@ -5,4 +5,4 @@
 - Repetível: Não.
 
 ### Descrição
-Permite conjurar [[Encantamento|Encantamentos]] como uma [[Reação]] de [[Contra-Ataque]]. 
+Permite conjurar [[Encantamento|Encantamentos]] como parte da [[Reação]] de [[Contra-Atacar]], no lugar da [[Rolagem de Ataque]] normalmente feita por essa reação.

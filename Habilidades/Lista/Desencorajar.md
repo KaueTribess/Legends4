@@ -1,11 +1,13 @@
 [[Habilidades|<- Habilidades]]
 
 ### Características
-- Tipo: Ativa.
-- Custo:
+- **Tipo:** Ativa.
+- **Custo:**
 	- Ação: [[Reação]].
 	- Energia: 5 [[Pontos de Energia]].
-- Repetível: Não.
+- **Repetível:** Não.
 
 ### Descrição
-Quando uma [[Criatura]] que você possa ver realizar uma rolagem de [[Perícia]],  pode utilizar esta habilidade para aplicar o efeito [[Desencorajado]] a ela antes que o resultado seja declarado.
+Quando uma [[Criatura]] a até 15 metros de você, que possa ver ou ouvir você, realizar uma rolagem de [[Perícia]], você pode utilizar esta habilidade como uma [[Reação]] antes que o resultado seja declarado.
+
+A criatura sofre o efeito [[Desencorajado]], que deve ser aplicado à mesma rolagem.

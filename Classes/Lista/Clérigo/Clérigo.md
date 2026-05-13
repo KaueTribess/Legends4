@@ -9,7 +9,7 @@
 ### Proficiências
 - **Armaduras:**
 	- [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Leve|Leve]].
-	- [[Média]].
+	- [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Média|Média]].
 - **Armas:**
 	- [[Adaga]].
 	- [[Sistemas/Legends 4/Itens/Armas/Lista/Besta|Besta]].

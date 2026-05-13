@@ -1,4 +1,4 @@
 [[Tipos de Dano|<- Tipos de Dano]]
 
 ### Descrição
-Dano causado pela manipulação direta de energia arcana em seu estado bruto, se manifestando como força mágica concentrada que atinge diretamente o alvo.
+Dano causado por energia arcana bruta ou magia concentrada, sem assumir uma manifestação elemental, física ou espiritual específica.

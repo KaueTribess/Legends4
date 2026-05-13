@@ -11,9 +11,9 @@
 ### Proficiências
 - **Armaduras:**
 	- [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Leve|Leve]].
-	- [[Média]].
+	- [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Média|Média]].
 - **Armas:** Todas as [[Armas]].
-- **Elementos:** 2 dentre seus elementos de afinidade.
+- **Elementos:** Nenhum.
 - **Ferramentas:**
 	- ...
 - **Perícias:** 2 Dentre:

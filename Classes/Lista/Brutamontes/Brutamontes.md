@@ -23,7 +23,7 @@
 	- [[Porrete]].
 	- [[Soqueira]].
 	- [[Soqueira com Espinhos]].
-- **Elementos:** Nenhum
+- **Elementos:** Nenhum.
 - **Ferramentas:**
 	- ...
 - **Perícias:** 2 Dentre:

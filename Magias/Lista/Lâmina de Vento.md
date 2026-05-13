@@ -1,7 +1,7 @@
 Um [[Encantamento]] [[Avançada|Avançado]] de [[Sistemas/Legends 4/Magias/Elementos/Air/Air|Air]].
 Origem: [[Arthuriana]].
 
-[[Buff]], [[Dano]], [[Duração]], [[Toque]].
+[[Buff]], [[Dano]], [[Sistemas/Legends 4/Magias/Marcadores/Duração|Duração]], [[Sistemas/Legends 4/Magias/Marcadores/Toque|Toque]].
 
 ### Atributos
 - Acerto: [[Automático]].

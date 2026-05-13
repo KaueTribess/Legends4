@@ -1,7 +1,7 @@
 Uma [[Conjuração]] [[Intermediária]] de [[Sistemas/Legends 4/Magias/Elementos/Air/Air|Air]].
 Origem: [[Climática]].
 
-[[Cenário]].
+[[Sistemas/Legends 4/Magias/Marcadores/Cenário|Cenário]].
 
 ### Atributos
 - Acerto: [[Automático]].

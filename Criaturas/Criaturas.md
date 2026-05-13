@@ -45,10 +45,10 @@
 | ------------- | ------------------- | ------------------- |
 | Corpo a Corpo | Até (NP * 3) Metros | Até (NP * 6) Metros |
 
-#### [[Movimento Base]]
+#### [[Ação de Movimento|Ações de Movimento]]
 
-| [[Nível de Poder]] | Lento      | Médio       | Rápido      |
-| ------------------ | ---------- | ----------- | ----------- |
-| 1 - 9          | 6 Metros   | 9 Metros    | 12 Metros   |
-| 10 - 18        | 7.5 Metros | 10.5 Metros | 13.5 Metros |
-| 19 - 20        | 9 Metros   | 12 Metros   | 15 Metros   |
+| [[Nível de Poder]] | Lento | Médio | Rápido |
+| ------------------ | ----- | ----- | ------ |
+| 1 - 9              | 4     | 6     | 8      |
+| 10 - 18            | 5     | 7     | 9      |
+| 19 - 20            | 6     | 8     | 10     |

@@ -5,4 +5,7 @@
 - **Duração:** 1d4 rodadas.
 
 ### Descrição
-A [[Criatura]] fica escondido no ambiente, copiando cores e comportamentos do seu ambiente atual. Enquanto afetada, recebe [[Vantagem]] em [[Sistemas/Legends 4/Glossário/Lista/Rolagem|Rolagens]] de [[Furtividade]].
+A [[Criatura]] fica escondida, copiando cores e comportamentos do seu ambiente atual para se misturar. 
+
+Enquanto afetada:
+- Recebe [[Vantagem]] em [[Sistemas/Legends 4/Glossário/Lista/Rolagem|Rolagens]] de [[Furtividade]].

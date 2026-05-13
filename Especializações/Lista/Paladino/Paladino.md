@@ -19,7 +19,7 @@
 ### Proficiências
 - **[[Armaduras]]:**
 	- [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Leve|Leve]].
-	- [[Média]].
+	- [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Média]].
 - **[[Armas]]:**
 	- [[Alabarda]].
 	- [[Escudo Médio]].

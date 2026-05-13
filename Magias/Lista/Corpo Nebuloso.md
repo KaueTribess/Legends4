@@ -1,6 +1,6 @@
 Uma [[Conjuração]] [[Avançada]] de [[Sistemas/Legends 4/Magias/Elementos/Air/Air|Air]].
 
-[[Buff]], [[Duração]], [[Toque]].
+[[Buff]], [[Sistemas/Legends 4/Magias/Marcadores/Duração|Duração]], [[Sistemas/Legends 4/Magias/Marcadores/Toque|Toque]].
 
 ### Atributos
 - Acerto: [[Automático]].

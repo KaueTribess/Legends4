@@ -1,4 +1,4 @@
 [[Tipos de Dano|<- Tipos de Dano]]
 
 ### Descrição
-Dano causado por frio intenso que congela tecidos e materiais, reduzindo mobilidade e causando fissuras.
+Dano causado por frio intenso, gelo ou congelamento, capaz de ferir tecidos, tornar materiais quebradiços e causar fissuras.

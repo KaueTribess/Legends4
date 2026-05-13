@@ -1,6 +1,6 @@
  Um [[Encantamento]] [[Simples]] de [[Aqua]].
 
-[[Distância]], [[Duração]], [[Efeito]].
+[[Sistemas/Legends 4/Magias/Marcadores/Distância|Distância]], [[Sistemas/Legends 4/Magias/Marcadores/Duração|Duração]], [[Efeito]].
 
 ### Atributos
 - Acerto: [[Sistemas/Legends 4/Magias/Acerto/Rolagem|Rolagem]].

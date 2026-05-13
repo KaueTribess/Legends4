@@ -4,13 +4,18 @@ Um(a) {tipo da magia} {complexidade da magia} de {elemento da magia}.
 {marcadores}
 
 ### Atributos
-- Acerto:
-- Dificuldade:
-- Energia:
-- Perícia:
+- **Acerto:** {Sim/Não}.
+- **Componentes**:
+	- {Lista de componentes}.
+- **Dificuldade:** {DT para ser bem sucedido}.
+- **Energia:** {Custo de} [[Pontos de Energia]].
+- **Perícia:** {Perícia(Nível da perícia)}.
 
-### Componentes
-Exemplo
+### Características
+- **Área:** {Diâmetro da área} {Tipo da área}.
+- **Concentração:** {Sim/Não}.
+- **Distância:** {Distância}.
+- **Duração:**  {Duração}.
 
 ### Descrição
 Exemplo

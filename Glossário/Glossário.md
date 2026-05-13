@@ -38,4 +38,3 @@
 - [[Glossário/Lista/Pontos de Energia|Pontos de Energia]] - Recurso gasto em magias, habilidades e truques de arma
 - [[Glossário/Lista/Dado de Vida|Dado de Vida]] - Dado-base ligado à resistência e à recuperação
 - [[Glossário/Lista/Classe de Armadura|Classe de Armadura]] - Valor que Rolagens de Ataque precisam superar para acertar
-- [[Glossário/Lista/Movimento Base|Movimento Base]] - Distância padrão que uma criatura percorre em seu turno

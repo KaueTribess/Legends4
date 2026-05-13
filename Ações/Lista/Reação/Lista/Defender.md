@@ -1,4 +1,6 @@
-[[Ação Padrão|<- Ação Padrão]]
+[[Reação|<- Reação]]
 
 ### Descrição
-Caso possua uma [[Habilidades|Habilidade]], [[Magia]] ou [[Truques de Arma|Truque de arma]] que lhe conceda a possibilidade de utilizar a [[Reação]] Defender, permite realizar uma [[Rolagem de Ataque]] contra a [[Rolagem de Ataque]] vindo em sua direção para tentar bloquear parcialmente o dano recebido.
+Caso possua uma [[Habilidades|Habilidade]], [[Magia]] ou [[Truques de Arma|Truque de Arma]] que permita utilizar [[Defender]], você pode reagir a uma [[Rolagem de Ataque]] feita contra você com sua própria [[Rolagem de Ataque]].
+
+Caso seja bem sucedido, o efeito que concedeu esta reação definirá quanto dano é bloqueado, reduzido ou anulado do ataque.

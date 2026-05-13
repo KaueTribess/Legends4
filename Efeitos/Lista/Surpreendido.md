@@ -5,4 +5,7 @@
 - **Duração:** 1 rodada.
 
 ### Descrição
-A [[Criatura]] fica surpreendido com o ataque inimigo. Perde todas as suas [[Ações]] na primeira rodada do combate.
+A [[Criatura]] fica surpreendido com um ataque surpresa. 
+
+Enquanto afetada:
+- Não pode utilizar nenhum tipo de [[Ações|Ação]].

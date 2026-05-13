@@ -1,6 +1,6 @@
 Um [[Feitiço]] [[Avançada|Avançado]] de [[Sistemas/Legends 4/Magias/Elementos/Air/Air|Air]].
 
-[[Dano]], [[Debuff]], [[Distância]].
+[[Dano]], [[Debuff]], [[Sistemas/Legends 4/Magias/Marcadores/Distância|Distância]].
 
 ### Atributos
 - Acerto: [[Sistemas/Legends 4/Magias/Acerto/Rolagem|Rolagem]].

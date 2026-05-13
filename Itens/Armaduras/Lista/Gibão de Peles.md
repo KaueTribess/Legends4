@@ -1,7 +1,7 @@
 [[Consumíveis|<- Consumíveis]]
 
 ### Características
-- Tipo: [[Média]].
+- Tipo: [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Média|Média]].
 - Peso: 10 Kg.
 - Valores:
 	- Compra: 100 Coroas.

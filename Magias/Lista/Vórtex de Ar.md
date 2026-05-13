@@ -1,6 +1,6 @@
 Um [[Encantamento]] [[Intermediária|Intermediário]] de [[Sistemas/Legends 4/Magias/Elementos/Air/Air|Air]].
 
-[[Debuff]], [[Toque]].
+[[Debuff]], [[Sistemas/Legends 4/Magias/Marcadores/Toque|Toque]].
 
 ### Atributos
 - Acerto: [[Automático]].

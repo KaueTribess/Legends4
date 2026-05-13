@@ -1,4 +1,4 @@
 [[Ação Padrão|<- Ação Padrão]]
 
 ### Descrição
-Permite se mover com cautela, não podendo ser alvo da [[Reação]] [[Ataque Oportuno]].
+Permite se mover com cautela. Até o fim do seu turno, seu movimento não pode gerar [[Ataque Oportuno|Ataques Oportunos]].

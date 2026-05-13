@@ -9,4 +9,4 @@
 - Repetível: Não.
 
 ### Descrição
-Uma vez por descanso, pode ampliar o poder dos seus ancestrais dentro de você, aumentando em 1 estagio seu [[Tamanhos|Tamanho]] por até uma hora.
+Uma vez por descanso, pode ampliar o poder dos seus ancestrais dentro de você, aumentando seu [[Tamanhos|Tamanho]] em 1 estágio por até uma hora.

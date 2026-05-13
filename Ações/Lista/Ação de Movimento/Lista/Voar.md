@@ -1,4 +1,6 @@
 [[Ação de Movimento|<- Ação de Movimento]]
 
 ### Descrição
-Caso possua uma [[Habilidades|Habilidade]] ou [[Magia]] que lhe conceda a possibilidade de utilizar a [[Ação de Movimento]] Voar, permite flutuar pelos céus utilizando seu movimento, podendo ficar até um máximo de 9 metros do solo, gastando 1.5 metros de movimento por quadrado, hexágono, etc.
+Permite utilizar 1 [[Ação de Movimento]] para voar até 1.5 metros pelo ar. Podendo ficar em uma altura de até ([[Atletismo]] * 1.5) metros do solo.
+
+É necessário ter uma [[Habilidades|Habilidade]] ou [[Magia]] que permita utilizar essa [[Ação de Movimento]].

@@ -1,11 +1,15 @@
 [[Habilidades|<- Habilidades]]
 
 ### Características
-- Tipo: Ativa.
-- Custo:
+- **Tipo:** Ativa.
+- **Custo:**
 	- Ação: [[Ação Padrão]].
 	- Energia: 5 [[Pontos de Energia]].
-- Repetível: Não.
+- **Repetível:** Não.
 
 ### Descrição
-Realiza uma ação chamativa, seja visual ou sonora, atraindo a atenção ao seu redor. Todas as [[Criatura|Criaturas]] que possam vê-lo ou ouvi-lo devem realizar uma rolagem de [[Determinação]] contra uma rolagem de [[Performance]] sua. Em caso de falha, a [[Criatura]] sofre o efeito [[Provocado]] contra você por 1d4 rodadas e perde a [[Concentração]] em qualquer magia que esteja mantendo. 
+Você realiza uma ação chamativa, visual ou sonora, atraindo a atenção para si.
+
+Todas as [[Criatura|Criaturas]] hostis a você dentro de uma área esférica de 19.5 metros de diâmetro ao seu redor, que possam ver ou ouvir você, devem realizar uma rolagem de [[Determinação]] contra sua rolagem de [[Performance]].
+
+Em caso de falha, a criatura sofre o efeito [[Provocado]] contra você por 1d4 rodadas, além de perder a [[Concentração]] em qualquer magia que esteja mantendo.

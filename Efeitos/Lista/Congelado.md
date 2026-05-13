@@ -5,4 +5,8 @@
 - **Duração:** 1d4 rodadas.
 
 ### Descrição
-A [[Criatura]] fica tremendo com o frio gélido passando pelo seu corpo. Enquanto afetada, sofre [[Desvantagem]] em [[Sistemas/Legends 4/Glossário/Lista/Rolagem|Rolagens]] de [[Perícia]] do [[Atributo]] [[Destreza]] e reduz em 3 metros todos os seus movimentos.
+A [[Criatura]] fica tremendo com o frio gélido passando pelo seu corpo. 
+
+Enquanto afetada:
+- Sofre [[Desvantagem]] em [[Sistemas/Legends 4/Glossário/Lista/Rolagem|Rolagens]] de [[Perícias]] do [[Atributos|Atributo]] [[Destreza]].
+- Tem 2 [[Ação de Movimento|Ações de Movimento]] a menos em seu turno.
