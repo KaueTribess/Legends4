@@ -5,6 +5,8 @@
 - **Custo:**
 	- Ação: [[Ação Bônus]].
 	- Energia: 5 [[Pontos de Energia]].
+- **Duração:** 1d6 + [[Bônus de Proficiência]] rodadas.
+- **Limite:** 1 [[Criatura]] marcada por vez.
 - **Repetível:** Não.
 
 ### Descrição

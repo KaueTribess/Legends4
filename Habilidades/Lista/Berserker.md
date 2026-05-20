@@ -2,6 +2,7 @@
 
 ### Características
 - **Tipo:** Passiva.
+- **Duração:** Enquanto estiver em [[Crítico]] e sob o efeito de [[Fúria]].
 - **Repetível:** Não.
 
 ### Descrição

@@ -5,4 +5,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Permite aprender e conjurar magias dos seus elementos proficientes.
+Permite aprender e conjurar [[Magias]] dos seus elementos proficientes.

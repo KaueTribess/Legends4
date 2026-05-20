@@ -1,7 +1,7 @@
 [[Tamanhos|<- Tamanhos]]
 
 ### Características
-- **Área Ocupada:** Menos de 1.5 x 1.5 metros.
+- **Área Ocupada:** Menos de 1,5 x 1,5 metros.
 - **Dimensões:** Até 30 centímetros.
 
 ### Descrição

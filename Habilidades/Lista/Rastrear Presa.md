@@ -5,6 +5,7 @@
 - **Custo:**
 	- Ação: [[Ação Bônus]].
 	- Energia: 5 [[Pontos de Energia]].
+- **Duração:** [[Bônus de Proficiência]] dias ou até marcar outra [[Criatura]].
 - **Repetível:** Não.
 
 ### Descrição

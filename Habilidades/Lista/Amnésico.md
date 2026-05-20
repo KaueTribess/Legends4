@@ -1,8 +1,8 @@
 [[Habilidades|<- Habilidades]]
 
 ### Características
-- Tipo: Passiva.
-- Repetível: Não.
+- **Tipo:** Passiva.
+- **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência nas [[Perícia|Perícias]] [[Determinação]] e [[Investigação]].
+Recebe proficiência nas [[Perícias]] [[Determinação]] e [[Investigação]].

@@ -2,6 +2,7 @@
 
 ### Características
 - **Tipo:** Passiva.
+- **Duração:** Até o fim do seu próximo [[Turno]].
 - **Limite:** 1 vez por rodada.
 - **Repetível:** Não.
 

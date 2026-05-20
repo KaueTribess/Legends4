@@ -1,8 +1,8 @@
 [[Habilidades|<- Habilidades]]
 
 ### Características
-- Tipo: Passiva.
-- Repetível: Não.
+- **Tipo:** Passiva.
+- **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência nas [[Perícia|Perícias]] [[Arcanismo]] e [[História]].
+Recebe proficiência nas [[Perícias]] [[Arcanismo]] e [[História]].

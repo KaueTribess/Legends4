@@ -12,9 +12,9 @@ Traços raciais:
     
 - Tipo de corpo: Normal.
     
-- Tamanho: Possuem uma altura média entre 1.65 e 1.8 metros de altura.
+- Tamanho: Possuem uma altura média entre 1,65 e 1,8 metros de altura.
     
-- Deslocamento: Possuem um deslocamento base de caminhada de 10.5 metros.
+- Deslocamento: Possuem um deslocamento base de caminhada de 10,5 metros.
     
 - Afinidade elemental: Possuem afinidade com o elemento Tenebris.
     
@@ -23,7 +23,7 @@ Habilidades:
 
 - Fôlego Imortal: Não precisa respirar para sobreviver, permitindo-lhe agir normalmente em ambientes sem ar ou de respiração limitada.
     
-- Semi Voo: Possui um deslocamento de escalada de 10.5 metros. Tem vantagem em testes de Atletismo relacionados a escalar.
+- Semi Voo: Possui um deslocamento de escalada de 10,5 metros. Tem vantagem em testes de Atletismo relacionados a escalar.
     
 - Visão Vampírica: Seus olhos podem detectar assinaturas térmicas a até 18 metros, permitindo localizar criaturas em escuridão total.
     

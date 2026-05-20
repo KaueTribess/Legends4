@@ -9,4 +9,4 @@ A [[Criatura]] fica em harmonia com suas energias arcanas, desbloqueando seu pot
 
 Enquanto afetada:
 - Torna-se proficiente em todos os elementos que possui afinidade.
-- Não pode ser afetado pelo efeito [[Desconcentrado]].
+- Não pode ser afetada pelo efeito [[Desconcentrado]].

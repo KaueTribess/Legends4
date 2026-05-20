@@ -1,8 +1,8 @@
 [[Habilidades|<- Habilidades]]
 
 ### Características
-- Tipo: Passiva.
-- Repetível: Não.
+- **Tipo:** Passiva.
+- **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência nas [[Perícia|Perícias]] [[Foco]] e [[Natureza]].
+Recebe proficiência nas [[Perícias]] [[Foco]] e [[Natureza]].

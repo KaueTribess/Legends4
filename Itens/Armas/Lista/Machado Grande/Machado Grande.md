@@ -3,7 +3,7 @@
 ### Características
 - Dano Base: 
 	- Corpo a Corpo: 1d12 [[Cortante]].
-- Peso: 3.5 Kg.
+- Peso: 3,5 Kg.
 - Valores:
 	- Compra: 90 Coroas.
 	- Venda: 45 Coroas.

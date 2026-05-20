@@ -5,7 +5,7 @@
 - Inventário:
 	- Consome Espaços: Sim.
 	- Quantidade por Espaço: Até 4 Unidades.
-- Peso: 0.25 Kg.
+- Peso: 0,25 Kg.
 - Valores:
 	- Compra: 4 Coroas.
 	- Venda: 0 Coroas.

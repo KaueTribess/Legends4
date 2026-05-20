@@ -8,6 +8,6 @@
 - **Repetível:** Não.
 
 ### Descrição
-Quando uma [[Criatura]] a até 15 metros de você, que possa ver ou ouvir você, realizar uma rolagem de [[Perícia]], você pode utilizar esta habilidade como uma [[Reação]] antes que o resultado seja declarado.
+Quando uma [[Criatura]] a até 15 metros de você, que possa ver ou ouvir você, realizar uma rolagem de [[Perícias|Perícia]], você pode utilizar esta habilidade como uma [[Reação]] antes que o resultado seja declarado.
 
 A criatura sofre o efeito [[Desencorajado]], que deve ser aplicado à mesma rolagem.

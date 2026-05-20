@@ -1,8 +1,8 @@
 [[Habilidades|<- Habilidades]]
 
 ### Características
-- Tipo: Passiva.
-- Repetível: Não.
+- **Tipo:** Passiva.
+- **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência nas [[Perícia|Perícias]] [[Engenharia]] e [[Prestidigitação]].
+Recebe proficiência nas [[Perícias]] [[Engenharia]] e [[Prestidigitação]].

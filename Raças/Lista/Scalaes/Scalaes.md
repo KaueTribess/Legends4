@@ -15,4 +15,4 @@
 - **Idade:** São considerados adultos ao atingirem seus 25 anos e possuem uma expectativa de vida de 150 anos.
 - **Tamanho:**
 	- Categoria: [[Médio]].
-	- Descrição: Possuem entre 1.8 e 2.1 metros de altura.
+	- Descrição: Possuem entre 1,8 e 2,1 metros de altura.

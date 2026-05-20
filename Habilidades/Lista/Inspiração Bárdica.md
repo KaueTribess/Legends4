@@ -5,6 +5,7 @@
 - **Custo:**
 	- Ação: [[Ação Bônus]].
 	- Energia: 5 [[Pontos de Energia]].
+- **Duração:** 1 rodada.
 - **Repetível:** Não.
 
 ### Descrição

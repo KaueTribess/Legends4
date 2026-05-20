@@ -4,6 +4,7 @@
 - **Tipo:** Ativa.
 - **Custo:**
 	- Ação: [[Reação]].
+- **Limite:** Não pode ser utilizada se a [[Criatura]] eliminada tiver recebido [[Marca de Caça]] por meio desta habilidade.
 - **Repetível:** Não.
 
 ### Descrição

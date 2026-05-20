@@ -5,6 +5,7 @@
 - **Custo:**
 	- Ação: [[Ação Bônus]].
 	- Energia: 5 [[Pontos de Energia]].
+- **Duração:** Até o fim do próximo [[Turno]] da [[Criatura]] afetada.
 - **Repetível:** Não.
 
 ### Descrição

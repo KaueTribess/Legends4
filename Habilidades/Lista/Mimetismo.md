@@ -5,6 +5,7 @@
 - **Custo:**
 	- Ação: [[Ação Padrão]].
 	- Energia: 5 [[Pontos de Energia]].
+- **Duração:** Enquanto permanecer oculto no mesmo ambiente.
 - **Repetível:** Não.
 
 ### Descrição

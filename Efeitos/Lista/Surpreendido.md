@@ -5,7 +5,7 @@
 - **Duração:** 1 rodada.
 
 ### Descrição
-A [[Criatura]] fica surpreendido com um ataque surpresa. 
+A [[Criatura]] fica surpreendida com um ataque surpresa. 
 
 Enquanto afetada:
 - Não pode utilizar nenhum tipo de [[Ações|Ação]].

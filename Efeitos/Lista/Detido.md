@@ -5,7 +5,7 @@
 - **Duração:** Indeterminada.
 
 ### Descrição
-A [[Criatura]] fica contido por algo ou alguém, impossibilitando se distanciar. 
+A [[Criatura]] fica contida por algo ou alguém, impossibilitando se distanciar. 
 
 Enquanto afetada:
 - Não pode utilizar nenhuma [[Ação de Movimento]].

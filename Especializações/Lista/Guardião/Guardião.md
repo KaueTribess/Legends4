@@ -197,7 +197,7 @@ Permite que o guardião utilize duas reações em sua rodada, entretanto ele só
 
   
 
-Permite que o guardião entre na frente de um ataque de combate realizado dentro de uma área de 4.5m³ ao seu redor, tomando o dano no lugar do alvo original do ataque. O alvo deve estar dentro da área para que o guardião possa utilizar esta habilidade.
+Permite que o guardião entre na frente de um ataque de combate realizado dentro de uma área de 4,5m³ ao seu redor, tomando o dano no lugar do alvo original do ataque. O alvo deve estar dentro da área para que o guardião possa utilizar esta habilidade.
 
   
   

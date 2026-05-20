@@ -1,8 +1,8 @@
 [[Habilidades|<- Habilidades]]
 
 ### Características
-- Tipo: Passiva.
-- Repetível: Sim.
+- **Tipo:** Passiva.
+- **Repetível:** Não.
 
 ### Descrição
 Recebe proficiência com o elemento [[Natura]].

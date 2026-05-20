@@ -1,11 +1,10 @@
-[[Habilidades|<- Habilidades]]
 [[Árvore de Habilidades|<- Árvore de Habilidades]]
 
 ### Descrição
-Descrição
+O Ramo do Habilidoso reúne habilidades gerais que representam treinamento amplo, talentos versáteis e proficiências adicionais. Diferente dos outros ramos, ele possui apenas um nível.
 
 #### Nível 1
-- Custo p/ Habilidade: 1 [[Pontos de Habilidade]].
+- Custo por Habilidade: 1 [[Pontos de Habilidade|Ponto de Habilidade]].
 - Habilidades:
 	- [[Aumento de Atributo]].
 	- [[Conexão Arcana]].

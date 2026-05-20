@@ -4,7 +4,7 @@
 - Dano Base: 
 	- Corpo a Corpo: 1d4 [[Contundente]].
 	- Distância: 2d6 [[Perfurante]].
-- Peso: 3.5 Kg.
+- Peso: 3,5 Kg.
 - Valores:
 	- Compra: 100 Coroas.
 	- Venda: 50 Coroas.

@@ -14,4 +14,4 @@
 - **Idade:** São considerados adultos ao atingirem seus 12 anos e possuem uma expectativa de vida de 70 anos.
 - **Tamanho:**
 	- Categoria: [[Médio]].
-	- Descrição: Possuem entre 1.6 e 1.9 metros de altura.
+	- Descrição: Possuem entre 1,6 e 1,9 metros de altura.

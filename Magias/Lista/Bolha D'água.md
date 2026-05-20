@@ -14,4 +14,4 @@
 - [[Somático]].
 
 ### Descrição
-Acumula água no formato de uma esfera entre suas mãos e a dispara na direção de um alvo a até 6 metros. Ao contato ela estoura, causando o efeito [[Molhado]] a todas as [[Criatura|Criaturas]] em uma área de 4.5m³ de diâmetro por (1d4) rodadas.
+Acumula água no formato de uma esfera entre suas mãos e a dispara na direção de um alvo a até 6 metros. Ao contato ela estoura, causando o efeito [[Molhado]] a todas as [[Criatura|Criaturas]] em uma área de 4,5m³ de diâmetro por (1d4) rodadas.

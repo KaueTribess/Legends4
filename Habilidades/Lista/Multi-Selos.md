@@ -2,6 +2,7 @@
 
 ### Características
 - **Tipo:** Passiva.
+- **Limite:** 2 selos de [[Selo Divino]] ativos ao mesmo tempo.
 - **Repetível:** Não.
 
 ### Descrição

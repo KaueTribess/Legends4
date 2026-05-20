@@ -5,6 +5,7 @@
 - **Custo:**
 	- Ação: [[Reação]].
 	- Energia: 5 [[Pontos de Energia]].
+- **Duração:** Até sua postura mudar.
 - **Repetível:** Não.
 
 ### Descrição
@@ -15,7 +16,7 @@ Você pode utilizar uma Reação para alterar sua postura durante a rodada, esco
 Ativa caso termine seu turno logo após [[Correr]] ou [[Pular]]. Enquanto ativa aumenta em 1 sua [[Classe de Armadura]] contra [[Rolagem de Ataque|Rolagens de Ataque]] a distância e concede 1 [[Ação de Movimento]] adicional. Em contrapartida, no seu próximo turno, sua primeira [[Ações|Ação]] deve ser uma [[Ação de Movimento]], caso contrário, você assume a **Postura Neutra** novamente.
 
 #### Postura Defensiva 
-Ativa caso termine seu turno logo após [[Desengajar]], [[Preparar Defesa]] ou [[Preparar Esquiva]]. Enquanto ativa aumenta em 2 sua [[Classe de Armadura]] contra [[Rolagem de Ataque|Rolagens de Ataque]] corpo a corpo e recebe [[Vantagem]] em testes contra ser empurrado. Caso uma [[Rolagem de Ataque]] corpo a corpo contra você não o atinja, pode se mover 1.5 metros sem gerar [[Ataque Oportuno|Ataques Oportunos]].
+Ativa caso termine seu turno logo após [[Desengajar]], [[Preparar Defesa]] ou [[Preparar Esquiva]]. Enquanto ativa aumenta em 2 sua [[Classe de Armadura]] contra [[Rolagem de Ataque|Rolagens de Ataque]] corpo a corpo e recebe [[Vantagem]] em testes contra ser empurrado. Caso uma [[Rolagem de Ataque]] corpo a corpo contra você não o atinja, pode se mover 1,5 metros sem gerar [[Ataque Oportuno|Ataques Oportunos]].
 
 #### Postura Neutra
 Ativa caso nenhum gatilho para outra postura é acionado no turno. Enquanto ativa, não concede Bônus ou penalidades.

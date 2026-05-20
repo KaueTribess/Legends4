@@ -221,7 +221,7 @@ Permite que o ladino dobre o dano causado por um golpe furtivo ao utilizar a hab
 |---|---|---|
 |### Olhos de Gatuno|   ||
 |Tipo: Passiva||   |
-|Descrição:<br><br>  <br><br>Pode ver a até 7.5 metros no escuro.|   |   |
+|Descrição:<br><br>  <br><br>Pode ver a até 7,5 metros no escuro.|   |   |
 
   
   

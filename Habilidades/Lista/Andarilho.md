@@ -1,8 +1,8 @@
 [[Habilidades|<- Habilidades]]
 
 ### Características
-- Tipo: Passiva.
-- Repetível: Não.
+- **Tipo:** Passiva.
+- **Repetível:** Não.
 
 ### Descrição
-Não sofre penalidades de movimento vindas do efeito [[Exaustão (1 - 4)]].
+Não sofre penalidades na sua quantidade de [[Ação de Movimento|Ações de Movimento]] vindas do efeito [[Exaustão]].

@@ -12,16 +12,19 @@ A raça não determina a personalidade, história ou papel do personagem, mas in
 - **Linhagens:** Algumas raças possuem linhagens. Ao escolher uma linhagem, o personagem recebe as características da raça principal e também as características indicadas pela linhagem.
 
 ### Lista
-- [[Anões]].
-- [[Cognatos]].
-- [[Corrompidos]].
-- [[Elfos]].
-- [[Felikars]].
-- [[Gnomos]].
-- [[Humanos]].
-- [[Luminitas]].
-- [[Parvitans]].
-- [[Scalaes]].
+- **Naturais:**
+	- [[Anões]].
+	- [[Cognatos]].
+	- [[Elfos]].
+	- [[Felikars]].
+	- [[Gnomos]].
+	- [[Humanos]].
+	- [[Parvitans]].
+	- [[Scalaes]].
+- **Especiais:**
+	- [[Corrompidos]].
+	- [[Luminitas]].
+	- [[Mestiços]].
 
 ### Linhagens
 - **[[Corrompidos]]:** 

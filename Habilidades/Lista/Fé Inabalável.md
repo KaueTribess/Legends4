@@ -1,8 +1,8 @@
 [[Habilidades|<- Habilidades]]
 
 ### Características
-- Tipo: Passiva.
-- Repetível: Não.
+- **Tipo:** Passiva.
+- **Repetível:** Não.
 
 ### Descrição
-Não pode sofrer [[Desvantagem]] comum em rolagens com a [[Perícia]] [[Crença]].
+Não pode sofrer [[Desvantagem]] comum em rolagens com a [[Perícias|Perícia]] [[Crença]].

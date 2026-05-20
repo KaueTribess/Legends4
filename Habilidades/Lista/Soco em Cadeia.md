@@ -9,4 +9,6 @@
 - **Repetível:** Não.
 
 ### Descrição
-Ao realizar um ataque com uma das suas [[Armas de Pugilista]], permite encadear um golpe corpo a corpo adicional com outra das suas [[Armas de Pugilista]], podendo adicionar o modificador a sua rolagem de dano. Essa habilidade poder ser utilizada até (Nível de [[Pugilista]]) vezes por rodada.
+Ao realizar um ataque com uma das suas [[Armas de Pugilista]], permite encadear um golpe corpo a corpo adicional com outra das suas [[Armas de Pugilista]], podendo adicionar o modificador à sua rolagem de dano. 
+
+Essa habilidade pode ser utilizada até (Nível de [[Pugilista]]) vezes por rodada.

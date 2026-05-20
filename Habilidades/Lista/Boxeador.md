@@ -2,6 +2,7 @@
 
 ### Características
 - **Tipo:** Passiva.
+- **Limite:** 1 uso gratuito de cada habilidade listada por [[Rodada]].
 - **Repetível:** Não.
 
 ### Descrição

@@ -4,7 +4,7 @@
 - Dano Base: 
 	- Corpo a Corpo: 1d6 [[Perfurante]].
 	- Distância: 1d6 [[Perfurante]].
-- Peso: 0.5 Kg.
+- Peso: 0,5 Kg.
 - Valores:
 	- Compra: 40 Coroas.
 	- Venda: 20 Coroas.

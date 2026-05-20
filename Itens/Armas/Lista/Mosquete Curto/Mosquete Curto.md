@@ -4,15 +4,15 @@
 - Dano Base: 
 	- Corpo a Corpo: 1d2 [[Contundente]].
 	- Distância: 1d12 [[Perfurante]].
-- Peso: 2.5 Kg.
+- Peso: 2,5 Kg.
 - Valores:
 	- Compra: 80 Coroas.
 	- Venda: 40 Coroas.
 - Propriedades:
 	- [[Carregador|Carregador(2)]].
 	- [[Disparo]]:
-		- Efetivo: 7.5 metros.
-		- Máximo: 22.5 metros.
+		- Efetivo: 7,5 metros.
+		- Máximo: 22,5 metros.
 	- [[Munição]]:
 		- [[Balotes]].
 - Truques:

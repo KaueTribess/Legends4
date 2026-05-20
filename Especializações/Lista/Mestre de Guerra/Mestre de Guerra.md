@@ -109,7 +109,7 @@ Permite que o guerreiro faça um ataque desarmador contra um alvo, causando o da
 
   
 
-Permite que o guerreiro faça um grito de guerra, fazendo com que o guerreiro, e todas as criaturas dentro de uma área circular de 10.5 metros de diâmetro ao seu redor que ele considera como aliadas, recebam vida temporária igual a quantidade máxima de pontos de combate do guerreiro. Esse efeito não é acumulativo.
+Permite que o guerreiro faça um grito de guerra, fazendo com que o guerreiro, e todas as criaturas dentro de uma área circular de 10,5 metros de diâmetro ao seu redor que ele considera como aliadas, recebam vida temporária igual a quantidade máxima de pontos de combate do guerreiro. Esse efeito não é acumulativo.
 
   
   

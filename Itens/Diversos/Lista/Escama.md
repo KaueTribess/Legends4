@@ -4,7 +4,7 @@
 - Conectável: Não.
 - Inventário:
 	- Consome Espaços: Não.
-- Peso: 0.2 Kg.
+- Peso: 0,2 Kg.
 - Valores:
 	- Compra: 10 Coroas.
 	- Venda: 0 Coroas.

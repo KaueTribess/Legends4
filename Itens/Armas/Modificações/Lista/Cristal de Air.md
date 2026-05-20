@@ -3,7 +3,7 @@
 [[Modificações|<- Modificações]]
 
 ### Características
-- Peso: 0.5 Kg.
+- Peso: 0,5 Kg.
 - Valores:
 	- Compra: 50 Coroas.
 	- Venda: 25 Coroas.

@@ -204,7 +204,7 @@ O sistema divide o estado físico de uma criatura em faixas simples:
 - [[Condições Vitais/Lista/Estável|Estável]]: acima de `50%` da vida máxima.
 - [[Condições Vitais/Lista/Ferido|Ferido]]: `50%` da vida máxima ou menos, mas acima de `25%`.
 - [[Condições Vitais/Lista/Crítico|Crítico]]: `25%` da vida máxima ou menos, mas acima de `0`.
-- [[Condições Vitais/Lista/Incapacitado|Incapacitado]]: `0` pontos de vida ou menos.
+- [[Debilitado|Debilitado]]: `0` pontos de vida ou menos.
 
 ### Quando você cai
 
@@ -218,15 +218,15 @@ No estado atual do sistema, existem três caminhos principais:
 Se o personagem for curado por ações externas até voltar a pelo menos `1` ponto de vida:
 
 - ele deixa de estar Morrendo
-- precisa fazer um teste de [[Constituição]] com dificuldade `20` para não ganhar `1` nível de [[Efeitos/Lista/Exaustão (1 - 4)|Exaustão]]
+- precisa fazer um teste de [[Constituição]] com dificuldade `20` para não ganhar `1` nível de [[Exaustão]]
 
 ## Exaustão
 
-A [[Efeitos/Lista/Exaustão (1 - 4)|Exaustão]] é uma das punições mais importantes do sistema.
+A [[Exaustão]] é uma das punições mais importantes do sistema.
 
 - Do nível `1` ao `4`, você sofre `-2 x nível de exaustão` em todas as rolagens de perícia.
 - Também perde uma quantidade de [[Ações/Lista/Ação de Movimento/Ação de Movimento|Ações de Movimento]] igual ao nível de exaustão.
-- No nível `5`, entra em [[Efeitos/Lista/Exaustão (5)|Exaustão 5]], sofre o efeito [[Efeitos/Lista/Morrendo|Morrendo]] e corre risco real de morte mesmo se passar em testes de estabilidade.
+- No nível `5`, sofre o efeito [[Efeitos/Lista/Morrendo|Morrendo]] e corre risco real de morte mesmo se passar em testes de estabilidade.
 
 ## Energia, habilidades, magias e truques
 

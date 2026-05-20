@@ -3,7 +3,7 @@
 ### Características
 - Dano Base: 
 	- Corpo a Corpo: 1d2 [[Contundente]].
-- Peso: 0.2 Kg.
+- Peso: 0,2 Kg.
 - Valores:
 	- Compra: 40 Coroas.
 	- Venda: 20 Coroas.

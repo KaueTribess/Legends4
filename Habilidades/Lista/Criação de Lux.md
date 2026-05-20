@@ -1,8 +1,10 @@
 [[Habilidades|<- Habilidades]]
 
 ### Características
-- Tipo: Passiva.
-- Repetível: Não.
+- **Tipo:** Passiva.
+- **Repetível:** Não.
 
 ### Descrição
-Recebe [[Proficiência]] na [[Perícia]] [[Crença]] e [[Resistência]] a dano [[Necrótico]].
+Recebe proficiência na [[Perícias|Perícia]] [[Crença]].
+
+Recebe [[Resistência]] a dano [[Necrótico]].

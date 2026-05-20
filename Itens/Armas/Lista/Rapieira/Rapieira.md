@@ -2,7 +2,7 @@
 ### Características
 - Dano Base: 
 	- Corpo a Corpo: 1d8 [[Perfurante]].
-- Peso: 1.5 Kg.
+- Peso: 1,5 Kg.
 - Valores:
 	- Compra: 60 Coroas.
 	- Venda: 30 Coroas.

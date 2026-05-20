@@ -2,6 +2,8 @@
 
 ### Características
 - **Tipo:** Passiva.
+- **Duração:** Até o fim do [[Turno]].
+- **Limite:** 1 vez por [[Turno]].
 - **Repetível:** Não.
 
 ### Descrição

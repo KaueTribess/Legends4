@@ -14,7 +14,7 @@ Traços raciais:
     
 - Tipo de corpo: Normal.
     
-- Tamanho: Possuem uma altura média entre 1.55 e 1.7 metros de altura.
+- Tamanho: Possuem uma altura média entre 1,55 e 1,7 metros de altura.
     
 - Deslocamento: Possuem um deslocamento base de caminhada de 9 metros.
     

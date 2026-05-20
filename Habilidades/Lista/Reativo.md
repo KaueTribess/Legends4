@@ -1,8 +1,8 @@
 [[Habilidades|<- Habilidades]]
 
 ### Características
-- Tipo: Passiva.
-- Repetível: Não.
+- **Tipo:** Passiva.
+- **Repetível:** Não.
 
 ### Descrição
-Recebe uma segunda [[Reação]] para utilizar toda rodada.
+Tem uma [[Reação]] a mais para utilizar toda [[Rodada]].

@@ -14,4 +14,4 @@
 - **Idade:** São considerados adultos ao atingirem seus 24 anos e possuem uma expectativa de vida de 180 anos.
 - **Tamanho:**
 	- Categoria: [[Pequeno]].
-	- Descrição: Possuem entre 1.1 e 1.4 metros de altura.
+	- Descrição: Possuem entre 1,1 e 1,4 metros de altura.

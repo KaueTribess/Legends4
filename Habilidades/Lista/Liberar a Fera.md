@@ -4,6 +4,7 @@
 - **Tipo:** Ativa.
 - **Custo:**
 	- Ação: [[Ação Bônus]].
+- **Duração:** Até o fim da transformação.
 - **Repetível:** Não.
 
 ### Descrição

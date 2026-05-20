@@ -5,7 +5,7 @@
 ### Status
 - **Nível de Poder:** 1.
 - **Categoria:** [[Sistemas/Legends 4/Criaturas/Categorias/Besta|Besta]].
-- **Movimento Base:** 13.5 metros.
+- **Movimento Base:** 13,5 metros.
 - **Tamanho:** [[Médio]].
 - **[[Pontos de Vida]]:** 9 - 12.
 - **[[Classe de Armadura]]:** 14.

@@ -1,7 +1,25 @@
 [[Habilidades|<- Habilidades]]
 
 ### Descrição
-A Árvore de Habilidades é onde os jogadores podem gastar seus [[Pontos de Habilidade]] adquiridos ao subir de nível para se especializar em uma área mais especifica. A árvore conta com 5 ramos, cada um fornecendo habilidades diversas conforme você investe nele. Os ramos possuem níveis e para gastar [[Pontos de Habilidade]] para pegar uma [[Habilidades|Habilidade]] de um nível, é necessário ter pego pelo menos uma [[Habilidades|Habilidade]] de cada um dos níveis anteriores.
+A Árvore de Habilidades permite que personagens gastem [[Pontos de Habilidade]] para adquirir habilidades fora da progressão fixa de [[Classes]] e [[Especializações]].
+
+Ela é dividida em ramos, que representam áreas diferentes de especialização.
+
+### Características
+- **Ramos:** A árvore possui 5 ramos, cada um focado em uma área de especialização.
+- **Níveis:** Cada ramo possui habilidades divididas por nível.
+- **Custo:** Cada habilidade possui um custo em [[Pontos de Habilidade]], definido pelo nível em que ela aparece.
+- **Progressão no Ramo:** Para adquirir uma [[Habilidades|Habilidade]] de um nível de um ramo, é necessário possuir pelo menos uma habilidade de cada nível anterior daquele mesmo ramo.
+- **Repetição:** Uma habilidade só pode ser adquirida mais de uma vez se for marcada como repetível.
+
+### Exemplo
+Para adquirir uma habilidade de nível 2 do [[Ramo de Combate]], é necessário possuir pelo menos uma habilidade de nível 1 do [[Ramo de Combate]].
+
+Para adquirir uma habilidade de nível 3 do mesmo ramo, é necessário possuir pelo menos uma habilidade de nível 1 e uma habilidade de nível 2 daquele ramo.
 
 ### Ramos
-- 
+- [[Ramo de Combate]].
+- [[Ramo de Precisão]].
+- [[Ramo de Resistência]].
+- [[Ramo do Arcano]].
+- [[Ramo do Habilidoso]].

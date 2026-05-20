@@ -93,11 +93,11 @@ Permite que o druida possa modificar partes do seu corpo, às fazendo assumir ca
 
   
 
-- Pernas de Antílope: Suas pernas se transformam em ágeis patas de um Antílope que aumentam seu movimento máximo de caminhada em (1.5 * BP) metros. Enquanto com essa transformação, você não consegue nadar muito bem, diminuindo pela metade o seu movimento máximo de natação.
+- Pernas de Antílope: Suas pernas se transformam em ágeis patas de um Antílope que aumentam seu movimento máximo de caminhada em (1,5 * BP) metros. Enquanto com essa transformação, você não consegue nadar muito bem, diminuindo pela metade o seu movimento máximo de natação.
 
   
 
-- Asas de Grifo: Seus braços se transformam em esbeltas asas de um grifo que permitem um pequeno voo a até (1.5 * BP) metros do chão e concedem um movimento máximo de voo de (3 * BP) metros. Enquanto com essa transformação, você não consegue interagir com objetos pesados ou que exijam precisão e possui desvantagem em rolagens de Prestidigitação.
+- Asas de Grifo: Seus braços se transformam em esbeltas asas de um grifo que permitem um pequeno voo a até (1,5 * BP) metros do chão e concedem um movimento máximo de voo de (3 * BP) metros. Enquanto com essa transformação, você não consegue interagir com objetos pesados ou que exijam precisão e possui desvantagem em rolagens de Prestidigitação.
 
   
 

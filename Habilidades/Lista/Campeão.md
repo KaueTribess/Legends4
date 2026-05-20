@@ -1,8 +1,9 @@
 [[Habilidades|<- Habilidades]]
 
 ### Características
-- Tipo: Passiva.
-- Repetível: Não.
+- **Tipo:** Passiva.
+- **Limite:** 1 uso adicional de [[Táticas de Guerrilha]] por rodada.
+- **Repetível:** Não.
 
 ### Descrição
 Pode utilizar [[Táticas de Guerrilha]] uma segunda vez por rodada, desde que cada uso seja aplicado a um [[Truques de Arma|Truque de Arma]] diferente.

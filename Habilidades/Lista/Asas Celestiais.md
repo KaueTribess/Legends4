@@ -10,4 +10,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Uma vez por descanso, pode conjurar suas asas celestiais, com o poder de [[Lux]],  concedendo a possibilidade de [[Voar]] pela duração.
+Uma vez por descanso, pode conjurar suas asas celestiais, com o poder de [[Lux]], concedendo a possibilidade de [[Voar]] pela duração.
