@@ -32,7 +32,7 @@
 	- [[Atletismo]].
 	- [[Foco]].
 	- [[Furtividade]].
-	- [[Investigação]].
+	- [[Sistemas/Legends 4/Atributos/Perícias/Lista/Investigação]].
 	- [[Natureza]].
 	- [[Percepção]].
 	- [[Precisão]].

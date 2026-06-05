@@ -8,6 +8,7 @@ Você foi criado nas sombras, possuindo um histórico de atividades ilegais, sej
 - [[Escapista]].
 
 ### Itens
-- 30x [[Coroa|Coroas]].
+- 10x [[Coroa|Coroas]].
 - 1x [[Gazua]].
 - 1x [[Porrete]].
+- 1x [[Ração]].

@@ -5,4 +5,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Recebe [[Imunidade]] ao efeito [[Surpreendido]].
+Recebe [[Resistência]] ao efeito [[Surpreendido]].

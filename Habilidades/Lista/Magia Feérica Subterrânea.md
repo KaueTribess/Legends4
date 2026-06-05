@@ -5,4 +5,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência com o elemento [[Terra]].
+Recebe [[Proficiência]] com o elemento [[Terra]].

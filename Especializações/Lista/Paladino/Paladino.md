@@ -8,7 +8,7 @@
 
 ### Pré-requisitos
 - **[[Perícias]]:**
-	- [[Combate]](4).
+	- [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate]](4).
 	- [[Crença]](5).
 
 ### Status

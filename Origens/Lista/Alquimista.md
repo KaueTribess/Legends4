@@ -1,5 +1,3 @@
-[[W.I.P]]
-
 [[Origens|<- Origens]]
 
 ### Descrição
@@ -7,8 +5,9 @@ Você trabalhou em laboratórios e estudou diversos alquimistas, aprendendo a cr
 
 ### Habilidades
 - [[Sistemas/Legends 4/Habilidades/Lista/Alquimista|Alquimista]].
-- ???
+- [[Treino Alquímico]].
 
 ### Itens
-- 60x [[Coroa|Coroas]].
+- 40x [[Coroa|Coroas]].
 - 1x [[Kit de Alquimia]].
+- 1x [[Ração]].

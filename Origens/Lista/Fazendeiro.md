@@ -8,5 +8,6 @@ Você passou um longo período da sua vida trabalhando duro em fazendas ou curra
 - [[Despertador Biológico]].
 
 ### Itens
-- 60x [[Coroa|Coroas]].
+- 40x [[Coroa|Coroas]].
 - 1x [[Forcado]].
+- 1x [[Ração]].

@@ -5,4 +5,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência com armaduras [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Média|Médias]].
+Recebe [[Proficiência]] com armaduras [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Média|Médias]].

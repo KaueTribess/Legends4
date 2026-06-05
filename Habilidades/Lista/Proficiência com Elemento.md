@@ -5,4 +5,4 @@
 - **Repetível:** Sim.
 
 ### Descrição
-Recebe proficiência com um dos seus [[Elementos]] de afinidade de sua escolha.
+Recebe [[Proficiência]] com um dos seus [[Elementos]] de afinidade de sua escolha.

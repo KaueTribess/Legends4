@@ -7,7 +7,7 @@
 	- Quantidade por Espaço: Até 2 Unidades.
 - Peso: 0,5 Kg.
 - Valores:
-	- Compra: 3 Coroas.
+	- Compra: 5 Coroas.
 	- Venda: 0 Coroas.
 
 ### Descrição

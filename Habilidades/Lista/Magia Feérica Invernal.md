@@ -5,4 +5,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência com o elemento [[Gelus]].
+Recebe [[Proficiência]] com o elemento [[Gelus]].

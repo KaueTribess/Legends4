@@ -5,4 +5,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência nas [[Perícias]] [[Atletismo]] e [[Percepção]].
+Recebe [[Proficiência]] nas perícias [[Atletismo]] e [[Percepção]].

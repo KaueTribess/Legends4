@@ -9,5 +9,6 @@ Você é um servo devoto a sua divindade, dedicando sua vida aos seus deveres e 
 
 ### Itens
 - 30x [[Coroa|Coroas]].
-- 1x [[Frasco de Água Sagrada]].
+- 2x [[Frasco de Água Sagrada]].
+- 1x [[Ração]].
 - 1x [[Símbolo Sagrado]].

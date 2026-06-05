@@ -32,7 +32,7 @@
 	- [[Foco]].
 	- [[História]].
 	- [[Intuição]].
-	- [[Investigação]].
+	- [[Sistemas/Legends 4/Atributos/Perícias/Lista/Investigação]].
 	- [[Medicina]].
 	- [[Persuasão]].
 

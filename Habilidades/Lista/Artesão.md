@@ -5,4 +5,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência nas [[Perícias]] [[Engenharia]] e [[Prestidigitação]].
+Recebe [[Proficiência]] nas perícias [[Engenharia]] e [[Prestidigitação]].

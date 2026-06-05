@@ -5,4 +5,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência nas [[Perícias]] [[Adestramento]] e [[Natureza]].
+Recebe [[Proficiência]] nas perícias [[Adestramento]] e [[Natureza]].

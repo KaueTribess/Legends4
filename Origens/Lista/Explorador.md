@@ -8,8 +8,9 @@ Você passou anos em ambientes selvagens, explorando o desconhecido e aprendendo
 - [[Conservando Recursos]].
 
 ### Itens
-- 60x [[Coroa|Coroas]].
+- 20x [[Coroa|Coroas]].
 - 1x [[Antidoto]].
-- 2x [[Bandagem]].
+- 1x [[Bandagem]].
 - 5x [[Frasco de Água]].
-- 3x [[Ração]].
+- 1x [[Mochila de Viagem]].
+- 1x [[Ração]].

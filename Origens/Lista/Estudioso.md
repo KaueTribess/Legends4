@@ -8,6 +8,6 @@ Você é estudioso e erudito, dedicou a maior parte da sua vida aos estudos, ond
 - [[Rato de Biblioteca]].
 
 ### Itens
-- 60x [[Coroa|Coroas]].
+- 70x [[Coroa|Coroas]].
 - 1x [[Grimório]].
-- 2x [[Ração]].
+- 1x [[Ração]].

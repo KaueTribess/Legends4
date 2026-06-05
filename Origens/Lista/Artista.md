@@ -1,18 +1,17 @@
-[[W.I.P]]
-
 [[Origens|<- Origens]]
 
 ### Descrição
-Você se destaca dos demais com seus talentos únicos, seja cantando, pintando, atuando ou até mesmo esculpindo, você possui a capacidade de encantar e cativar pessoas com seu trabalho.
+Você viveu da própria arte, cativando pessoas com música, pintura, atuação, escultura ou qualquer expressão capaz de prender olhares. Seu talento ensinou você a encantar e cativar pessoas, além de transformar a atenção em oportunidade.
 
 ### Habilidades
 - [[Sistemas/Legends 4/Habilidades/Lista/Artista|Artista]].
-- ???
+- [[Talento Artístico]].
 
 ### Itens
-- 90x [[Coroa|Coroas]].
-- 1 dentre:
+- 100x [[Coroa|Coroas]].
+- **1 dentre:**
 	- 1x [[Instrumento]].
 	- 1x [[Kit de Carpintaria]].
 	- 1x [[Kit de Costura]].
 	- 1x [[Kit de Pintura]].
+- 1x [[Ração]].

@@ -10,4 +10,6 @@
 	- Venda: 20 Coroas.
 
 ### Descrição
-Um grande mochila de viagem, utilizada para carregar um peso extra de forma eficiente. Enquanto no inventário, aumenta em 2 a sua quantidade total de espaços no inventário. Só é possível receber o beneficio de uma Mochila de Viagem por [[Criatura]].
+Um grande mochila de viagem, utilizada para carregar um peso extra de forma eficiente. Enquanto no inventário, aumenta em 2 a sua quantidade total de espaços no inventário. 
+
+Uma [[Criatura]] só pode receber o beneficio de uma Mochila de Viagem.

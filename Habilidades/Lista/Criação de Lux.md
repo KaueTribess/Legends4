@@ -5,6 +5,6 @@
 - **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência na [[Perícias|Perícia]] [[Crença]].
+Recebe [[Proficiência]] na perícia [[Crença]].
 
 Recebe [[Resistência]] a dano [[Necrótico]].

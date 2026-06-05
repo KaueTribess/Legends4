@@ -5,4 +5,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência nas [[Perícias]] [[Constituição]] e [[Determinação]].
+Recebe [[Proficiência]] nas perícias [[Constituição]] e [[Determinação]].

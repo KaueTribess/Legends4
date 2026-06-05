@@ -10,7 +10,7 @@ Atributos são as cinco dimensões fundamentais que definem as capacidades de um
 	- Total no [[Nível de Poder]] 15: 60.
 - Distribuição: Os [[Pontos de Atributo]] são distribuídos primeiro entre os atributos e depois entre as [[Perícias]] pertencentes a cada atributo.
 - Exemplo:
-	- Um [[Personagem|personagem]] com 15 pontos em [[Corpo]] pode gastar 6 em [[Combate]], 6 em [[Energia]] e 3 em [[Vitalidade]].
+	- Um [[Personagem|personagem]] com 15 pontos em [[Corpo]] pode gastar 6 em [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate]], 6 em [[Energia]] e 3 em [[Vitalidade]].
 
 ### Lista
 - [[Corpo]].

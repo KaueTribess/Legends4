@@ -1,15 +1,15 @@
 [[Origens|<- Origens]]
 
 ### Descrição
-Você foi um dos poucos sobreviventes de uma catástrofe, seja ela um incêndio, um terremoto, um ataque de dragão ou uma invasão inimiga, que deixou cicatrizes profundas, deixando você atento até ao movimento de uma brita.
+Você sobreviveu a uma catástrofe que marcou sua vida, como um incêndio, terremoto, ataque de dragão ou invasão inimiga. As cicatrizes ficaram, assim como o hábito de enxergar perigo em cada sombra e ruído estranho.
 
 ### Habilidades
 - [[Sistemas/Legends 4/Habilidades/Lista/Sobrevivente|Sobrevivente]].
 - [[Hipervigilante]].
 
 ### Itens
-- 60x [[Coroa|Coroas]].
+- 10x [[Coroa|Coroas]].
 - 1x [[Antidoto]].
 - 2x [[Bandagem]].
 - 1x [[Poção de Cura Pequena]].
-- 2x [[Ração]].
+- 1x [[Ração]].

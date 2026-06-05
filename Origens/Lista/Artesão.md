@@ -1,5 +1,3 @@
-[[W.I.P]]
-
 [[Origens|<- Origens]]
 
 ### Descrição
@@ -7,9 +5,10 @@ Você trabalhou em oficinas ou estúdios, criando itens manuais e aprendendo a s
 
 ### Habilidades
 - [[Sistemas/Legends 4/Habilidades/Lista/Artesão|Artesão]].
-- ???
+- [[Domínio da Oficina]].
 
 ### Itens
-- 60x [[Coroa|Coroas]].
-- 3x [[Frasco de Óleo]].
+- 40x [[Coroa|Coroas]].
+- 2x [[Frasco de Óleo]].
 - 1x [[Kit de Engenharia]].
+- 1x [[Ração]].

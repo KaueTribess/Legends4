@@ -15,7 +15,7 @@
 	- [[Mordida Natural]].
 - **[[Perícias]]:** 2 Dentre:
 	- [[Atletismo]].
-	- [[Combate]].
+	- [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate]].
 	- [[Força]].
 	- [[Acrobacia]].
 	- [[Agilidade]].

@@ -5,4 +5,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência nas [[Perícias]] [[Crença]] e [[História]].
+Recebe [[Proficiência]] nas perícias [[Crença]] e [[História]].

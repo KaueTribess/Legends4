@@ -25,7 +25,7 @@
 	- [[Crença]].
 	- [[Foco]].
 	- [[História]].
-	- [[Investigação]].
+	- [[Sistemas/Legends 4/Atributos/Perícias/Lista/Investigação]].
 	- [[Medicina]].
 	- [[Percepção]].
 	- [[Prestidigitação]].

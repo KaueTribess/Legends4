@@ -5,4 +5,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência nas [[Perícias]] [[Combate]] e [[Precisão]].
+Recebe [[Proficiência]] nas perícias [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate]] e [[Precisão]].

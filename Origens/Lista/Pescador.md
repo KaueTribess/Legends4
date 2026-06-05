@@ -9,5 +9,5 @@ Você passou grande parte do seu tempo pescando, adquirindo as perícias e técn
 
 ### Itens
 - 60x [[Coroa|Coroas]].
-- 2x [[Ração]].
+- 1x [[Ração]].
 - 1x [[Vara de Pesca]].

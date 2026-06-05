@@ -5,4 +5,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência com o elemento [[Spatium]].
+Recebe [[Proficiência]] com o elemento [[Spatium]].

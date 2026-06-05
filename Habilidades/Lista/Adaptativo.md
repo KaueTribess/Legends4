@@ -5,4 +5,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência em uma [[Perícias|Perícia]] de sua escolha.
+Recebe [[Proficiência]] em uma [[Perícias|Perícia]] de sua escolha.

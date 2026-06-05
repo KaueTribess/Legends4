@@ -5,4 +5,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência nas [[Perícias]] [[Intuição]] e [[Natureza]].
+Recebe [[Proficiência]] nas perícias [[Intuição]] e [[Natureza]].

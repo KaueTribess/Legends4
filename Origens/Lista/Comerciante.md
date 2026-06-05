@@ -8,5 +8,6 @@ Você viajou o mundo como um comerciante, fazendo negociações enquanto descobr
 - [[Negociante Nato]].
 
 ### Itens
-- 90x [[Coroa|Coroas]].
+- 80x [[Coroa|Coroas]].
 - 1x [[Mochila de Viagem]].
+- 1x [[Ração]].

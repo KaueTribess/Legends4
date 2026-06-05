@@ -5,4 +5,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência nas [[Perícias]] [[Foco]] e [[Natureza]].
+Recebe [[Proficiência]] nas perícias [[Natureza]] e [[Reflexos]].

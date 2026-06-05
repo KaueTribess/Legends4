@@ -39,10 +39,10 @@ Todo [[Personagem|personagem]] e toda [[Criatura|criatura]] são definidos por *
 
 | Atributo | Ideia central | Perícias |
 | --- | --- | --- |
-| [[Atributos/Lista/Corpo|Corpo]] | força, resistência e vigor | [[Atletismo]], [[Combate]], [[Constituição]], [[Energia]], [[Força]], [[Vitalidade]] |
+| [[Atributos/Lista/Corpo|Corpo]] | força, resistência e vigor | [[Atletismo]], [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate]], [[Constituição]], [[Energia]], [[Força]], [[Vitalidade]] |
 | [[Atributos/Lista/Destreza|Destreza]] | coordenação, reflexo e precisão | [[Acrobacia]], [[Agilidade]], [[Furtividade]], [[Precisão]], [[Prestidigitação]], [[Reflexos]] |
 | [[Atributos/Lista/Mente|Mente]] | vontade, percepção e concentração | [[Crença]], [[Determinação]], [[Espiritualismo]], [[Foco]], [[Intuição]], [[Percepção]] |
-| [[Atributos/Lista/Conhecimento|Conhecimento]] | estudo, memória e raciocínio | [[Arcanismo]], [[Engenharia]], [[História]], [[Investigação]], [[Medicina]], [[Natureza]] |
+| [[Atributos/Lista/Conhecimento|Conhecimento]] | estudo, memória e raciocínio | [[Arcanismo]], [[Engenharia]], [[História]], [[Sistemas/Legends 4/Atributos/Perícias/Lista/Investigação]], [[Medicina]], [[Natureza]] |
 | [[Atributos/Lista/Social|Social]] | carisma, influência e expressão | [[Adestramento]], [[Atuação]], [[Enganação]], [[Intimidação]], [[Performance]], [[Persuasão]] |
 
 ### Como funcionam as perícias
@@ -54,14 +54,14 @@ Todo [[Personagem|personagem]] e toda [[Criatura|criatura]] são definidos por *
 
 ### Perícias que aparecem o tempo todo
 
-- [[Combate]]: ataques corpo a corpo.
+- [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate]]: ataques corpo a corpo.
 - [[Precisão]]: ataques à distância.
 - [[Reflexos]]: esquivas e reações rápidas.
 - [[Constituição]]: resistir a venenos, dor e exaustão.
 - [[Vitalidade]]: recuperação e resistência geral.
 - [[Energia]]: reserva e controle de poder arcano.
 - [[Foco]]: manter concentração.
-- [[Percepção]] e [[Investigação]]: notar e entender o que está acontecendo.
+- [[Percepção]] e [[Sistemas/Legends 4/Atributos/Perícias/Lista/Investigação]]: notar e entender o que está acontecendo.
 
 ## Como criar um personagem
 
@@ -174,7 +174,7 @@ Um turno costuma envolver:
 
 ### Atacando
 
-- Ataques corpo a corpo normalmente usam [[Combate]].
+- Ataques corpo a corpo normalmente usam [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate]].
 - Ataques à distância normalmente usam [[Precisão]].
 - Magias e habilidades podem usar outras perícias, conforme estiver escrito no próprio efeito.
 - Um ataque acerta quando sua rolagem supera a [[Classe de Armadura]] do alvo ou a nova dificuldade criada por uma reação de esquiva.

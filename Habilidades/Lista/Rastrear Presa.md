@@ -20,6 +20,6 @@ Você também recebe uma noção aproximada da distância da presa:
 
 Essa informação não revela a rota exata, não ignora obstáculos, não identifica o cômodo, esconderijo ou ponto preciso da criatura e não substitui rolagens necessárias para seguir rastros, atravessar perigos ou encontrar passagens.
 
-Você recebe [[Vantagem]] em rolagens de [[Percepção]], [[Investigação]] ou [[Natureza]] para seguir sinais da criatura rastreável.
+Você recebe [[Vantagem]] em rolagens de [[Percepção]], [[Sistemas/Legends 4/Atributos/Perícias/Lista/Investigação]] ou [[Natureza]] para seguir sinais da criatura rastreável.
 
 Esse efeito termina caso você marque outra [[Criatura]].

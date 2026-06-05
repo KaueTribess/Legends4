@@ -5,4 +5,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência nas [[Perícias]] [[Determinação]] e [[Investigação]].
+Recebe [[Proficiência]] nas perícias [[Determinação]] e [[Sistemas/Legends 4/Atributos/Perícias/Lista/Investigação]].

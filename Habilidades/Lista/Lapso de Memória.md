@@ -5,4 +5,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Ao atingir o nível oito de personagem, recebe um [[Pontos de Habilidade|Ponto de Habilidade]] para utilizar na [[Árvore de Habilidades]].
+No [[Nível de Poder]] 8, recebe um [[Pontos de Habilidade|Ponto de Habilidade]] para utilizar na [[Árvore de Habilidades]].

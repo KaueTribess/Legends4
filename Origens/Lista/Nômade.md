@@ -8,7 +8,6 @@ Você viajou constantemente por diversas regiões sem ter um lar fixo para chama
 - [[Andarilho]].
 
 ### Itens
-- 30x [[Coroa|Coroas]].
+- 35x [[Coroa|Coroas]].
 - 5x [[Frasco de Água]].
-- 1x [[Kit de Culinária]].
 - 1x [[Ração]].

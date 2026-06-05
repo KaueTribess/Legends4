@@ -5,4 +5,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Recebe proficiência nas [[Perícias]] [[Arcanismo]] e [[História]].
+Recebe [[Proficiência]] nas perícias [[Arcanismo]] e [[História]].
