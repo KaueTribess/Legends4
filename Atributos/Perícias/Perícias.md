@@ -13,5 +13,5 @@ São especializações dentro de cada [[Atributos|Atributo]], representando comp
 	- Caso o personagem possua [[Proficiência|proficiência]] na perícia, soma também seu [[Bônus de Proficiência]] ao modificador final.
 	- O modificador final de uma perícia pode ultrapassar +5 por causa da [[Proficiência|proficiência]].
 - Exemplo:
-	- Se um personagem investir 6 pontos em [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate]], essa perícia passa a ter modificador +5.
-	- Se ele também possuir [[Proficiência|proficiência]] em [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate]], soma ainda o [[Bônus de Proficiência]] ao valor final.
+	- Se um personagem investir 6 pontos em [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate|Combate]], essa perícia passa a ter modificador +5.
+	- Se ele também possuir [[Proficiência|proficiência]] em [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate|Combate]], soma ainda o [[Bônus de Proficiência]] ao valor final.

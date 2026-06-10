@@ -27,7 +27,7 @@
 - **Ferramentas:**
 	- ...
 - **Perícias:** 2 Dentre:
-	- [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate]].
+	- [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate|Combate]].
 	- [[Constituição]].
 	- [[Determinação]].
 	- [[Força]].

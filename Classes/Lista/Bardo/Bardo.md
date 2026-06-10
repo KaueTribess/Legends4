@@ -32,7 +32,7 @@
 	- [[Furtividade]].
 	- [[História]].
 	- [[Intuição]].
-	- [[Sistemas/Legends 4/Atributos/Perícias/Lista/Investigação]].
+	- [[Sistemas/Legends 4/Atributos/Perícias/Lista/Investigação|Investigação]].
 	- [[Natureza]].
 	- [[Percepção]].
 	- [[Performance]].

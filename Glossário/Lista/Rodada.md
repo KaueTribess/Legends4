@@ -1,4 +1,16 @@
 [[Glossário|<- Glossário]]
 
 ### Descrição
-É um segmento de tempo padrão no combate durante o qual cada [[Criatura]] envolvida consegue agir uma vez. Em uma rodada, a ordem de ação é determinada pela ordem de [[Iniciativa]]. Todas as criaturas agem conforme sua posição na ordem de iniciativa, da mais rápida à mais lenta. Uma rodada dura aproximadamente 6 segundos dentro da narrativa do jogo. Após todas as criaturas agirem em uma rodada, a próxima rodada começa. O combate continua com rodadas sucessivas até que se chegue a uma resolução.
+Uma [[Rodada]] é um segmento de tempo utilizado para organizar uma cena de [[Sistemas/Legends 4/Cenas/Tipos/Combate|Combate]].
+
+Durante uma rodada, cada [[Criatura]] envolvida normalmente possui a oportunidade de realizar e encerrar um [[Turno]]. A ordem e a forma como esses turnos acontecem são determinadas pelo tipo de [[Sistemas/Legends 4/Iniciativa/Iniciativa|Iniciativa]] utilizado.
+
+Uma rodada representa aproximadamente 10 segundos dentro da narrativa, independentemente de quantas criaturas participem ou de quantas vezes o `Time Ativo` seja alterado.
+
+### Começo da Rodada
+Quando uma nova rodada começa, as criaturas recuperam as [[Ações]] que normalmente possuem em seus turnos, suas [[Reação|Reações]] e outros recursos limitados por rodada, salvo quando uma [[Regra Específica]] determinar o contrário.
+
+### Fim da Rodada
+Uma rodada termina quando todas as criaturas que ainda participam da cena encerram seus [[Turno|Turnos]].
+
+Depois disso, uma nova rodada começa seguindo a ordem e as regras do tipo de [[Sistemas/Legends 4/Iniciativa/Iniciativa|Iniciativa]] utilizado.

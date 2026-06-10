@@ -19,7 +19,7 @@
 - **Perícias:** 2 Dentre:
 	- [[Acrobacia]].
 	- [[Atletismo]].
-	- [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate]].
+	- [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate|Combate]].
 	- [[História]].
 	- [[Intimidação]].
 	- [[Intuição]].

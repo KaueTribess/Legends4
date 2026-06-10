@@ -5,7 +5,7 @@ Corpo representa a força física, resistência e vitalidade de uma [[Criatura]]
 
 #### [[Perícias]]
 - [[Atletismo]].
-- [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate]].
+- [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate|Combate]].
 - [[Constituição]].
 - [[Energia]].
 - [[Força]].

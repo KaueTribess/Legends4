@@ -37,13 +37,13 @@ Se o resultado for incerto, entra uma rolagem.
 
 Todo [[Personagem|personagem]] e toda [[Criatura|criatura]] são definidos por **5 [[Atributos/Atributos|atributos]]**, e cada atributo possui **6 [[Atributos/Perícias/Perícias|perícias]]**.
 
-| Atributo | Ideia central | Perícias |
-| --- | --- | --- |
-| [[Atributos/Lista/Corpo|Corpo]] | força, resistência e vigor | [[Atletismo]], [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate]], [[Constituição]], [[Energia]], [[Força]], [[Vitalidade]] |
-| [[Atributos/Lista/Destreza|Destreza]] | coordenação, reflexo e precisão | [[Acrobacia]], [[Agilidade]], [[Furtividade]], [[Precisão]], [[Prestidigitação]], [[Reflexos]] |
-| [[Atributos/Lista/Mente|Mente]] | vontade, percepção e concentração | [[Crença]], [[Determinação]], [[Espiritualismo]], [[Foco]], [[Intuição]], [[Percepção]] |
-| [[Atributos/Lista/Conhecimento|Conhecimento]] | estudo, memória e raciocínio | [[Arcanismo]], [[Engenharia]], [[História]], [[Sistemas/Legends 4/Atributos/Perícias/Lista/Investigação]], [[Medicina]], [[Natureza]] |
-| [[Atributos/Lista/Social|Social]] | carisma, influência e expressão | [[Adestramento]], [[Atuação]], [[Enganação]], [[Intimidação]], [[Performance]], [[Persuasão]] |
+| Atributo                       | Ideia central  | Perícias                          |                                                                                                                                                     |
+| ------------------------------ | -------------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Atributos/Lista/Corpo        | Corpo]]        | força, resistência e vigor        | [[Atletismo]], [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate\|Combate]], [[Constituição]], [[Energia]], [[Força]], [[Vitalidade]]           |
+| [[Atributos/Lista/Destreza     | Destreza]]     | coordenação, reflexo e precisão   | [[Acrobacia]], [[Agilidade]], [[Furtividade]], [[Precisão]], [[Prestidigitação]], [[Reflexos]]                                                      |
+| [[Atributos/Lista/Mente        | Mente]]        | vontade, percepção e concentração | [[Crença]], [[Determinação]], [[Espiritualismo]], [[Foco]], [[Intuição]], [[Percepção]]                                                             |
+| [[Atributos/Lista/Conhecimento | Conhecimento]] | estudo, memória e raciocínio      | [[Arcanismo]], [[Engenharia]], [[História]], [[Sistemas/Legends 4/Atributos/Perícias/Lista/Investigação\|Investigação]], [[Medicina]], [[Natureza]] |
+| [[Atributos/Lista/Social       | Social]]       | carisma, influência e expressão   | [[Adestramento]], [[Atuação]], [[Enganação]], [[Intimidação]], [[Performance]], [[Persuasão]]                                                       |
 
 ### Como funcionam as perícias
 
@@ -54,14 +54,14 @@ Todo [[Personagem|personagem]] e toda [[Criatura|criatura]] são definidos por *
 
 ### Perícias que aparecem o tempo todo
 
-- [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate]]: ataques corpo a corpo.
+- [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate|Combate]]: ataques corpo a corpo.
 - [[Precisão]]: ataques à distância.
 - [[Reflexos]]: esquivas e reações rápidas.
 - [[Constituição]]: resistir a venenos, dor e exaustão.
 - [[Vitalidade]]: recuperação e resistência geral.
 - [[Energia]]: reserva e controle de poder arcano.
 - [[Foco]]: manter concentração.
-- [[Percepção]] e [[Sistemas/Legends 4/Atributos/Perícias/Lista/Investigação]]: notar e entender o que está acontecendo.
+- [[Percepção]] e [[Sistemas/Legends 4/Atributos/Perícias/Lista/Investigação|Investigação]]: notar e entender o que está acontecendo.
 
 ## Como criar um personagem
 
@@ -123,9 +123,13 @@ Esses são os números mais importantes da ficha:
 
 ## Estrutura do combate
 
-O combate é dividido em [[Glossário/Lista/Rodada|Rodadas]].
-Em cada rodada, toda criatura age uma vez, seguindo a ordem de **Iniciativa**.
-O espaço de ação de cada criatura dentro da rodada é o seu [[Glossário/Lista/Turno|Turno]].
+O combate é dividido em [[Glossário/Lista/Rodada|Rodadas]]. Durante cada rodada, toda [[Criatura]] normalmente possui um [[Glossário/Lista/Turno|Turno]] para utilizar suas [[Ações]].
+
+A ordem e a forma como esses turnos acontecem são definidas pela [[Iniciativa/Iniciativa|Iniciativa]]. Legends 4 possui três tipos:
+
+- [[Iniciativa/Tipos/Cabo de Guerra|Iniciativa Cabo de Guerra]]: método recomendado, no qual o `Time Ativo` muda conforme falhas e decisões táticas.
+- [[Iniciativa/Tipos/Padrão|Iniciativa Padrão]]: cada criatura possui sua própria posição na ordem.
+- [[Iniciativa/Tipos/Por Time|Iniciativa por Time]]: criaturas do mesmo time agem durante o mesmo período da rodada.
 
 ### O que você normalmente pode fazer no turno
 
@@ -135,7 +139,8 @@ Um turno costuma envolver:
 - uma quantidade de [[Ações/Lista/Ação de Movimento/Ação de Movimento|Ações de Movimento]] definida por raça, [[Agilidade]], habilidades e efeitos
 - `1` [[Ações/Lista/Ação Bônus/Ação Bônus|Ação Bônus]], quando alguma habilidade, magia ou efeito permitir
 - [[Ações/Lista/Ação Livre/Ação Livre|Ações Livres]] pequenas
-- `1` [[Ações/Lista/Reação/Reação|Reação]] quando um gatilho apropriado acontecer
+
+Além disso, uma criatura normalmente possui `1` [[Ações/Lista/Reação/Reação|Reação]] por rodada. Ela pode ser utilizada dentro ou fora do próprio turno quando seu gatilho for cumprido.
 
 ### Ações padrão mais comuns
 
@@ -174,7 +179,7 @@ Um turno costuma envolver:
 
 ### Atacando
 
-- Ataques corpo a corpo normalmente usam [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate]].
+- Ataques corpo a corpo normalmente usam [[Sistemas/Legends 4/Atributos/Perícias/Lista/Combate|Combate]].
 - Ataques à distância normalmente usam [[Precisão]].
 - Magias e habilidades podem usar outras perícias, conforme estiver escrito no próprio efeito.
 - Um ataque acerta quando sua rolagem supera a [[Classe de Armadura]] do alvo ou a nova dificuldade criada por uma reação de esquiva.
@@ -277,7 +282,7 @@ Se você terminou este arquivo, os próximos melhores pontos de leitura são:
 - [[Atributos/Atributos|Atributos]] e [[Atributos/Perícias/Perícias|Perícias]] para entender a base da ficha.
 - [[Raças/Raças|Raças]], [[Origens/Origens|Origens]] e [[Classes/Classes|Classes]] para montar um personagem.
 - [[Especializações/Especializações|Especializações]] para campanhas que usem esse módulo.
-- [[Ações/Ações|Ações]] para entender o fluxo do turno.
+- [[Iniciativa/Iniciativa|Iniciativa]] e [[Ações/Ações|Ações]] para entender a ordem do combate e o fluxo dos turnos.
 - [[Habilidades/Habilidades|Habilidades]] e [[Habilidades/Árvore de Habilidades/Árvore de Habilidades|Árvore de Habilidades]] para progressão.
 - [[Criaturas/Criaturas|Criaturas]] para referência de [[Nível de Poder]], vida, dano, alcance e movimento.
 - [[Magias/Elementos/Elementos|Magias]] para conjuração.

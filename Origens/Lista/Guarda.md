@@ -10,3 +10,4 @@ Você treinou e protegeu uma comunidade, seja um pequeno vilarejo ou uma grande 
 ### Itens
 - 40x [[Coroa|Coroas]].
 - 1x [[Escudo Médio]].
+- 1x [[Ração]].
