@@ -14,8 +14,8 @@
 
 ## Estrutura de Combate
 
-- [[Glossário/Lista/Rodada|Rodada]] - Segmento de tempo padrão em combate onde cada criatura age uma vez seguindo ordem de iniciativa
-- [[Glossário/Lista/Turno|Turno]] - Porção de uma rodada onde uma criatura específica executa suas ações disponíveis
+- [[Glossário/Lista/Rodada|Rodada]] - Ciclo estruturado usado por algumas cenas para organizar ações, efeitos, desafios e recursos ao longo do tempo
+- [[Glossário/Lista/Turno|Turno]] - Momento em que uma criatura utiliza suas ações dentro de uma rodada, normalmente em cenas de combate
 
 ## Progressão
 

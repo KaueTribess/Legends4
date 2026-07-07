@@ -5,7 +5,7 @@
 
 ### Lista
 - [[Agarrar]].
-- [[Ajudar]].
+- [[Sistemas/Legends 4/Ações/Lista/Ação Padrão/Lista/Ajudar|Ajudar]].
 - [[Atacar]].
 - [[Sistemas/Legends 4/Ações/Lista/Ação Padrão/Lista/Conjurar|Conjurar]].
 - [[Correr]].

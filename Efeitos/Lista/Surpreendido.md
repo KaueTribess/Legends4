@@ -8,4 +8,5 @@
 A [[Criatura]] fica surpreendida com um ataque surpresa. 
 
 Enquanto afetada:
+- Sofre [[Desvantagem]] em rolagens de [[Iniciativa]].
 - Não pode utilizar nenhum tipo de [[Ações|Ação]].

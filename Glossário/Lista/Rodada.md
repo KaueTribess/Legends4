@@ -1,16 +1,30 @@
 [[Glossário|<- Glossário]]
 
 ### Descrição
-Uma [[Rodada]] é um segmento de tempo utilizado para organizar uma cena de [[Sistemas/Legends 4/Cenas/Tipos/Combate|Combate]].
+Uma [[Rodada]] é um segmento estruturado de tempo usado por uma cena para organizar acontecimentos em ciclos.
 
-Durante uma rodada, cada [[Criatura]] envolvida normalmente possui a oportunidade de realizar e encerrar um [[Turno]]. A ordem e a forma como esses turnos acontecem são determinadas pelo tipo de [[Sistemas/Legends 4/Iniciativa/Iniciativa|Iniciativa]] utilizado.
+Nem toda cena utiliza rodadas. Quando uma cena utiliza rodadas, o próprio tipo de cena define o que acontece durante cada uma delas, quais recursos são renovados e quando a rodada termina.
 
-Uma rodada representa aproximadamente 10 segundos dentro da narrativa, independentemente de quantas criaturas participem ou de quantas vezes o `Time Ativo` seja alterado.
+Uma rodada representa aproximadamente 10 segundos dentro da narrativa.
 
 ### Começo da Rodada
-Quando uma nova rodada começa, as criaturas recuperam as [[Ações]] que normalmente possuem em seus turnos, suas [[Reação|Reações]] e outros recursos limitados por rodada, salvo quando uma [[Regra Específica]] determinar o contrário.
+Quando uma nova rodada começa:
+- Todas as regras e efeitos de começo de rodada são resolvidos.
+- Os recursos limitados por rodada são renovados conforme definido pela cena.
+- A cena define quais ações, escolhas ou desafios estarão disponíveis naquela rodada.
+
+Em [[Combate]], isso normalmente renova as ações do turno e as [[Reação|Reações]].
+
+Em [[Perseguição]], isso normalmente permite que cada [[Criatura]] utilize 1 [[Ação de Perseguição]] e faz o [[Mestre]] definir uma nova complicação.
 
 ### Fim da Rodada
-Uma rodada termina quando todas as criaturas que ainda participam da cena encerram seus [[Turno|Turnos]].
+Uma rodada termina quando a estrutura daquela cena é resolvida.
 
-Depois disso, uma nova rodada começa seguindo a ordem e as regras do tipo de [[Sistemas/Legends 4/Iniciativa/Iniciativa|Iniciativa]] utilizado.
+Em [[Combate]], isso normalmente acontece quando todas as criaturas que ainda participam da cena encerram seus [[Turno|Turnos]].
+
+Em [[Perseguição]], isso acontece depois que `Perseguidos` e `Perseguidores` resolvem a complicação da rodada e a pontuação é atualizada.
+
+Nesse momento, todas as regras e efeitos de fim de rodada são resolvidos.
+
+Uma [[Regra Específica]] pode alterar quando uma rodada começa ou termina.
+

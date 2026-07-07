@@ -5,7 +5,7 @@
 - **Repetível:** Não.
 
 ### Descrição
-Precisa de uma boa fonte de [[Sistemas/Legends 4/Iluminação/Iluminação|Iluminação]] para manter suas energias. Recebe modificadores de acordo com a [[Sistemas/Legends 4/Iluminação/Iluminação|Iluminação]] atual em que o personagem se encontra.
+Precisa de uma boa fonte de [[Sistemas/Legends 4/Cenas/Iluminação/Iluminação|Iluminação]] para manter suas energias. Recebe modificadores de acordo com a [[Sistemas/Legends 4/Cenas/Iluminação/Iluminação|Iluminação]] atual em que o personagem se encontra.
 
 Enquanto em:
 - [[Luz Radiante]]: Diminui em 1 o valor necessário para uma [[Sistemas/Legends 4/Glossário/Lista/Rolagem|Rolagem]] de uma [[Perícias|Perícia]] ser considerada um [[Acerto Crítico]] caso tenha [[Proficiência]] nela. 

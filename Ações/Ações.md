@@ -12,6 +12,7 @@ Ações representam o que uma [[Criatura]] pode fazer durante uma [[Rodada]]. El
 ### Tipo de Ação
 - [[Ação Padrão]].
 - [[Ação de Movimento]].
+- [[Ação de Perseguição]].
 - [[Ação Bônus]].
 - [[Ação Livre]].
 - [[Reação]].
