@@ -5,7 +5,6 @@ Social representa a capacidade de comunicação, persuasão e influência de uma
 
 #### [[Perícias]]
 - [[Adestramento]].
-- [[Atuação]].
 - [[Enganação]].
 - [[Intimidação]].
 - [[Performance]].

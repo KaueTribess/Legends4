@@ -9,6 +9,6 @@
 - **Repetível:** Não.
 
 ### Descrição
-Marca uma [[Criatura]] a até 15 metros com um selo de energia sagrada. Enquanto marcada, a [[Criatura]] emana uma leve aura dourada aos olhos do dono da marca, visível mesmo através de paredes. Além disso, a [[Criatura]] pode utilizar a [[Crença]] do usuário no lugar da sua própria. 
+Marca uma [[Criatura]] a até 15 metros com um selo de energia sagrada. Enquanto marcada, a [[Criatura]] emana uma leve aura dourada aos olhos do dono da marca, visível mesmo através de paredes. Além disso, a [[Criatura]] pode utilizar o [[Espiritualismo]] do usuário no lugar do seu próprio. 
 
 O selo permanece ativo por tempo indeterminado, sendo perdido apenas caso a [[Criatura]] saia do alcance de 15 metros ou caso o dono da marca fique [[Debilitado|Debilitado]].

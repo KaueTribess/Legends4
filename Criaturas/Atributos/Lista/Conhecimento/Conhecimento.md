@@ -7,6 +7,5 @@ Conhecimento representa a inteligência, erudição e intelectualidade de uma [[
 - [[Arcanismo]].
 - [[Engenharia]].
 - [[História]].
-- [[Sistemas/Legends 4/Criaturas/Atributos/Perícias/Lista/Investigação|Investigação]].
 - [[Medicina]].
 - [[Natureza]].

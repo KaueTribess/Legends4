@@ -7,7 +7,7 @@ Origem: [[Climática]].
 - Acerto: [[Automático]].
 - Dificuldade: 8.
 - Energia: 20 [[Pontos de Energia]].
-- Perícia: [[Crença]] (5).
+- Perícia: [[Espiritualismo]] (5).
 
 ### Componentes
 - [[Somático]].

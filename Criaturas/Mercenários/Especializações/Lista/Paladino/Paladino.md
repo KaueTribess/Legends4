@@ -8,13 +8,13 @@
 
 ### Pré-requisitos
 - **[[Perícias]]:**
-	- [[Sistemas/Legends 4/Criaturas/Atributos/Perícias/Lista/Combate|Combate]](4).
-	- [[Crença]](5).
+	- [[Sistemas/Legends 4/Criaturas/Atributos/Lista/Corpo/Perícias/Combate|Combate]] (4).
+	- [[Espiritualismo]] (5).
 
 ### Status
 - **Dado de Vida:** 1d6.
 - **Pontos de Vida:** 8 + [[Vitalidade]].
-- **Pontos de Energia:** 10 + [[Energia]].
+- **Pontos de Energia:** 10 + [[Constituição]].
 
 ### Proficiências
 - **[[Armaduras]]:**
@@ -37,7 +37,7 @@
 - **[[Perícias]]:** 2 Dentre:
 	- [[Atletismo]].
 	- [[Constituição]].
-	- [[Crença]].
+	- [[Espiritualismo]].
 	- [[Determinação]].
 	- [[História]].
 	- [[Medicina]].

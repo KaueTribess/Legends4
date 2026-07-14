@@ -6,7 +6,7 @@
 ### Status
 - **Dado de Vida:** 1d6.
 - **Pontos de Vida:** 8 + [[Vitalidade]].
-- **Pontos de Energia:** 5 + [[Energia]].
+- **Pontos de Energia:** 5 + [[Constituição]].
 
 ### Proficiências
 - **Armaduras:**
@@ -17,9 +17,8 @@
 - **Ferramentas:**
 	- ...
 - **Perícias:** 2 Dentre:
-	- [[Acrobacia]].
 	- [[Atletismo]].
-	- [[Sistemas/Legends 4/Criaturas/Atributos/Perícias/Lista/Combate|Combate]].
+	- [[Sistemas/Legends 4/Criaturas/Atributos/Lista/Corpo/Perícias/Combate|Combate]].
 	- [[História]].
 	- [[Intimidação]].
 	- [[Intuição]].

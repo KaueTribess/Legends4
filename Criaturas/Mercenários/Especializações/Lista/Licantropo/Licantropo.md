@@ -6,7 +6,7 @@
 ### Status
 - **Dado de Vida:** 1d6.
 - **Pontos de Vida:** 8 + [[Vitalidade]].
-- **Pontos de Energia:** 5 + [[Energia]].
+- **Pontos de Energia:** 5 + [[Licantropo]].
 
 ### Proficiências
 - **[[Armas]]:**
@@ -15,9 +15,8 @@
 	- [[Mordida Natural]].
 - **[[Perícias]]:** 2 Dentre:
 	- [[Atletismo]].
-	- [[Sistemas/Legends 4/Criaturas/Atributos/Perícias/Lista/Combate|Combate]].
+	- [[Sistemas/Legends 4/Criaturas/Atributos/Lista/Corpo/Perícias/Combate|Combate]].
 	- [[Força]].
-	- [[Acrobacia]].
 	- [[Agilidade]].
 	- [[Reflexos]].
 	- [[Foco]].

@@ -5,13 +5,13 @@
 
 ### Pré-requisitos
 - **[[Perícias]]:**
-	- [[Sistemas/Legends 4/Criaturas/Atributos/Perícias/Lista/Combate|Combate]](5).
+	- [[Sistemas/Legends 4/Criaturas/Atributos/Lista/Corpo/Perícias/Combate|Combate]](5).
 	- [[Reflexos]](4).
 
 ### Status
 - **Dado de Vida:** 1d6.
 - **Pontos de Vida:** 8 + [[Vitalidade]].
-- **Pontos de Energia:** 5 + [[Energia]].
+- **Pontos de Energia:** 5 + [[Constituição]].
 
 ### Proficiências
 - **[[Armas]]:**
@@ -20,13 +20,11 @@
 	- [[Soqueira]].
 	- [[Soqueira com Espinhos]].
 - **[[Perícias]]:** 2 Dentre:
-	- [[Acrobacia]].
 	- [[Agilidade]].
 	- [[Atletismo]].
-	- [[Sistemas/Legends 4/Criaturas/Atributos/Perícias/Lista/Combate|Combate]].
+	- [[Sistemas/Legends 4/Criaturas/Atributos/Lista/Corpo/Perícias/Combate|Combate]].
 	- [[Constituição]].
 	- [[Determinação]].
-	- [[Energia]].
 	- [[Foco]].
 	- [[Força]].
 	- [[Intimidação]].

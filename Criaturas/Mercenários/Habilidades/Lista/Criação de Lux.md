@@ -5,6 +5,6 @@
 - **Repetível:** Não.
 
 ### Descrição
-Recebe [[Proficiência]] na perícia [[Crença]].
+Recebe [[Proficiência]] na perícia [[Espiritualismo]].
 
 Recebe [[Resistência]] a dano [[Necrótico]].

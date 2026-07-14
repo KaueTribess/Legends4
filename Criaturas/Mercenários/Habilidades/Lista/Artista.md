@@ -5,4 +5,4 @@
 - **Repetível:** Não.
 
 ### Descrição
-Recebe [[Proficiência]] nas perícias [[Atuação]] e [[Performance]].
+Recebe [[Proficiência]] nas perícias [[Performance]] e [[Prestidigitação]].

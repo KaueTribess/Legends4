@@ -5,7 +5,7 @@
 - **Repetível:** Não.
 
 ### Descrição
-Durante um [[Descanso]], caso esteja em um local cujo bioma principal ou secundário seja [[Ruína]] ou [[Urbano]], pode realizar uma rolagem de [[Intuição]] ou [[Sistemas/Legends 4/Criaturas/Atributos/Perícias/Lista/Investigação|Investigação]] com [[Sistemas/Legends 4/Glossário/Lista/Dificuldade]] 15.
+Durante um [[Descanso]], caso esteja em um local cujo bioma principal ou secundário seja [[Ruína]] ou [[Urbano]], pode realizar uma rolagem de [[Intuição]] ou [[Percepção]] com [[Sistemas/Legends 4/Glossário/Lista/Dificuldade|Dificuldade]] 15.
 
 Em caso de sucesso, encontra alimento, abrigo simples ou materiais comuns suficientes para passar o descanso sem consumir [[Ração]].
 

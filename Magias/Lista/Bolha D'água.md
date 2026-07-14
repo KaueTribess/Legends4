@@ -7,7 +7,6 @@ Um [[Encantamento]] [[Simples]] de [[Aqua]].
 - **Dificuldade:** 5.
 - **Custo:** 15 [[Coroa|Coroas]].
 
-
 ### Propriedades
 - [[Sistemas/Legends 4/Magias/Propriedades/Lista/Área/Área|Área]] ([[Esférica]], 4.5 metros).
 - [[Componentes]]:

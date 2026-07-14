@@ -8,20 +8,20 @@
 ### Status
 - **Dado de Vida:** 1d6.
 - **Pontos de Vida:** 8 + [[Vitalidade]].
-- **Pontos de Energia**: 5 + [[Energia]].
+- **Pontos de Energia**: 5 + [[Constituição]].
 
 ### Proficiências
 - **Armaduras:**
 	- [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Leve|Leve]].
-	- [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Média]].
+	- [[Sistemas/Legends 4/Itens/Armaduras/Tipos/Média|Media]].
 - **Armas:** Todas as [[Armas]].
 - **Elementos:** 2 dentre seus elementos de afinidade.
 - **Ferramentas:**
 	- ...
 - **Perícias:** 2 Dentre:
-	- [[Acrobacia]].
+	- [[Agilidade]].
 	- [[Atletismo]].
-	- [[Sistemas/Legends 4/Criaturas/Atributos/Perícias/Lista/Combate|Combate]].
+	- [[Sistemas/Legends 4/Criaturas/Atributos/Lista/Corpo/Perícias/Combate|Combate]].
 	- [[História]].
 	- [[Intimidação]].
 	- [[Intuição]].

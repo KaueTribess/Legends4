@@ -6,7 +6,7 @@
 ### Status
 - **Dado de Vida:** 1d4.
 - **Pontos de Vida:** 6 + [[Vitalidade]].
-- **Pontos de Energia:** 10 + [[Energia]].
+- **Pontos de Energia:** 10 + [[Constituição]].
 
 ### Proficiências
 - **Armaduras:**
@@ -27,10 +27,11 @@
 - **Ferramentas:**
 	- ...
 - **Perícias:** 2 Dentre:
-	- [[Acrobacia]].
+	- [[Agilidade]].
 	- [[Adestramento]].
 	- [[Arcanismo]].
 	- [[Atletismo]].
+	- [[Constituição]].
 	- [[Espiritualismo]].
 	- [[Natureza]].
 	- [[Percepção]].

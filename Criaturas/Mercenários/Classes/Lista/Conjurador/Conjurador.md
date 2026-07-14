@@ -6,7 +6,7 @@
 ### Status
 - **Dado de Vida:** 1d2.
 - **Pontos de Vida:** 4 + [[Vitalidade]].
-- **Pontos de Energia:** 15 + [[Energia]].
+- **Pontos de Energia:** 15 + [[Constituição]].
 
 ### Proficiências
 - **Armaduras:** Nenhuma
@@ -22,10 +22,9 @@
 	- ...
 - **Perícias:** 2 Dentre:
 	- [[Arcanismo]].
-	- [[Crença]].
+	- [[Espiritualismo]].
 	- [[Foco]].
 	- [[História]].
-	- [[Sistemas/Legends 4/Criaturas/Atributos/Perícias/Lista/Investigação|Investigação]].
 	- [[Medicina]].
 	- [[Percepção]].
 	- [[Prestidigitação]].
