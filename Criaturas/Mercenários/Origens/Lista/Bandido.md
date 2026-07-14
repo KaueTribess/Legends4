@@ -1,0 +1,14 @@
+[[Origens|<- Origens]]
+
+### Descrição
+Você foi criado nas sombras, possuindo um histórico de atividades ilegais, seja roubando, aplicando golpes ou fazendo parte de um grupo criminoso, você se tornou ótimo em sair de situações perigosas.
+
+### Habilidades
+- [[Sistemas/Legends 4/Criaturas/Mercenários/Habilidades/Lista/Bandido|Bandido]].
+- [[Escapista]].
+
+### Itens
+- 10x [[Coroa|Coroas]].
+- 1x [[Gazua]].
+- 1x [[Porrete]].
+- 1x [[Ração]].

@@ -1,1 +1,0 @@
-Indica que não é necessário um teste com a [[Perícias|Perícia]] da magia contra a [[Classe de Armadura]] do alvo para acerta-lo. Acertando seu alvo automaticamente caso seja bem sucedido na conjuração da magia.

@@ -1,1 +1,0 @@
-Indica que é necessário falar algo para conjurar a magia. Seja proclamar grifos antigos ou mantras religiosos.

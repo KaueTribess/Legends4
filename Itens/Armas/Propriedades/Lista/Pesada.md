@@ -1,4 +1,4 @@
-[[Propriedades|<- Propriedades]]
+[[Sistemas/Legends 4/Itens/Armas/Propriedades/Propriedades|<- Propriedades]]
 
 #### Descrição
 Indica que a criatura deva ter pelo menos nível 3 na [[Perícias|Perícia]] de [[Força]] para utilizá-la. Caso contrário recebe [[Desvantagem]] em todas as rolagens de ataque com a arma.

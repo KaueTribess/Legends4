@@ -1,7 +1,7 @@
 [[Cenas|<- Cenas]]
 
 ### Descrição
-Uma cena de Combate acontece quando duas ou mais [[Sistemas/Legends 4/Criaturas/Criaturas|Criaturas]] entram em um conflito direto no qual posicionamento, ordem de ação e uso de recursos são relevantes.
+Uma cena de Combate acontece quando duas ou mais [[Sistemas/Legends 4/Criaturas/NPCs/Criaturas|Criaturas]] entram em um conflito direto no qual posicionamento, ordem de ação e uso de recursos são relevantes.
 
 O objetivo de um combate nem sempre é derrotar todas as criaturas inimigas. Pode envolver proteger ou capturar um alvo, impedir um ritual ou sobreviver por determinado tempo.
 
@@ -15,13 +15,13 @@ Caso uma [[Criatura]] inicie a cena, a [[Ações|Ação]] que causou o início d
 ### Preparação
 Ao preparar o combate, devem ser definidos:
 - As [[Criatura|Criaturas]] participantes e os times aos quais pertencem.
-- O posicionamento inicial das [[Sistemas/Legends 4/Criaturas/Criaturas|Criaturas]].
+- O posicionamento inicial das [[Sistemas/Legends 4/Criaturas/NPCs/Criaturas|Criaturas]].
 - O [[Biomas|Bioma]] principal e possíveis biomas secundários.
 - Obstáculos, coberturas, [[Terreno Difícil|Terrenos Difíceis]] e perigos relevantes.
 - Criaturas escondidas ou que desconhecem alguma ameaça.
 
 ### Surpresa
-Durante a preparação da cena, o [[Mestre]] determina quais [[Sistemas/Legends 4/Criaturas/Criaturas|Criaturas]] perceberam a ameaça. Uma [[Criatura]] que não percebeu o conflito antes de seu início sofre o efeito [[Surpreendido]] antes das rolagens de [[Iniciativa]].
+Durante a preparação da cena, o [[Mestre]] determina quais [[Sistemas/Legends 4/Criaturas/NPCs/Criaturas|Criaturas]] perceberam a ameaça. Uma [[Criatura]] que não percebeu o conflito antes de seu início sofre o efeito [[Surpreendido]] antes das rolagens de [[Iniciativa]].
 
 ### Iniciativa
 O tipo de [[Iniciativa]] determina a ordem e a forma como as criaturas realizam seus turnos.

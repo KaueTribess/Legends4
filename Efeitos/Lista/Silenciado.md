@@ -8,4 +8,4 @@
 A [[Criatura]] fica incapaz de produzir sons. 
 
 Enquanto afetada:
-- Não pode falar ou conjurar magias com componente [[Verbal]].
+- Não pode falar ou conjurar magias com componente [[Sistemas/Legends 4/Magias/Componentes/Verbal]].

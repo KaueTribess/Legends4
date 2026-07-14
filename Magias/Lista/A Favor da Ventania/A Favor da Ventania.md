@@ -1,4 +1,4 @@
-Um [[Feitiço]] [[Intermediária|Intermediário]] de [[Sistemas/Legends 4/Magias/Elementos/Air/Air|Air]].
+Um [[Feitiço]] [[Intermediária|Intermediário]] de [[Sistemas/Legends 4/Magias/Grupos/Elementos/Air/Air|Air]].
 
 ### Atributos
 - **Acerto:** [[Automático]].

@@ -1,4 +1,4 @@
-Uma [[Conjuração]] [[Avançada]] de [[Sistemas/Legends 4/Magias/Elementos/Air/Air|Air]].
+Uma [[Conjuração]] [[Avançada]] de [[Sistemas/Legends 4/Magias/Grupos/Elementos/Air/Air|Air]].
 
 [[Buff]], [[Sistemas/Legends 4/Magias/Marcadores/Duração|Duração]], [[Sistemas/Legends 4/Magias/Marcadores/Toque|Toque]].
 
@@ -9,7 +9,7 @@ Uma [[Conjuração]] [[Avançada]] de [[Sistemas/Legends 4/Magias/Elementos/Air/
 - Perícia: [[Arcanismo]] (7).
 
 ### Componentes
-- [[Concentração]] (18).
+- [[Sistemas/Legends 4/Magias/Características/Concentração/Concentração]] (18).
 - [[Somático]].
 
 ### Descrição

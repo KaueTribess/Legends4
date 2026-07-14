@@ -1,0 +1,13 @@
+[[Origens|<- Origens]]
+
+### Descrição
+Você viajou constantemente por diversas regiões sem ter um lar fixo para chamar de seu, aprendendo a suportar viagens extensas e climas extremos.
+
+### Habilidades
+- [[Sistemas/Legends 4/Criaturas/Mercenários/Habilidades/Lista/Nômade|Nômade]].
+- [[Andarilho]].
+
+### Itens
+- 35x [[Coroa|Coroas]].
+- 5x [[Frasco de Água]].
+- 1x [[Ração]].

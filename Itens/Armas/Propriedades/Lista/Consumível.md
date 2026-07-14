@@ -1,4 +1,4 @@
-[[Propriedades|<- Propriedades]]
+[[Sistemas/Legends 4/Itens/Armas/Propriedades/Propriedades|<- Propriedades]]
 
 #### Descrição
 Indica que a arma é consumida ao realizar um ataque, não podendo ser recuperada.

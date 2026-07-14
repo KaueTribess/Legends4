@@ -10,4 +10,4 @@ A [[Criatura]] fica desatenta, não conseguindo manter seu foco.
 Enquanto afetada:
 - Sofre [[Desvantagem]] em [[Sistemas/Legends 4/Glossário/Lista/Rolagem|Rolagens]] de [[Foco]].
 - Não pode conjurar [[Conjuração|Conjurações]] e [[Ritual|Rituais]]. 
-- Caso esteja se concentrando em uma magia, deve realizar uma [[Sistemas/Legends 4/Glossário/Lista/Rolagem|Rolagem]] de [[Foco]] no início de cada um dos seus turnos para manter a [[Concentração]] ativa.
+- Caso esteja se concentrando em uma magia, deve realizar uma [[Sistemas/Legends 4/Glossário/Lista/Rolagem|Rolagem]] de [[Foco]] no início de cada um dos seus turnos para manter a [[Sistemas/Legends 4/Magias/Características/Concentração/Concentração]] ativa.

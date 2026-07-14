@@ -1,4 +1,4 @@
-Um [[Feitiço]] [[Avançada|Avançado]] de [[Sistemas/Legends 4/Magias/Elementos/Air/Air|Air]].
+Um [[Feitiço]] [[Avançada|Avançado]] de [[Sistemas/Legends 4/Magias/Grupos/Elementos/Air/Air|Air]].
 
 [[Dano]], [[Debuff]], [[Sistemas/Legends 4/Magias/Marcadores/Distância|Distância]].
 

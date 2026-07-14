@@ -1,4 +1,4 @@
-Uma [[Conjuração]] [[Intermediária]] de [[Sistemas/Legends 4/Magias/Elementos/Air/Air|Air]].
+Uma [[Conjuração]] [[Intermediária]] de [[Sistemas/Legends 4/Magias/Grupos/Elementos/Air/Air|Air]].
 Origem: [[Climática]].
 
 [[Sistemas/Legends 4/Magias/Marcadores/Cenário|Cenário]].
@@ -11,7 +11,7 @@ Origem: [[Climática]].
 
 ### Componentes
 - [[Somático]].
-- [[Verbal]].
+- [[Sistemas/Legends 4/Magias/Componentes/Verbal]].
 
 ### Descrição
 Ventos poderosos são convocados nos céus, afastando as nuvens e deixando o céu limpo e aberto, cancelando outras magias de origem [[Climática]].

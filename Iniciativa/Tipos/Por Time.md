@@ -7,8 +7,8 @@ Neste tipo, as [[Criatura|Criaturas]] envolvidas na cena de [[Sistemas/Legends 4
 Este tipo de [[Iniciativa]] pode ser utilizado em cenas de [[Sistemas/Legends 4/Cenas/Tipos/Combate|Combate]] rápidas ou em que a ordem dos times seja mais importante do que a ordem individual de cada criatura.
 
 ### Conceitos
-- **Time:** Representa um grupo de [[Sistemas/Legends 4/Criaturas/Criaturas|Criaturas]] que agem pelo mesmo lado em uma cena de [[Sistemas/Legends 4/Cenas/Tipos/Combate|Combate]].
-- **Time Ativo:** Representa o `Time` que pode agir no momento atual, permitindo que suas [[Sistemas/Legends 4/Criaturas/Criaturas|Criaturas]] utilizem suas [[Ações]].
+- **Time:** Representa um grupo de [[Sistemas/Legends 4/Criaturas/NPCs/Criaturas|Criaturas]] que agem pelo mesmo lado em uma cena de [[Sistemas/Legends 4/Cenas/Tipos/Combate|Combate]].
+- **Time Ativo:** Representa o `Time` que pode agir no momento atual, permitindo que suas [[Sistemas/Legends 4/Criaturas/NPCs/Criaturas|Criaturas]] utilizem suas [[Ações]].
 - **Representante:** Representa a [[Criatura]] que realiza a rolagem de [[Iniciativa]] do seu `Time`.
 
 ### Resolução
@@ -16,13 +16,13 @@ No início de uma cena de [[Sistemas/Legends 4/Cenas/Tipos/Combate|Combate]], ca
 
 Cada `Representante` realiza uma rolagem de 1d20 + [[Reflexos]]. Os `Times` são ordenados do maior resultado para o menor e agem seguindo essa ordem. 
 
-O `Time` com o maior resultado se torna o primeiro `Time Ativo`. Enquanto estiver ativo, as [[Sistemas/Legends 4/Criaturas/Criaturas|Criaturas]] desse `Time` podem agir usando suas [[Ações]], como [[Ação Padrão]], [[Ação de Movimento]], [[Ação Bônus]] e [[Ação Livre]].
+O `Time` com o maior resultado se torna o primeiro `Time Ativo`. Enquanto estiver ativo, as [[Sistemas/Legends 4/Criaturas/NPCs/Criaturas|Criaturas]] desse `Time` podem agir usando suas [[Ações]], como [[Ação Padrão]], [[Ação de Movimento]], [[Ação Bônus]] e [[Ação Livre]].
 
-Enquanto um `Time` for o `Time Ativo`, suas [[Sistemas/Legends 4/Criaturas/Criaturas|Criaturas]] podem agir em qualquer ordem e intercalar suas [[Ações]]. Uma [[Criatura]] pode pausar seu [[Turno]], permitir que outra [[Criatura]] do mesmo `Time` aja e retomá-lo antes que o próximo time se torne ativo.
+Enquanto um `Time` for o `Time Ativo`, suas [[Sistemas/Legends 4/Criaturas/NPCs/Criaturas|Criaturas]] podem agir em qualquer ordem e intercalar suas [[Ações]]. Uma [[Criatura]] pode pausar seu [[Turno]], permitir que outra [[Criatura]] do mesmo `Time` aja e retomá-lo antes que o próximo time se torne ativo.
 
 Uma [[Criatura]] encerra seu turno quando decide encerrá-lo ou quando não possui mais [[Ações]] disponíveis, desconsiderando [[Ação Livre|Ações Livres]] e [[Reação|Reações]].
 
-Quando todas as [[Sistemas/Legends 4/Criaturas/Criaturas|Criaturas]] do `Time Ativo` encerram seus [[Turno|Turnos]], o próximo `Time` na ordem de [[Iniciativa]] se torna ativo.
+Quando todas as [[Sistemas/Legends 4/Criaturas/NPCs/Criaturas|Criaturas]] do `Time Ativo` encerram seus [[Turno|Turnos]], o próximo `Time` na ordem de [[Iniciativa]] se torna ativo.
 
 Quando todas as criaturas do último `Time` da ordem encerram seus turnos, uma nova [[Rodada]] começa e o primeiro `Time` da ordem se torna ativo novamente.
 

@@ -1,4 +1,4 @@
-Um [[Feitiço]] [[Simples]] de [[Sistemas/Legends 4/Magias/Elementos/Air/Air|Air]].
+Um [[Feitiço]] [[Simples]] de [[Sistemas/Legends 4/Magias/Grupos/Elementos/Air/Air|Air]].
 
 [[Dano]], [[Sistemas/Legends 4/Magias/Marcadores/Distância|Distância]].
 

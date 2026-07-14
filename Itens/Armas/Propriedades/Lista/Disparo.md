@@ -1,4 +1,4 @@
-[[Propriedades|<- Propriedades]]
+[[Sistemas/Legends 4/Itens/Armas/Propriedades/Propriedades|<- Propriedades]]
 
 #### Descrição
 Indica que a arma pode disparar um projétil dos tipos de [[Munições]] indicadas ao lado da propriedade de [[Munição]]. As distâncias efetiva e máxima são mostradas entre parênteses ao lado do nome da propriedade.

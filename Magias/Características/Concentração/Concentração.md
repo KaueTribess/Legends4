@@ -1,1 +1,0 @@
-Indica que é necessário manter sua concentração para que a magia conjurada continue tendo efeito.
