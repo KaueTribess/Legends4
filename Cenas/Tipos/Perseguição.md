@@ -8,11 +8,11 @@ Esse tipo de cena não utiliza [[Iniciativa]] comum. Os envolvidos são separado
 Os `Perseguidos` sempre resolvem suas ações primeiro em cada [[Rodada]] da perseguição.
 
 ### Iniciando uma Perseguição
-Uma Perseguição pode começar quando uma cena de [[Sistemas/Legends 4/Cenas/Tipos/Combate]] se transforma em fuga.
+Uma Perseguição pode começar quando uma cena de [[Sistemas/Legends 4/Cenas/Tipos/Combate/Combate|Combate]] se transforma em fuga.
 
 Caso NPCs tentem fugir, o [[Mestre]] decide se eles possuem capacidade e motivo para isso. Se os [[Jogador|Jogadores]] decidirem persegui-los, uma cena de Perseguição começa com os [[Personagem|Personagens]] como `Perseguidores`.
 
-Caso os [[Personagem|Personagens]] queiram fugir de um combate, todos os [[Jogador|Jogadores]] envolvidos devem concordar com a retirada. Se as [[Sistemas/Legends 4/Criaturas/NPCs/Criaturas|Criaturas]] inimigas decidirem persegui-los, uma cena de Perseguição começa com os personagens como `Perseguidos`.
+Caso os [[Personagem|Personagens]] queiram fugir de um combate, todos os [[Jogador|Jogadores]] envolvidos devem concordar com a retirada. Se as [[Sistemas/Legends 4/Criaturas/Criaturas|Criaturas]] inimigas decidirem persegui-los, uma cena de Perseguição começa com os personagens como `Perseguidos`.
 
 ### Perseguidores NPCs
 Quando os [[Jogador|Jogadores]] concordam em fugir, o [[Mestre]] deve classificar os NPCs da cena como um dos tipos de perseguidor abaixo:
@@ -26,7 +26,7 @@ Uma Perseguição dura no máximo 3 [[Rodada|Rodadas]].
 
 No começo de cada rodada, o [[Mestre]] define uma complicação no caminho, como um riacho, muro, nevoeiro, multidão, terreno instável, animais bloqueando a passagem ou qualquer outro obstáculo relevante.
 
-O Mestre define qual [[Perícias|Perícia]] será usada para superar a complicação e qual será a [[Sistemas/Legends 4/Glossário/Lista/Dificuldade]]. A mesma dificuldade é usada para `Perseguidores` e `Perseguidos`.
+O Mestre define qual [[Perícias|Perícia]] será usada para superar a complicação e qual será a [[Sistemas/Legends 4/Glossário/Lista/Dificuldade|Dificuldade]]. A mesma dificuldade é usada para `Perseguidores` e `Perseguidos`.
 
 Os `Perseguidos` realizam suas rolagens primeiro. Depois, os `Perseguidores` realizam suas rolagens.
 
@@ -41,7 +41,7 @@ Esse valor considera alterações causadas por raça, habilidades, magias, efeit
 ### Carregando uma Criatura
 Uma [[Criatura]] pode carregar outra [[Criatura]] que esteja incapaz de correr por conta própria.
 
-[[Sistemas/Legends 4/Criaturas/NPCs/Criaturas|Criaturas]] carregadas não realizam rolagens contra a complicação e não contam para determinar se metade do grupo foi bem-sucedida.
+[[Sistemas/Legends 4/Criaturas/Criaturas|Criaturas]] carregadas não realizam rolagens contra a complicação e não contam para determinar se metade do grupo foi bem-sucedida.
 
 Carregar uma [[Criatura]] menor não causa penalidade.
 
@@ -52,14 +52,14 @@ Para cada categoria de tamanho acima da criatura carregadora, a penalidade aumen
 ### Ações de Perseguição
 Cada [[Criatura]] pode utilizar 1 [[Ação de Perseguição]] por rodada da perseguição.
 
-Para utilizar uma Ação de Perseguição, a [[Criatura]] realiza uma rolagem de [[Constituição]] com [[Sistemas/Legends 4/Glossário/Lista/Dificuldade]] 15. Em caso de falha, a ação ainda é realizada, mas a [[Criatura]] recebe +1 nível de [[Exaustão]] ao final da cena de Perseguição.
+Para utilizar uma Ação de Perseguição, a [[Criatura]] realiza uma rolagem de [[Constituição]] com [[Sistemas/Legends 4/Glossário/Lista/Dificuldade|Dificuldade]] 15. Em caso de falha, a ação ainda é realizada, mas a [[Criatura]] recebe +1 nível de [[Exaustão]] ao final da cena de Perseguição.
 
 ### Pontuação
 Os dois grupos começam com 0 pontos.
 
 Depois que `Perseguidos` e `Perseguidores` realizarem suas rolagens contra a complicação, cada grupo verifica seus resultados separadamente.
 
-Caso metade ou mais das [[Sistemas/Legends 4/Criaturas/NPCs/Criaturas|Criaturas]] que rolaram em um grupo seja bem-sucedida, esse grupo recebe +1 ponto.
+Caso metade ou mais das [[Sistemas/Legends 4/Criaturas/Criaturas|Criaturas]] que rolaram em um grupo seja bem-sucedida, esse grupo recebe +1 ponto.
 
 Caso contrário, esse grupo perde 1 ponto.
 
@@ -71,7 +71,7 @@ A Perseguição termina quando:
 - A terceira rodada termina.
 - Uma regra específica encerra a cena.
 
-Caso os `Perseguidores` terminem com mais pontos, eles alcançam os `Perseguidos` e uma nova cena de [[Sistemas/Legends 4/Cenas/Tipos/Combate]] começa.
+Caso os `Perseguidores` terminem com mais pontos, eles alcançam os `Perseguidos` e uma nova cena de [[Sistemas/Legends 4/Cenas/Tipos/Combate/Combate]] começa.
 
 Caso os `Perseguidos` terminem com mais pontos, eles escapam e chegam a um local seguro próximo.
 

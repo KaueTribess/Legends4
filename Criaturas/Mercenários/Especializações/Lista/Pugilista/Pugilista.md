@@ -5,7 +5,7 @@
 
 ### Pré-requisitos
 - **[[Perícias]]:**
-	- [[Sistemas/Legends 4/Criaturas/Atributos/Lista/Corpo/Perícias/Combate|Combate]](5).
+	- [[Sistemas/Legends 4/Criaturas/Atributos/Corpo/Perícias/Combate|Combate]](5).
 	- [[Reflexos]](4).
 
 ### Status
@@ -22,7 +22,7 @@
 - **[[Perícias]]:** 2 Dentre:
 	- [[Agilidade]].
 	- [[Atletismo]].
-	- [[Sistemas/Legends 4/Criaturas/Atributos/Lista/Corpo/Perícias/Combate|Combate]].
+	- [[Sistemas/Legends 4/Criaturas/Atributos/Corpo/Perícias/Combate|Combate]].
 	- [[Constituição]].
 	- [[Determinação]].
 	- [[Foco]].

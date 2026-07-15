@@ -26,6 +26,6 @@ Uma cena de Exploração pode se transformar em outro tipo de cena quando o foco
 
 Caso os personagens encontrem uma informação crucial, puzzle ou mistério importante, a cena pode se tornar uma [[Investigação]].
 
-Caso surja um conflito direto, a cena pode se tornar um [[Sistemas/Legends 4/Cenas/Tipos/Combate]].
+Caso surja um conflito direto, a cena pode se tornar um [[Sistemas/Legends 4/Cenas/Tipos/Combate/Combate]].
 
 Caso uma [[Criatura]] fuja ou os personagens precisem alcançar algo em movimento, a cena pode se tornar uma [[Perseguição]].

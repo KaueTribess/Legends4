@@ -8,7 +8,7 @@
 
 ### Pré-requisitos
 - **[[Perícias]]:**
-	- [[Sistemas/Legends 4/Criaturas/Atributos/Lista/Corpo/Perícias/Combate|Combate]] (4).
+	- [[Sistemas/Legends 4/Criaturas/Atributos/Corpo/Perícias/Combate|Combate]] (4).
 	- [[Espiritualismo]] (5).
 
 ### Status

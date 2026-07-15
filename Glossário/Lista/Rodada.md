@@ -13,14 +13,14 @@ Quando uma nova rodada começa:
 - Os recursos limitados por rodada são renovados conforme definido pela cena.
 - A cena define quais ações, escolhas ou desafios estarão disponíveis naquela rodada.
 
-Em [[Sistemas/Legends 4/Cenas/Tipos/Combate]], isso normalmente renova as ações do turno e as [[Reação|Reações]].
+Em [[Sistemas/Legends 4/Cenas/Tipos/Combate/Combate]], isso normalmente renova as ações do turno e as [[Reação|Reações]].
 
 Em [[Perseguição]], isso normalmente permite que cada [[Criatura]] utilize 1 [[Ação de Perseguição]] e faz o [[Mestre]] definir uma nova complicação.
 
 ### Fim da Rodada
 Uma rodada termina quando a estrutura daquela cena é resolvida.
 
-Em [[Sistemas/Legends 4/Cenas/Tipos/Combate]], isso normalmente acontece quando todas as criaturas que ainda participam da cena encerram seus [[Turno|Turnos]].
+Em [[Sistemas/Legends 4/Cenas/Tipos/Combate/Combate]], isso normalmente acontece quando todas as criaturas que ainda participam da cena encerram seus [[Turno|Turnos]].
 
 Em [[Perseguição]], isso acontece depois que `Perseguidos` e `Perseguidores` resolvem a complicação da rodada e a pontuação é atualizada.
 

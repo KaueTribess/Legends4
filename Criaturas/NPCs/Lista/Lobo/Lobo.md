@@ -1,4 +1,4 @@
-[[Sistemas/Legends 4/Criaturas/NPCs/Criaturas|<- Criaturas]]
+[[Sistemas/Legends 4/Criaturas/Criaturas|<- Criaturas]]
 
 > Descrição
 
@@ -16,7 +16,7 @@
 | Conhecimento       | Corpo                                                                               | Destreza                | Mente                  | Social                 |
 | ------------------ | ----------------------------------------------------------------------------------- | ----------------------- | ---------------------- | ---------------------- |
 | [[Arcanismo]]: -1  | [[Atletismo]]: -1                                                                   | [[Agilidade]]: 5        | [[Determinação]]: -1   | [[Adestramento]]: -1   |
-| [[Engenharia]]: -1 | [[Sistemas/Legends 4/Criaturas/Atributos/Lista/Corpo/Perícias/Combate\|Combate]]: 3 | **[[Furtividade]]:** 3  | [[Espiritualismo]]: -1 | [[Enganação]]: -1      |
+| [[Engenharia]]: -1 | [[Sistemas/Legends 4/Criaturas/Atributos/Corpo/Perícias/Combate\|Combate]]: 3 | **[[Furtividade]]:** 3  | [[Espiritualismo]]: -1 | [[Enganação]]: -1      |
 | [[História]]: -1   | [[Constituição]]: 1                                                                 | [[Precisão]]: -1        | [[Foco]]: -1           | **[[Intimidação]]:** 2 |
 | [[Medicina]]: -1   | [[Força]]: 0                                                                        | [[Prestidigitação]]: -1 | [[Intuição]]: -1       | [[Performance]]: -1    |
 | [[Natureza]]: -1   | [[Vitalidade]]: 4                                                                   | [[Reflexos]]: 4         | **[[Percepção]]:** 4   | [[Persuasão]]: -1      |

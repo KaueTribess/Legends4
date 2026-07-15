@@ -18,7 +18,7 @@
 	- ...
 - **Perícias:** 2 Dentre:
 	- [[Atletismo]].
-	- [[Sistemas/Legends 4/Criaturas/Atributos/Lista/Corpo/Perícias/Combate|Combate]].
+	- [[Sistemas/Legends 4/Criaturas/Atributos/Corpo/Perícias/Combate|Combate]].
 	- [[História]].
 	- [[Intimidação]].
 	- [[Intuição]].
