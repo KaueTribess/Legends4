@@ -1,4 +1,4 @@
-Uma [[Conjuração]] [[Intermediária]] de [[Sistemas/Legends 4/Magias/Grupos/Elementos/Air/Air|Air]].
+Uma [[Conjuração]] [[Intermediária]] de [[Sistemas/Legends 4/Magias/Grupos/Primaria/Elementos/Air/Air|Air]].
 Origem: [[Climática]].
 
 [[Sistemas/Legends 4/Magias/Marcadores/Cenário|Cenário]].

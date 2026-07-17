@@ -3,9 +3,6 @@
 > Músicos, atores ou contadores de histórias, estão sempre dispostos a divulgar suas narrativas, seja em conversas de bar ou em palcos para multidões. 
 > Utilizam suas magias ilusórias para criar verdadeiros espetáculos, e estão sempre em busca de novas histórias para inspirar suas próximas performances. 
 
-### Pré-requisitos
-- **[[Elementos]]:** Afinidade com [[Illusio]] ou [[Sonoriis]].
-
 ### Status
 - Dado de Vida: 1d4.
 - Pontos de Vida: 6 + [[Vitalidade]].
@@ -19,7 +16,7 @@
 	- [[Besta de Mão]].
 	- [[Dardo]].
 	- [[Rapieira]].
-- Elementos: 2 dentre seus elementos de afinidade.
+- Elementos: 1 dentre seus elementos de afinidade.
 - Ferramentas:
 	- ...
 - Perícias: 3 Dentre:

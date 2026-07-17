@@ -6,7 +6,7 @@
 
 ### Características
 - **Afinidade Elemental:**
-	- [[Sistemas/Legends 4/Magias/Grupos/Elementos/Air/Air|Air]].
+	- [[Sistemas/Legends 4/Magias/Grupos/Primaria/Elementos/Air/Air|Air]].
 	- [[Aqua]].
 	- [[Ignis]].
 	- [[Terra]].

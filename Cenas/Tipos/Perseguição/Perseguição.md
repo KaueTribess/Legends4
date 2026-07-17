@@ -1,9 +1,9 @@
 [[Cenas|<- Cenas]]
 
 ### Descrição
-Uma cena de Perseguição acontece quando um grupo de [[Criatura|Criaturas]] tenta alcançar, escapar ou manter distância de outro grupo.
+Uma cena de Perseguição acontece quando um grupo de [[Sistemas/Legends 4/Criaturas/Criaturas|Criaturas]] tenta alcançar, escapar ou manter distância de outro grupo.
 
-Esse tipo de cena não utiliza [[Iniciativa]] comum. Os envolvidos são separados em dois grupos: `Perseguidores` e `Perseguidos`.
+Esse tipo de cena não utiliza [[Sistemas/Legends 4/Cenas/Tipos/Combate/Iniciativa/Iniciativa]] comum. Os envolvidos são separados em dois grupos: `Perseguidores` e `Perseguidos`.
 
 Os `Perseguidos` sempre resolvem suas ações primeiro em cada [[Rodada]] da perseguição.
 
@@ -71,7 +71,7 @@ A Perseguição termina quando:
 - A terceira rodada termina.
 - Uma regra específica encerra a cena.
 
-Caso os `Perseguidores` terminem com mais pontos, eles alcançam os `Perseguidos` e uma nova cena de [[Sistemas/Legends 4/Cenas/Tipos/Combate/Combate]] começa.
+Caso os `Perseguidores` terminem com mais pontos, eles alcançam os `Perseguidos` e uma nova cena de [[Sistemas/Legends 4/Cenas/Tipos/Combate/Combate|Combate]] começa.
 
 Caso os `Perseguidos` terminem com mais pontos, eles escapam e chegam a um local seguro próximo.
 

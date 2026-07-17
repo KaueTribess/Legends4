@@ -23,7 +23,7 @@
 	- [[Martelo]].
 	- [[Martelo de Guerra]].
 	- [[Martelo Leve]].
-- **Elementos:** [[Vis]] e 1 dentre seus elementos de afinidade.
+- **Elementos:** 1 dentre seus elementos de afinidade.
 - **Ferramentas:**
 	- ...
 - **Perícias:** 2 Dentre:

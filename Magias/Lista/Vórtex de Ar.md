@@ -1,4 +1,4 @@
-Um [[Encantamento]] [[Intermediária|Intermediário]] de [[Sistemas/Legends 4/Magias/Grupos/Elementos/Air/Air|Air]].
+Um [[Encantamento]] [[Intermediária|Intermediário]] de [[Sistemas/Legends 4/Magias/Grupos/Primaria/Elementos/Air/Air|Air]].
 
 [[Debuff]], [[Sistemas/Legends 4/Magias/Marcadores/Toque|Toque]].
 

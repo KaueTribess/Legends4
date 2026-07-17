@@ -17,7 +17,7 @@
 	- [[Cajado]].
 	- [[Mangual]].
 	- [[Porrete]].
-- **Elementos:** 3 dentre seus elementos de afinidade.
+- **Elementos:** 2 dentre seus elementos de afinidade.
 - **Ferramentas:**
 	- ...
 - **Perícias:** 2 Dentre:

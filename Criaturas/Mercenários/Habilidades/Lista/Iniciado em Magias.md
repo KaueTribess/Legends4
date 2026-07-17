@@ -6,3 +6,5 @@
 
 ### Descrição
 Permite aprender e conjurar [[Magias]] dos seus elementos proficientes.
+
+Recebe [[Proficiência]] com o elemento [[Vis]].

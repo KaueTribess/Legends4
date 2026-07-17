@@ -1,4 +1,4 @@
-Uma [[Conjuração]] [[Avançada]] de [[Sistemas/Legends 4/Magias/Grupos/Elementos/Air/Air|Air]].
+Uma [[Conjuração]] [[Avançada]] de [[Sistemas/Legends 4/Magias/Grupos/Primaria/Elementos/Air/Air|Air]].
 
 [[Buff]], [[Sistemas/Legends 4/Magias/Marcadores/Duração|Duração]], [[Sistemas/Legends 4/Magias/Marcadores/Toque|Toque]].
 

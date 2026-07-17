@@ -38,10 +38,3 @@ As [[Ação de Movimento|Ações de Movimento]] podem ser usadas para se desloca
 Depois que todos os [[Personagem|Personagens]] usarem ou recusarem suas [[Ações]], o [[Mestre]] atualiza a situação da cena.
 
 Isso pode revelar novas informações, mudar o estado do ambiente, ativar uma consequência ou iniciar um novo ciclo de investigação, permitindo que os [[Personagem|Personagens]] recebam novas [[Ações]] para continuar investigando.
-
-### Encerrando a Investigação
-Uma cena de Investigação termina ou se transforma em outro tipo de cena quando os [[Personagem|Personagens]] encontram a informação necessária, resolvem o desafio principal, desistem da busca ou quando a cena muda de foco.
-
-Caso surja um conflito direto, a cena pode se tornar um [[Sistemas/Legends 4/Cenas/Tipos/Combate/Combate]].
-
-Caso os [[Personagem|Personagens]] voltem a interagir livremente com o ambiente, a cena pode retornar para [[Exploração]].
