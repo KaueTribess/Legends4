@@ -18,12 +18,8 @@ Ao preparar uma Investigação, o [[Mestre]] deve definir:
 - Possíveis perigos, custos ou consequências.
 - Quais [[Ações]] podem avançar a investigação.
 
-### Ordem de Ação
-No início da Investigação, os [[Personagem|Personagens]] realizam uma rolagem de [[Padrão|Iniciativa Padrão]].
-
-Essa ordem não cria [[Rodada|Rodadas]] ou [[Turno|Turnos]]. Ela apenas define a prioridade de ação entre os [[Personagem|Personagens]].
-
-Os [[Jogador|Jogadores]] podem alternar suas [[Ações]] livremente. Porém, caso um [[Personagem]] queira agir antes de outro que esteja acima dele na ordem de iniciativa, o [[Personagem]] com maior prioridade deve concordar ou realizar sua ação primeiro.
+### Iniciativa
+Após a preparação da cena, o [[Mestre]] resolve a [[Sistemas/Legends 4/Cenas/Tipos/Investigação/Iniciativa/Iniciativa|Iniciativa de Investigação]] para definir a prioridade de ação entre os [[Personagem|Personagens]].
 
 ### Ações na Investigação
 Durante uma Investigação, cada [[Personagem]] possui:

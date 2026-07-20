@@ -12,7 +12,6 @@ Ao preparar uma cena de Exploração, o [[Mestre]] pode definir:
 - Elementos importantes do ambiente.
 - Personagens, criaturas ou grupos presentes.
 - Rumores, oportunidades ou perigos visíveis.
-- Possíveis transições para outros tipos de cena.
 
 ### Durante a Exploração
 Os [[Jogador|Jogadores]] descrevem livremente o que seus [[Personagem|Personagens]] fazem.
@@ -20,12 +19,3 @@ Os [[Jogador|Jogadores]] descrevem livremente o que seus [[Personagem|Personagen
 O [[Mestre]] descreve o ambiente, responde às ações dos [[Personagem|Personagens]] e solicita [[Rolagem|Rolagens]] apenas quando houver risco, incerteza ou consequência relevante.
 
 Nem toda busca, conversa ou interação precisa de rolagem. Quando uma ação for simples, segura ou não tiver consequência importante, o [[Mestre]] pode apenas descrever o que acontece.
-
-### Encerrando a Exploração
-Uma cena de Exploração pode se transformar em outro tipo de cena quando o foco do momento mudar.
-
-Caso os personagens encontrem uma informação crucial, puzzle ou mistério importante, a cena pode se tornar uma [[Investigação]].
-
-Caso surja um conflito direto, a cena pode se tornar um [[Sistemas/Legends 4/Cenas/Tipos/Combate/Combate|Combate]].
-
-Caso uma [[Sistemas/Legends 4/Criaturas/Criaturas|Criatura]] fuja ou os personagens precisem alcançar algo em movimento, a cena pode se tornar uma [[Perseguição]].

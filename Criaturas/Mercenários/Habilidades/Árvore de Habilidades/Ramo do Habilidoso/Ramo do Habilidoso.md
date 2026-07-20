@@ -10,7 +10,7 @@ O Ramo do Habilidoso reúne habilidades gerais que representam treinamento amplo
 	- [[Conexão Arcana]].
 	- [[Iniciado em Magias]].
 	- [[Proficiência com Arma]].
-	- [[Proficiência com Armadura Média]].
-	- [[Proficiência com Armadura Pesada]].
+	- [[Proficiência com Armaduras Médias]].
+	- [[Proficiência com Armaduras Pesadas]].
 	- [[Proficiência com Elemento]].
 	- [[Proficiência com Ferramenta]].
