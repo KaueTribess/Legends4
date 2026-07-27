@@ -3,13 +3,42 @@
 [[Elementos|<- Elementos]]
 [[Primaria|<- Primaria]]
 
-| Tipos        | Simples                       | Média                    | Avançada                    |
-| ------------ | ----------------------------- | ------------------------ | --------------------------- |
-| Encantamento | [[Disparo Impulsionado]].<br> | [[Vórtex de Ar]].<br>    | ???<br>[[Lâmina de Vento]]. |
-| Feitiço      | [[Impulso Canalizado]].       | [[A Favor da Ventania]]. | [[Soco Etéreo]].            |
-| Conjuração   | [[Explosão de Ventos]].       | ???<br>[[Céu Limpo]].    | [[Corpo Nebuloso]].         |
-| Ritual       |                               | ???                      | ???                         |
+### Descrição
+...
 
+### Magias
+As magias de air são focadas em .......
+
+#### Simples:
+- [[Encantamento]]:
+	- [[Disparo Impulsionado]].
+	- ... [[Rajada Desestabilizante]] ([[Arthuriana]]).
+- [[Feitiço]]:
+	- [[Ventos Canalizados]].
+- [[Conjuração]]:
+	- [[Expansão de Ventos]].
+
+#### Intermediárias:
+- [[Encantamento]]:
+	- [[Vórtex de Ar]].
+	- ... [[Ventos Defletores]] ([[Arthuriana]]).
+- [[Feitiço]]:
+	- [[Vento em Popa]].
+- [[Conjuração]]:
+	- [[Céu Limpo]] ([[Climática]]).
+- [[Ritual]]:
+	- ...
+
+#### Avançadas:
+- [[Encantamento]]:
+	- ...
+	- [[Lâmina de Ar]] ([[Arthuriana]]).
+- [[Feitiço]]:
+	- [[Soco Pressurizado]].
+- [[Conjuração]]:
+	- [[Corpo Nebuloso]].
+- [[Ritual]]:
+	- ... [[Um Com o Ar]].
 
 
 

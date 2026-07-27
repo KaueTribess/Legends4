@@ -1,4 +1,4 @@
-[[Origens|<- Origens]]
+[[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Origens|<- Origens]]
 
 ### Descrição
 Você viveu enganando pessoas com palavras doces, truques rápidos e promessas convenientes. Entre blefes, golpes e meias verdades, poucos percebem suas intenções rápido o bastante.

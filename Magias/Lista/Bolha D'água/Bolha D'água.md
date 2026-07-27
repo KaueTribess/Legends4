@@ -14,7 +14,10 @@ Um [[Encantamento]] [[Simples]] de [[Aqua]].
 - [[Distância]] (6 metros).
 - [[Sistemas/Legends 4/Magias/Propriedades/Lista/Duração|Duração]] (1d4 rodadas).
 - [[Gestual]].
+- [[Inevitável]].
 - [[Manifestação]] ([[Projetada]]).
 
 ### Descrição
-Acumula água no formato de uma esfera entre suas mãos e a dispara na direção de um alvo a até 6 metros. Ao contato ela estoura, causando o efeito [[Molhado]] a todas as [[Criatura|Criaturas]] em uma área [[Esférica]] de 4,5 metros de diâmetro por (1d4) rodadas.
+Acumula água no formato de uma esfera entre suas mãos e a dispara na direção de um alvo a até 6 metros. 
+
+Ao contato com alguma superfície ela estoura como um grande balão cheio de água, causando o efeito [[Molhado]] a todas as [[Sistemas/Legends 4/Criaturas/Criaturas|Criaturas]] dentro de uma área [[Esférica]] de 4,5 metros por até (1d4) [[Rodada|Rodadas]].

@@ -1,4 +1,4 @@
-[[Origens|<- Origens]]
+[[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Origens|<- Origens]]
 
 ### Descrição
 Você viveu entre portos e embarcações, enfrentando tempestades, marés traiçoeiras e jornadas longe de terra firme. O mar fortaleceu seu corpo e ensinou você a manter a calma quando tudo balança.

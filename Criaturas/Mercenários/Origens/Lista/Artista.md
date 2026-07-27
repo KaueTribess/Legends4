@@ -1,4 +1,4 @@
-[[Origens|<- Origens]]
+[[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Origens|<- Origens]]
 
 ### Descrição
 Você viveu da própria arte, cativando pessoas com música, pintura, atuação, escultura ou qualquer expressão capaz de prender olhares. Seu talento ensinou você a encantar e cativar pessoas, além de transformar a atenção em oportunidade.

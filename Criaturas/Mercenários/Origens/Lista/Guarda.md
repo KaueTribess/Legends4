@@ -1,4 +1,4 @@
-[[Origens|<- Origens]]
+[[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Origens|<- Origens]]
 
 ### Descrição
 Você treinou e protegeu uma comunidade, seja um pequeno vilarejo ou uma grande cidade, estando sempre atento a ameaças e perigos iminentes para proteger seu povo.

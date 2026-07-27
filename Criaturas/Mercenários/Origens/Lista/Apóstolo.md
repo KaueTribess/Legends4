@@ -1,4 +1,4 @@
-[[Origens|<- Origens]]
+[[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Origens|<- Origens]]
 
 ### Descrição
 Você é um servo devoto a sua divindade, dedicando sua vida aos seus deveres e dogmas, o que lhe concedeu grande conhecimento na área.

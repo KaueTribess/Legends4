@@ -1,4 +1,4 @@
-[[Origens|<- Origens]]
+[[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Origens|<- Origens]]
 
 ### Descrição
 Você passou anos em ambientes selvagens, explorando o desconhecido e aprendendo a sobreviver com recursos escassos, aproveitando ao máximo o que o ambiente pode oferecer.

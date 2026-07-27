@@ -10,24 +10,24 @@ A origem não determina a personalidade do personagem, mas ajuda a explicar suas
 - **Itens:** Cada origem concede itens iniciais relacionados à sua história.
 
 ### Lista
-- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Alquimista]].
-- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Amnésico]].
-- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Apóstolo]].
-- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Artesão]].
-- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Artista]].
-- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Bandido]].
+- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Alquimista|Alquimista]].
+- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Amnésico|Amnésico]].
+- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Apóstolo|Apóstolo]].
+- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Artesão|Artesão]].
+- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Artista|Artista]].
+- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Bandido|Bandido]].
 - [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Charlatão|Charlatão]].
-- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Comerciante]].
-- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Estudioso]].
-- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Explorador]].
-- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Fazendeiro]].
-- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Guarda]].
+- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Comerciante|Comerciante]].
+- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Estudioso|Estudioso]].
+- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Explorador|Explorador]].
+- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Fazendeiro|Fazendeiro]].
+- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Guarda|Guarda]].
 - [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Marinheiro|Marinheiro]].
-- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Nobre]].
-- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Nômade]].
+- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Nobre|Nobre]].
+- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Nômade|Nômade]].
 - [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Ocultista|Ocultista]].
 - [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Operário|Operário]].
 - [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Pária|Pária]].
-- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Pescador]].
-- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Sobrevivente]].
-- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Soldado]].
+- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Pescador|Pescador]].
+- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Sobrevivente|Sobrevivente]].
+- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Lista/Soldado|Soldado]].

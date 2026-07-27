@@ -1,4 +1,4 @@
-[[Origens|<- Origens]]
+[[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Origens|<- Origens]]
 
 ### Descrição
 Você viveu à margem da sociedade, rejeitado, esquecido ou tratado como indesejado. Sem proteção ou conforto, aprendeu a ler intenções, evitar problemas e sobreviver com quase nada.

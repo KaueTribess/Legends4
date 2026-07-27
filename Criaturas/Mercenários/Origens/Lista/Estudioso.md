@@ -1,4 +1,4 @@
-[[Origens|<- Origens]]
+[[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Origens|<- Origens]]
 
 ### Descrição
 Você é estudioso e erudito, dedicou a maior parte da sua vida aos estudos, onde acumulou grande conhecimento sobre história e sobre o arcano.

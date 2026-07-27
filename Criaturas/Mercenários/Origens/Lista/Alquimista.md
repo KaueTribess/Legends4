@@ -1,4 +1,4 @@
-[[Origens|<- Origens]]
+[[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Origens|<- Origens]]
 
 ### Descrição
 Você trabalhou em laboratórios e estudou diversos alquimistas, aprendendo a criar poções, cremes e medicamentos com diversas matérias-primas.

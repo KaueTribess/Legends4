@@ -1,4 +1,4 @@
-[[Origens|<- Origens]]
+[[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Origens|<- Origens]]
 
 ### Descrição
 Você sobreviveu a uma catástrofe que marcou sua vida, como um incêndio, terremoto, ataque de dragão ou invasão inimiga. As cicatrizes ficaram, assim como o hábito de enxergar perigo em cada sombra e ruído estranho.

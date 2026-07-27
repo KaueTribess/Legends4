@@ -1,4 +1,4 @@
-[[Origens|<- Origens]]
+[[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Origens|<- Origens]]
 
 ### Descrição
 Você se dedicou aos ensinamentos de um culto, seja como membro direto ou seguindo escrituras em um Grimório antigo. Aprendeu símbolos antigos, leu sobre rituais poderosos e aprofundou seu conhecimento sobre aquilo que poucos ousam investigar.

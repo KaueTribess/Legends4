@@ -1,4 +1,4 @@
-[[Origens|<- Origens]]
+[[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Origens|<- Origens]]
 
 ### Descrição
 Você tem memórias confusas sobre seu passado, onde tudo é turvo e nada é uma certeza, mas está disposto a investigar suas origens e desvendar os mistérios do seu passado.

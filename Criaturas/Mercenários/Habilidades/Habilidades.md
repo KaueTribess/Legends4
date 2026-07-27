@@ -25,5 +25,5 @@ Caso todas as escolhas possíveis já tenham sido adquiridas, a habilidade não 
 - [[Raças]] concedem habilidades raciais.
 - [[Classes]] concedem habilidades conforme o [[Nível de Classe]].
 - [[Especializações]] concedem habilidades conforme o [[Nível de Especialização]].
-- [[Origens]] concedem habilidades ligadas ao passado do personagem.
+- [[Sistemas/Legends 4/Criaturas/Mercenários/Origens/Origens]] concedem habilidades ligadas ao passado do personagem.
 - [[Árvore de Habilidades]] permite adquirir habilidades adicionais com [[Pontos de Habilidade]].
