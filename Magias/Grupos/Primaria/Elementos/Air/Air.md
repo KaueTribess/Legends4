@@ -4,15 +4,14 @@
 [[Primaria|<- Primaria]]
 
 ### Descrição
-...
+Air é focado em .......
 
 ### Magias
-As magias de air são focadas em .......
 
 #### Simples:
 - [[Encantamento]]:
 	- [[Disparo Impulsionado]].
-	- ... [[Rajada Desestabilizante]] ([[Arthuriana]]).
+	- [[Rajada Desestabilizante]] ([[Arthuriana]]).
 - [[Feitiço]]:
 	- [[Ventos Canalizados]].
 - [[Conjuração]]:
@@ -21,7 +20,7 @@ As magias de air são focadas em .......
 #### Intermediárias:
 - [[Encantamento]]:
 	- [[Vórtex de Ar]].
-	- ... [[Ventos Defletores]] ([[Arthuriana]]).
+	- [[Ventos Defletores]] ([[Arthuriana]]).
 - [[Feitiço]]:
 	- [[Vento em Popa]].
 - [[Conjuração]]:
@@ -38,7 +37,7 @@ As magias de air são focadas em .......
 - [[Conjuração]]:
 	- [[Corpo Nebuloso]].
 - [[Ritual]]:
-	- ... [[Um Com o Ar]].
+	- [[Um Com o Ar]].
 
 
 

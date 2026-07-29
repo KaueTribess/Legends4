@@ -9,7 +9,7 @@ Um [[Feitiço]] [[Intermediária|Intermediário]] de [[Sistemas/Legends 4/Magias
 
 ### Propriedades
 - [[Concentração]] (14).
-- [[Duração]] (2d6 + [[Bônus de Proficiência|BP]] [[Rodada|Rodadas]])
+- [[Duração]] (1d6 + [[Bônus de Proficiência|BP]] [[Rodada|Rodadas]])
 - [[Gestual]].
 - [[Inevitável]].
 - [[Manifestação]] ([[Emanada]]).

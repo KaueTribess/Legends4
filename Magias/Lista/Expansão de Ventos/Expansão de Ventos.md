@@ -9,7 +9,7 @@ Uma [[Conjuração]] [[Simples]] de [[Sistemas/Legends 4/Magias/Grupos/Primaria/
 
 ### Propriedades
 - [[Sistemas/Legends 4/Magias/Propriedades/Lista/Área/Área|Área]] ([[Esférica]], 7.5 metros).
-- [[Contornável]] ([[Atletismo]], 8 + Arcanismo).
+- [[Contornável]] ([[Atletismo]], 8 + [[Arcanismo]]).
 - [[Gestual]].
 - [[Inevitável]].
 - [[Manifestação]] ([[Projetada]]).

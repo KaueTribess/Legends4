@@ -9,7 +9,7 @@ Um [[Feitiço]] [[Simples]] de [[Sistemas/Legends 4/Magias/Grupos/Primaria/Eleme
 
 ### Propriedades
 - [[Sistemas/Legends 4/Magias/Propriedades/Lista/Área/Área|Área]] ([[Linha]], 4.5 metros).
-- [[Contornável]] ([[Atletismo]], 6 + Arcanismo).
+- [[Contornável]] ([[Atletismo]], 6 + [[Arcanismo]]).
 - [[Gestual]].
 - [[Inevitável]].
 - [[Manifestação]] ([[Projetada]]).
